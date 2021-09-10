@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://stackoverflow.com/questions/28273223/import-from-sql-file-to-cassandra-table?rq=1#:~:text=2%20Answers&amp;text=Save%20the%20file%20on%20the,keyspace%20name%3E%20on%20that%20node.&amp;text=You%20can%20use%20the%20SOURCE,you%20launched%20the%20cqlsh%20command</string>
+</dict>
+</plist>

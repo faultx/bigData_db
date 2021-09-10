@@ -1,0 +1,1156 @@
+Now Tracing is enabled
+
+ id     | a  | b                                                       | c                    | d                      | e  | f
+--------+----+---------------------------------------------------------+----------------------+------------------------+----+---
+ 870550 | ES |                                        Ribera (Pizarra) |            Andalucia |                 Málaga | MA | 4
+ 478198 | ES |                                                 Belhoco |             Canarias | Santa Cruz de Tenerife | TF | 3
+ 421105 | ES |                                                 Berfull | Comunidad Valenciana |               Valencia |  V | 4
+ 472890 | ES |                                    Igrexario, O (Marin) |              Galicia |             Pontevedra | PO | 1
+ 668155 | ES |                                    Gallegos De Sobrinos |      Castilla - Leon |                  Ávila | AV | 4
+ 965958 | ES |                                  Quintas (Santo Estevo) |              Galicia |               A Coruña |  C | 3
+ 172138 | ES |                                     Paredes De Buitrago |               Madrid |                 Madrid |  M | 4
+ 284016 | ES |                                                    Rada |              Navarra |                Navarra | NA | 1
+  86607 | ES |                                      Barrios De La Vega |      Castilla - Leon |               Palencia |  P | 4
+  68817 | ES |                                 Santo Andre (Trasmiras) |              Galicia |                Ourense | OR | 3
+ 105555 | ES |                                                 Fragosa |          Extremadura |                Cáceres | CC | 4
+ 412813 | ES |                                              Cancela, A |              Galicia |                Ourense | OR | 3
+ 279894 | ES |                                              Ollobarren |              Navarra |                Navarra | NA | 4
+ 861967 | ES |                                           La Veguetilla |             Canarias |             Las Palmas | GC | 3
+  85623 | ES |                                                  Pineda |             Asturias |               Asturias |  O | 4
+ 671492 | ES |                                                Acardece |             Canarias | Santa Cruz de Tenerife | TF | 4
+ 568615 | ES |                                           Villardejusto |             Asturias |               Asturias |  O | 4
+  30474 | ES |                                                 La Faja | Comunidad Valenciana |               Alicante |  A | 3
+ 867327 | ES |                                  Cecebre (San Salvador) |              Galicia |               A Coruña |  C | 4
+ 977401 | ES |                                                  Oñardi |             Asturias |               Asturias |  O | 3
+ 839798 | ES |                                         Padilla De Hita | Castilla - La Mancha |            Guadalajara | GU | 4
+  16690 | ES |                                     Llamas De La Ribera |      Castilla - Leon |                   León | LE | 4
+  29720 | ES |                                                   Ascoy |               Murcia |                 Murcia | MU | 1
+ 874983 | ES |                                                 Rodonya |             Cataluna |              Tarragona |  T | 4
+ 873492 | ES |                              Collada, La (Pola De Lena) |             Asturias |               Asturias |  O | 4
+ 286896 | ES |                      Casas Del Señor / Cases Del Senyor | Comunidad Valenciana |               Alicante |  A | 3
+ 874241 | ES |                                                   Taull |             Cataluna |                 Lleida |  L | 4
+ 871740 | ES |                                        Villar (Carreño) |             Asturias |               Asturias |  O | 4
+ 469512 | ES |                                  Vilanova D'Escornalbou |             Cataluna |              Tarragona |  T | 4
+ 868255 | ES |                                                  Torbeo |              Galicia |                   Lugo | LU | 4
+ 387209 | ES |                                            Sol Del Este | Comunidad Valenciana |               Alicante |  A | 1
+ 471372 | ES |                  Rua Alta (Santo Estevo De Perlio-Fene) |              Galicia |               A Coruña |  C | 3
+ 176385 | ES |                                 Vilarrube (San Martiño) |              Galicia |               A Coruña |  C | 1
+ 353290 | ES |                                      Fraga, A (Vincios) |              Galicia |             Pontevedra | PO | 4
+ 769040 | ES |                                                La Muela |      Castilla - Leon |                  Soria | SO | 4
+ 217102 | ES |                                                 Revilla |      Castilla - Leon |                   León | LE | 3
+ 670987 | ES |                                      Villar De Corrales |      Castilla - Leon |                   León | LE | 4
+  85969 | ES |                                  Sierra, La (Valdaliga) |            Cantabria |              Cantabria |  S | 3
+ 863158 | ES |                              Santa Liestra Y San Quilez |               Aragon |                 Huesca | HU | 4
+ 764228 | ES |                                    Castrillo Matajudios |      Castilla - Leon |                 Burgos | BU | 4
+ 962318 | ES |                                                Fontanar |            Andalucia |                   Jaén |  J | 4
+ 211654 | ES |                                                  Morana |             Asturias |               Asturias |  O | 3
+ 473700 | ES |                             Pena (Santa Maria) (Sarria) |              Galicia |                   Lugo | LU | 1
+ 170447 | ES |                                    Rellas (San Martiño) |              Galicia |             Pontevedra | PO | 1
+ 675224 | ES | Pontoibo (Santa Maria De Pontes De Garcia Rodriguez,As) |              Galicia |               A Coruña |  C | 1
+ 257185 | ES |                                  Usall (Ayto Porqueres) |             Cataluna |                 Girona | GI | 3
+ 574210 | ES |                                                 Costera |               Murcia |                 Murcia | MU | 3
+ 672211 | ES |                       Fuente San Esteban, La (Estacion) |      Castilla - Leon |              Salamanca | SA | 1
+  16634 | ES |                                            Rebolledillo |      Castilla - Leon |                 Burgos | BU | 3
+ 385805 | ES |                                                 Axkoeta |           Pais Vasco |                  Álava | VI | 4
+ 968580 | ES |                                                 Brañuas |             Asturias |               Asturias |  O | 4
+ 178136 | ES |                                   Montenegro De Cameros |      Castilla - Leon |                  Soria | SO | 4
+ 173148 | ES |                                            Santalokadia |              Navarra |                Navarra | NA | 3
+ 874043 | ES |                                              Fondarella |             Cataluna |                 Lleida |  L | 4
+ 275415 | ES |                                              Entrecinsa |              Galicia |                Ourense | OR | 4
+ 321073 | ES |                                     Reinante (Santiago) |              Galicia |                   Lugo | LU | 1
+  86225 | ES |                                         La Cueva De Roa |      Castilla - Leon |                 Burgos | BU | 4
+ 367715 | ES |                                       Bola, A (Capital) |              Galicia |                Ourense | OR | 3
+ 577318 | ES |                                      Quintanar De Rioja |             La Rioja |               La Rioja | LO | 4
+ 840458 | ES |                                               La Mimbre |             Canarias |             Las Palmas | GC | 3
+ 280830 | ES |                                       Emerando (Meñaka) |           Pais Vasco |                Vizcaya | BI | 4
+ 155800 | ES |                                                 Valleya |             Asturias |               Asturias |  O | 3
+  17048 | ES |                                       Revilla (Orejana) |      Castilla - Leon |                Segovia | SG | 3
+ 766160 | ES |                                                Tabladas |      Castilla - Leon |                   León | LE | 4
+ 959424 | ES |                                        El Saltador Alto |            Andalucia |                Almería | AL | 3
+ 872568 | ES |                                                Inguanzo |             Asturias |               Asturias |  O | 4
+ 172228 | ES |                                               Valdemoro |               Madrid |                 Madrid |  M | 4
+ 172668 | ES |                                                 Añezcar |              Navarra |                Navarra | NA | 4
+ 963750 | ES |                                                 La Cuba |               Aragon |                 Teruel | TE | 3
+ 960383 | ES |                                                  Jayena |            Andalucia |                Granada | GR | 4
+ 844322 | ES |                                        Vespella De Gaia |             Cataluna |              Tarragona |  T | 4
+  69069 | ES |                                       Meavia (San Xoan) |              Galicia |             Pontevedra | PO | 1
+ 104427 | ES |                                    Vilanova De Bellpuig |             Cataluna |                 Lleida |  L | 4
+ 218374 | ES |                                       La Dueña De Abajo |      Castilla - Leon |              Salamanca | SA | 4
+ 415993 | ES |                                            Torre Blanca |               Murcia |                 Murcia | MU | 3
+ 256129 | ES |                                               Barcelona |             Cataluna |              Barcelona |  B | 4
+ 179255 | ES |                                            Fuentelapeña |      Castilla - Leon |                 Zamora | ZA | 4
+ 674036 | ES |                                            Robledollano |          Extremadura |                Cáceres | CC | 4
+ 572922 | ES |                                     Pobladura De Somoza |      Castilla - Leon |                   León | LE | 4
+ 863098 | ES |                                 San Martin De La Solana |               Aragon |                 Huesca | HU | 3
+ 482902 | ES |                                  Cumbraos (Santa Maria) |              Galicia |               A Coruña |  C | 3
+  17400 | ES |                                        Viso Del Marques | Castilla - La Mancha |            Ciudad Real | CR | 4
+ 469296 | ES |                                                  Solans |             Cataluna |                 Lleida |  L | 1
+ 963050 | ES |                                        Torres De Montes |               Aragon |                 Huesca | HU | 4
+ 179363 | ES |                                                 Hedroso |      Castilla - Leon |                 Zamora | ZA | 4
+ 105989 | ES |                                                  Oballo |             Asturias |               Asturias |  O | 4
+ 477546 | ES |                    Huerta, La (Mutxamel) (Urbanizacion) | Comunidad Valenciana |               Alicante |  A | 4
+ 108988 | ES |                                               Grandival |      Castilla - Leon |                 Burgos | BU | 4
+ 469657 | ES |                                                 Periedo |            Cantabria |              Cantabria |  S | 4
+ 873950 | ES |                                       Fabal (Castropol) |             Asturias |               Asturias |  O | 3
+ 960005 | ES |                                     Castillo De Bayuela | Castilla - La Mancha |                 Toledo | TO | 4
+ 670904 | ES |                                           Rosa Del Taro |             Canarias |             Las Palmas | GC | 3
+  69555 | ES |                                        Berroya (Pueblo) |              Navarra |                Navarra | NA | 3
+ 414289 | ES |                                            Canido (Oia) |              Galicia |             Pontevedra | PO | 3
+ 106331 | ES |                                        Valle De Candamo |             Asturias |               Asturias |  O | 4
+ 868206 | ES |                                               Vega Muro |             Asturias |               Asturias |  O | 3
+ 811644 | ES |                                         Colloto (Siero) |             Asturias |               Asturias |  O | 3
+ 458128 | ES |                                              Los Dioses |            Andalucia |                 Málaga | MA | 3
+ 217390 | ES |                                           Valdecastillo |      Castilla - Leon |                   León | LE | 4
+ 176781 | ES |                                     Corneda (San Pedro) |              Galicia |               A Coruña |  C | 3
+ 967504 | ES |                                         Carcarosa |             Asturias |    Asturias |  O | 3
+ 383597 | ES |                                          Beorburu |              Navarra |     Navarra | NA | 4
+ 573406 | ES |                               Raxo (San Gregorio) |              Galicia |  Pontevedra | PO | 3
+ 282468 | ES | Santa Eularia Del Riu (Buenavista) (Urbanitzacio) |             Baleares |    Baleares | PM | 3
+ 170103 | ES |                                Bouza, A (Ourense) |              Galicia |     Ourense | OR | 4
+ 960734 | ES |                                             Celin |            Andalucia |     Almería | AL | 4
+ 674503 | ES |                                 Paterna De Madera | Castilla - La Mancha |    Albacete | AB | 4
+  86455 | ES |                                   Chozas De Abajo |      Castilla - Leon |        León | LE | 4
+ 670063 | ES |                                       Moncalvillo |      Castilla - Leon |      Burgos | BU | 4
+ 575599 | ES |                                      Valduerteles |      Castilla - Leon |       Soria | SO | 4
+ 965448 | ES |               Armuño (San Xoan De Lubre-Bergondo) |              Galicia |    A Coruña |  C | 1
+ 102920 | ES |                                 El Sitio De Abajo |             Canarias |  Las Palmas | GC | 3
+  29404 | ES |                                 Requeixo (Arauxo) |              Galicia |     Ourense | OR | 1
+ 385385 | ES |                                           Zañartu |           Pais Vasco |   Guipúzcoa | SS | 4
+ 413005 | ES |                                           Lama Ma |              Galicia |     Ourense | OR | 3
+ 171453 | ES |                         Teror (Capital Municipal) |             Canarias |  Las Palmas | GC | 3
+ 369791 | ES |                             Sant Joan De Labritja |             Baleares |    Baleares | PM | 4
+ 470370 | ES |                               Feilas (Vilardevos) |              Galicia |     Ourense | OR | 3
+ 862979 | ES |                            Sant Quinti De Mediona |             Cataluna |   Barcelona |  B | 4
+ 867771 | ES |                            Santiago De Compostela |              Galicia |    A Coruña |  C | 4
+ 670903 | ES |                            Villafranca Del Bierzo |      Castilla - Leon |        León | LE | 4
+ 471289 | ES |                              Villanueva De Gumiel |      Castilla - Leon |      Burgos | BU | 4
+  86785 | ES |                           Castillejo Martin Viejo |      Castilla - Leon |   Salamanca | SA | 4
+  87067 | ES |                                           Paramio |      Castilla - Leon |      Zamora | ZA | 4
+ 867175 | ES |                             Beseño (San Cristovo) |              Galicia |    A Coruña |  C | 1
+ 386453 | ES |                              Almazarica (Caserio) | Comunidad Valenciana |    Alicante |  A | 4
+ 870585 | ES |                       Torrecuadrada De Los Valles | Castilla - La Mancha | Guadalajara | GU | 4
+ 469573 | ES |                                             Bejes |            Cantabria |   Cantabria |  S | 4
+ 879051 | ES |                            Budian (Santa Eulalia) |              Galicia |        Lugo | LU | 1
+ 866478 | ES |                             Areñes, Les (Llanera) |             Asturias |    Asturias |  O | 3
+  29808 | ES |                          Pino Alto (Urbanizacion) |               Madrid |      Madrid |  M | 4
+ 575827 | ES |                                         Torresuso |      Castilla - Leon |       Soria | SO | 4
+ 961295 | ES |                              Canillas De Aceituno |            Andalucia |      Málaga | MA | 4
+ 473694 | ES |                               Canteras (Canteras) |               Murcia |      Murcia | MU | 4
+ 286032 | ES |                                    Santa Engracia |             La Rioja |    La Rioja | LO | 4
+ 965101 | ES |                                           Remoria |             Asturias |    Asturias |  O | 3
+ 862147 | ES |                                           Chirino |             Canarias |  Las Palmas | GC | 1
+ 473868 | ES |                      Labrada (San Pedro) (Abadin) |              Galicia |        Lugo | LU | 3
+ 866644 | ES |                             Peñarroya-Pueblonuevo |            Andalucia |     Córdoba | CO | 4
+ 963672 | ES |                                            Inclan |             Asturias |    Asturias |  O | 4
+ 866679 | ES |                               Tallara (San Pedro) |              Galicia |    A Coruña |  C | 4
+ 588998 | ES |                                               Ola |               Aragon |      Huesca | HU | 4
+ 687628 | ES |                              Castillejo De Yeltes |      Castilla - Leon |   Salamanca | SA | 3
+ 966936 | ES |                               Collada, La (Siero) |             Asturias |    Asturias |  O | 3
+ 175435 | ES |                               Villafeliz De Babia |      Castilla - Leon |        León | LE | 3
+  69157 | ES |                         Couto, O (San Bartolomeu) |              Galicia |  Pontevedra | PO | 1
+ 174413 | ES |                                San Juan De Ortega |      Castilla - Leon |      Burgos | BU | 4
+ 965023 | ES |               Granda, La (Castrillon) (Viviendas) |             Asturias |    Asturias |  O | 3
+ 475074 | ES |                                            Ayechu |              Navarra |     Navarra | NA | 3
+ 669931 | ES |                                        Peñahorada |      Castilla - Leon |      Burgos | BU | 4
+ 593374 | ES |                                  Ricabo (Bimenes) |             Asturias |    Asturias |  O | 4
+  29794 | ES |                                            Madrid |               Madrid |      Madrid |  M | 4
+  30518 | ES |                             Atzeneta Del Maestrat | Comunidad Valenciana |   Castellón | CS | 1
+ 961595 | ES |                                        Castellazo |               Aragon |      Huesca | HU | 4
+ 867162 | ES |                                        Cuetoaleos |             Asturias |    Asturias |  O | 3
+ 104795 | ES |                                             Eller |             Cataluna |      Lleida |  L | 4
+ 415969 | ES |                       Estrella Mar (Urbanizacion) |               Murcia |      Murcia | MU | 4
+ 864790 | ES |                        Santullano De Las Regueras |             Asturias |    Asturias |  O | 4
+  16944 | ES |                                           Ciperez |      Castilla - Leon |   Salamanca | SA | 4
+ 173391 | ES |                                     Armentera, L' |             Cataluna |      Girona | GI | 4
+ 690232 | ES |                                 Castillejo-Sierra | Castilla - La Mancha |      Cuenca | CU | 4
+ 868071 | ES |                               Xuño (Santa Mariña) |              Galicia |    A Coruña |  C | 1
+ 568578 | ES |                            Figar, La (El Entrego) |             Asturias |    Asturias |  O | 4
+ 689740 | ES |                                             Breto |      Castilla - Leon |      Zamora | ZA | 4
+ 157660 | ES |                                           Becedas |      Castilla - Leon |       Ávila | AV | 4
+  86219 | ES |                                            Pangua |      Castilla - Leon |      Burgos | BU | 4
+ 590834 | ES |                                 San Pedro De Nora |             Asturias |    Asturias |  O | 4
+ 387593 | ES |                                        Corcolilla | Comunidad Valenciana |    Valencia |  V | 4
+ 418165 | ES |                                            Loiola |           Pais Vasco |     Vizcaya | BI | 4
+ 593134 | ES |                                           Refurao |             Asturias |    Asturias |  O | 3
+ 567867 | ES |                            Ribeiro, O (Corvillon) |              Galicia |  Pontevedra | PO | 1
+ 575995 | ES |                                          La Zarza |      Castilla - Leon |  Valladolid | VA | 4
+ 868567 | ES |                      Antas De Ulla (Casco Urbano) |              Galicia |        Lugo | LU | 1
+ 673459 | ES |                             Aldehuela De Periañez |      Castilla - Leon |       Soria | SO | 4
+ 168795 | ES |                             Barca De Barbantes, A |              Galicia |     Ourense | OR | 3
+ 812748 | ES |                                        Sabudiello |             Asturias |    Asturias |  O | 3
+  86233 | ES |                                        Torrepadre |      Castilla - Leon |      Burgos | BU | 4
+ 968823 | ES |                                           Fustans |              Galicia |     Ourense | OR | 4
+ 575830 | ES |                                              Mañu |           Pais Vasco |     Vizcaya | BI | 3
+ 173088 | ES |                                           Gaztelu |              Navarra |     Navarra | NA | 4
+ 414925 | ES |                        Rebordans (San Bartolomeu) |              Galicia |  Pontevedra | PO | 1
+ 769472 | ES |                                 Otero De Sariegos |      Castilla - Leon |      Zamora | ZA | 4
+ 156880 | ES |                        San Vitores (Medio Cudeyo) |            Cantabria |   Cantabria |  S | 3
+ 863207 | ES |                             Castellar De La Selva |             Cataluna |      Girona | GI | 4
+ 473269 | ES |                                Pedrosa De La Vega |      Castilla - Leon |    Palencia |  P | 4
+ 216286 | ES |                                        Hortiguela |      Castilla - Leon |      Burgos | BU | 4
+ 686920 | ES |                                 Pradanos De Ojeda |      Castilla - Leon |    Palencia |  P | 4
+  17162 | ES |                                             Layna |      Castilla - Leon |       Soria | SO | 4
+ 966778 | ES |                          Pandiella (Linares-Lena) |             Asturias |    Asturias |  O | 4
+ 667555 | ES |                                          Lamadrid |            Cantabria |   Cantabria |  S | 4
+ 570819 | ES |                                            Bilbao |           Pais Vasco |     Vizcaya | BI | 4
+ 104963 | ES |                                    Parcelas Plana |             Cataluna |   Tarragona |  T | 3
+ 384629 | ES |                                       El Ventorro |           Pais Vasco |     Vizcaya | BI | 3
+ 960450 | ES |                                         Bancalejo |            Andalucia |     Almería | AL | 4
+  16226 | ES |                                            Cartes |            Cantabria |   Cantabria |  S | 4
+ 870136 | ES |                           Santa Eulalia De Morcin |             Asturias |    Asturias |  O | 3
+ 162568 | ES |                             Quintanilla De Arriba |      Castilla - Leon |  Valladolid | VA | 4
+ 176352 | ES |                              Cruceiro, O (Perlio) |              Galicia |    A Coruña |  C | 4
+ 576559 | ES |                             San Martin De Pedroso |      Castilla - Leon |      Zamora | ZA | 4
+ 674407 | ES |                              Pozuelo De Vidriales |      Castilla - Leon |      Zamora | ZA | 4
+ 481078 | ES |                     Mar De Cunit (Camping) |             Cataluna |   Tarragona |  T | 3
+ 959711 | ES |                                  Montecote |            Andalucia |       Cádiz | CA | 3
+ 685120 | ES |                                      Riaño |      Castilla - Leon |      Burgos | BU | 4
+  68881 | ES |                           Vilaboa (Paizas) |              Galicia |     Ourense | OR | 4
+ 968343 | ES |             Balsa, A (Santa Maria) (Muras) |              Galicia |        Lugo | LU | 1
+ 683116 | ES |                      San Pedro (Rudaguera) |            Cantabria |   Cantabria |  S | 4
+ 353638 | ES |                           Moimenta (Lalin) |              Galicia |  Pontevedra | PO | 1
+ 575370 | ES |                       Velilla De La Sierra |      Castilla - Leon |       Soria | SO | 3
+ 967738 | ES |                                      Coaña |             Asturias |    Asturias |  O | 4
+ 218398 | ES |                        Rodasviejas (Finca) |      Castilla - Leon |   Salamanca | SA | 3
+ 870417 | ES |                                    Setiles | Castilla - La Mancha | Guadalajara | GU | 4
+ 576486 | ES |                                 Valdespino |      Castilla - Leon |      Zamora | ZA | 4
+ 961193 | ES |                               La Cardonera |             Canarias |  Las Palmas | GC | 3
+ 211882 | ES |                               Las Morteras |             Asturias |    Asturias |  O | 4
+ 842978 | ES |                  Batet (Ayto Ribes Freser) |             Cataluna |      Girona | GI | 3
+ 866991 | ES |                         Ladrido (Santalla) |              Galicia |    A Coruña |  C | 3
+ 262477 | ES |                             Renche (Samos) |              Galicia |        Lugo | LU | 4
+ 460840 | ES |                                    Madiedo |             Asturias |    Asturias |  O | 4
+ 586418 | ES |                                    Jucaini |            Andalucia |     Almería | AL | 4
+ 874275 | ES |                                    Bossost |             Cataluna |      Lleida |  L | 4
+ 481546 | ES |                                     Huerta |          Extremadura |     Cáceres | CC | 4
+ 976158 | ES |                      Santa Cecilia (Gijon) |             Asturias |    Asturias |  O | 4
+ 964813 | ES |                                  Brañaseca |             Asturias |    Asturias |  O | 4
+ 383825 | ES |                                    Ripodas |              Navarra |     Navarra | NA | 4
+ 586442 | ES |                                  Guazamara |            Andalucia |     Almería | AL | 4
+  16338 | ES |                                     Gajano |            Cantabria |   Cantabria |  S | 4
+ 412729 | ES |                                   Baronzas |              Galicia |     Ourense | OR | 3
+ 965353 | ES |                                      Lugas |             Asturias |    Asturias |  O | 4
+ 674731 | ES |                                Encinacaida | Castilla - La Mancha | Ciudad Real | CR | 4
+  70117 | ES |                             Vilar De Canes | Comunidad Valenciana |   Castellón | CS | 4
+ 567762 | ES |                             Ordial De Miño |             Asturias |    Asturias |  O | 3
+ 467425 | ES |               Folgueras (Cangas De Narcea) |             Asturias |    Asturias |  O | 3
+ 570210 | ES |                                      Avila |      Castilla - Leon |       Ávila | AV | 4
+ 965826 | ES |                                  La Cobaya |             Asturias |    Asturias |  O | 3
+ 173168 | ES |                                   Zigaurre |              Navarra |     Navarra | NA | 4
+ 967452 | ES |                                     Lieres |             Asturias |    Asturias |  O | 4
+ 466068 | ES |                           Hoyo, El (Teror) |             Canarias |  Las Palmas | GC | 4
+ 670951 | ES |                                   Ransinde |      Castilla - Leon |        León | LE | 3
+ 174674 | ES |                              Guiamets, Els |             Cataluna |   Tarragona |  T | 4
+ 382949 | ES |                                     Madrid |               Madrid |      Madrid |  M | 4
+ 469980 | ES |                                  Mengabril |          Extremadura |     Badajoz | BA | 4
+ 967156 | ES |                                    Prestin |             Asturias |    Asturias |  O | 3
+ 287124 | ES |                                 Benimassot | Comunidad Valenciana |    Alicante |  A | 4
+ 174550 | ES |                                     Vicuña |           Pais Vasco |       Álava | VI | 4
+ 468157 | ES |                          Cueta, La (Tineo) |             Asturias |    Asturias |  O | 4
+ 216694 | ES |                                     Turcia |      Castilla - Leon |        León | LE | 4
+ 967528 | ES |                                   Folleron |             Asturias |    Asturias |  O | 3
+ 590798 | ES |                                     Aciera |             Asturias |    Asturias |  O | 4
+ 470328 | ES |                                  Ladrillar |          Extremadura |     Cáceres | CC | 4
+ 262429 | ES |              Vilela (San Miguel) (Taboada) |              Galicia |        Lugo | LU | 3
+ 480262 | ES |                            El Pont D'Arros |             Cataluna |      Lleida |  L | 4
+ 971238 | ES |                                     Espera |            Andalucia |       Cádiz | CA | 4
+ 846926 | ES |                 Peregrina, A (Santa Maria) |              Galicia |    A Coruña |  C | 1
+ 160096 | ES |                              Molinaferrera |      Castilla - Leon |        León | LE | 4
+  86717 | ES |                              Montalvo Rano |      Castilla - Leon |   Salamanca | SA | 1
+ 313657 | ES |                     Laderas, Las (Teguise) |             Canarias |  Las Palmas | GC | 3
+ 874170 | ES |                                 Cerolleiro |             Asturias |    Asturias |  O | 3
+ 468313 | ES |                                   Fontanos |             Asturias |    Asturias |  O | 3
+  17412 | ES |                             Rubielos Bajos | Castilla - La Mancha |      Cuenca | CU | 4
+  68729 | ES |                           Froufe (O Irixo) |              Galicia |     Ourense | OR | 1
+ 685936 | ES |                           Chozas De Arriba |      Castilla - Leon |        León | LE | 4
+ 259513 | ES |    Anllons De Arriba (Anllons - Ponteceso) |              Galicia |    A Coruña |  C | 3
+ 594502 | ES |                           Barrial (Mieres) |             Asturias |    Asturias |  O | 3
+ 255385 | ES |                   Tias (Capital Municipal) |             Canarias |  Las Palmas | GC | 3
+ 813809 | ES |                             Sota (Corvera) |             Asturias |    Asturias |  O | 3
+ 961002 | ES |                                 Cordobilla |            Andalucia |     Córdoba | CO | 4
+ 873812 | ES |                          Romanya D'Emporda |             Cataluna |      Girona | GI | 4
+ 173978 | ES |                     Donostia-San Sebastian |           Pais Vasco |   Guipúzcoa | SS | 4
+ 108879 | ES |                          Caseta, A (Petin) |              Galicia |     Ourense | OR | 1
+ 353254 | ES |                                       Vigo |              Galicia |  Pontevedra | PO | 4
+ 171022 | ES |                                    Torrico | Castilla - La Mancha |      Toledo | TO | 4
+ 968667 | ES |                  Requeixo (Loña-N. Ramuin) |              Galicia |     Ourense | OR | 3
+ 768020 | ES |                          Cuarton Del Pilar |      Castilla - Leon |   Salamanca | SA | 3
+ 259789 | ES |                        Rois (Santa Mariña) |              Galicia |    A Coruña |  C | 3
+ 372647 | ES |                          Elexalde-Olabarri |           Pais Vasco |     Vizcaya | BI | 3
+ 847574 | ES |              Ferreiros (Santo Andre) (Pol) |              Galicia |        Lugo | LU | 1
+ 370787 | ES | Santa Maria (Via Del Pardo) (Urbanizacion) |               Madrid |      Madrid |  M | 3
+ 276966 | ES |                                   Pedra, A |              Galicia |     Ourense | OR | 3
+ 177685 | ES |                               Las Casillas |      Castilla - Leon |   Salamanca | SA | 3
+ 965994 | ES |                     El Molin De La Llastra |             Asturias |    Asturias |  O | 3
+ 211474 | ES |                               Barzaniellas |             Asturias |    Asturias |  O | 3
+ 865423 | ES |                               Miami-Platja |             Cataluna |   Tarragona |  T | 3
+ 570318 | ES |                               Valdemolinos |      Castilla - Leon |       Ávila | AV | 4
+ 847826 | ES |                                   Saavedra |              Galicia |        Lugo | LU | 4
+ 869119 | ES |                         Xove (San Bartolo) |              Galicia |        Lugo | LU | 3
+ 964969 | ES |                         Mortera De Palomar |             Asturias |    Asturias |  O | 3
+ 860903 | ES |                              Portada Verde |             Canarias |  Las Palmas | GC | 3
+ 588290 | ES |                                     Malaga |            Andalucia |      Málaga | MA | 4
+ 371195 | ES |                               Valdefuentes |               Madrid |      Madrid |  M | 3
+ 258445 | ES |                             Pla De La Basa |             Cataluna |   Tarragona |  T | 3
+  29240 | ES |                                  Eidobispo |              Galicia |     Ourense | OR | 3
+ 968835 | ES |                       Casal, O (Gomesende) |              Galicia |     Ourense | OR | 3
+ 567999 | ES |                  Vinseiro (Santa Cristina) |              Galicia |  Pontevedra | PO | 1
+ 211558 | ES |                     Irrondo De La Folguera |             Asturias |    Asturias |  O | 3
+ 280278 | ES |                            Javerri/Xaberri |              Navarra |     Navarra | NA | 3
+ 319009 | ES |                                      Naron |              Galicia |    A Coruña |  C | 4
+  85791 | ES |                   Pandu, El (Lada-Langreo) |             Asturias |    Asturias |  O | 4
+ 214138 | ES |                                 El Turujal |            Cantabria |   Cantabria |  S | 3
+ 477502 | ES |                                  Inciensal |             Canarias |  Las Palmas | GC | 1
+ 577531 | ES |                                    Sisante | Castilla - La Mancha |      Cuenca | CU | 4
+ 870970 | ES |                          Castilleja Del Campo |            Andalucia |                Sevilla | SE | 4
+ 211282 | ES |                           San Esteban (Ibias) |             Asturias |               Asturias |  O | 3
+ 172981 | ES |                          Castellvi De Rosanes |             Cataluna |              Barcelona |  B | 4
+ 764540 | ES |                                 San Vicentejo |      Castilla - Leon |                 Burgos | BU | 4
+ 371651 | ES |                                       Biurrun |              Navarra |                Navarra | NA | 4
+ 105123 | ES |                                        Lleger |             Cataluna |              Tarragona |  T | 3
+ 107196 | ES |                            Leson (Santa Cruz) |              Galicia |               A Coruña |  C | 3
+ 173271 | ES |                                         Erols |             Cataluna |                 Girona | GI | 3
+ 277614 | ES |                            Oca (Santo Estevo) |              Galicia |             Pontevedra | PO | 3
+  68797 | ES |                               Coedo (Allariz) |              Galicia |                Ourense | OR | 4
+ 566739 | ES |                                    Casteloais |              Galicia |                Ourense | OR | 4
+ 476710 | ES |                                    La Guardia | Castilla - La Mancha |                 Toledo | TO | 4
+ 283428 | ES |                         El Olivar Del Miraval |               Madrid |                 Madrid |  M | 3
+ 171651 | ES |                                Ingenio Blanco |             Canarias |             Las Palmas | GC | 1
+  29454 | ES |                                    Pontevedra |              Galicia |             Pontevedra | PO | 4
+ 283734 | ES |                                       La Foya | Comunidad Valenciana |              Castellón | CS | 1
+ 156964 | ES |                             Cornocio (Cicero) |            Cantabria |              Cantabria |  S | 3
+ 468396 | ES |                                       Greixer |             Cataluna |                 Girona | GI | 4
+ 575695 | ES |                         Lodares De Medinaceli |      Castilla - Leon |                  Soria | SO | 4
+ 765224 | ES |                           Rublacedo De Arriba |      Castilla - Leon |                 Burgos | BU | 4
+  30434 | ES |                                      El Gallo | Comunidad Valenciana |               Alicante |  A | 3
+ 963662 | ES |                                       Soperun |               Aragon |                 Huesca | HU | 3
+ 765320 | ES |                                      Terrazas |      Castilla - Leon |                 Burgos | BU | 4
+ 108809 | ES |                                      Pusmazan |              Galicia |                Ourense | OR | 4
+ 469129 | ES |                         Quintanilla (Enmedio) |            Cantabria |              Cantabria |  S | 3
+ 572430 | ES |                                    Cillanueva |      Castilla - Leon |                   León | LE | 4
+ 571330 | ES |                                       Acevido |              Galicia |                Ourense | OR | 3
+ 959813 | ES |                                       Totanes | Castilla - La Mancha |                 Toledo | TO | 4
+ 170463 | ES |                        Camanzo (San Salvador) |              Galicia |             Pontevedra | PO | 1
+ 256837 | ES |                           Sant Miquel De Corb |             Cataluna |                 Girona | GI | 4
+ 871632 | ES |                             Verdera (Llanera) |             Asturias |               Asturias |  O | 3
+ 173063 | ES |                                      La Rabia |            Cantabria |              Cantabria |  S | 4
+ 574639 | ES |                          Sando De Santa Maria |      Castilla - Leon |              Salamanca | SA | 4
+ 961214 | ES |                                  Los Blazquez |            Andalucia |                Córdoba | CO | 4
+ 670196 | ES |                          Palmital, El (Telde) |             Canarias |             Las Palmas | GC | 3
+  86459 | ES |                                     Calamocos |      Castilla - Leon |                   León | LE | 4
+ 975666 | ES |                       Poladura (Villaviciosa) |             Asturias |               Asturias |  O | 3
+ 284346 | ES |                                      Torrella | Comunidad Valenciana |               Valencia |  V | 4
+ 574606 | ES |                   Combos, Los (Arroyomolinos) |               Madrid |                 Madrid |  M | 4
+ 473377 | ES |                             Villambran De Cea |      Castilla - Leon |               Palencia |  P | 4
+  68991 | ES |                         Couso (Campo Lameiro) |              Galicia |             Pontevedra | PO | 1
+ 418861 | ES |                                        Zestoa |           Pais Vasco |              Guipúzcoa | SS | 4
+ 871872 | ES |                                       El Muro |             Asturias |               Asturias |  O | 3
+ 967612 | ES |                          Collada, La (Mieres) |             Asturias |               Asturias |  O | 4
+ 319093 | ES |                           Breamo (San Miguel) |              Galicia |               A Coruña |  C | 4
+ 175367 | ES |   Imende, A (Santa Maria De Noicela-Carballo) |              Galicia |               A Coruña |  C | 3
+  16688 | ES |                           Mansilla Del Paramo |      Castilla - Leon |                   León | LE | 4
+ 279372 | ES |                           Seara, A (Irixo, O) |              Galicia |                Ourense | OR | 4
+ 861442 | ES |                                       Sileras |            Andalucia |                Córdoba | CO | 4
+ 279786 | ES |                                   Olaz Subiza |              Navarra |                Navarra | NA | 4
+ 808812 | ES |                                          Rute |            Andalucia |                Córdoba | CO | 4
+ 176125 | ES |      Castellon De La Plana/Castello De La Pla | Comunidad Valenciana |              Castellón | CS | 4
+ 412441 | ES |                                         Conso |              Galicia |                Ourense | OR | 4
+ 321277 | ES |                                         Senon |              Galicia |                Ourense | OR | 3
+ 477646 | ES |                                   Morro Jable |             Canarias |             Las Palmas | GC | 4
+ 105579 | ES |                       Malpartida De Plasencia |          Extremadura |                Cáceres | CC | 4
+ 472206 | ES |                          Sobran (San Martiño) |              Galicia |             Pontevedra | PO | 3
+ 466968 | ES |                                Arico El Viejo |             Canarias | Santa Cruz de Tenerife | TF | 3
+ 866562 | ES |                       Cueto (Perlora-Carreño) |             Asturias |               Asturias |  O | 4
+ 670243 | ES |                          Barrillos De Curueño |      Castilla - Leon |                   León | LE | 3
+ 573082 | ES |                Ponte Caldelas (Santa Eulalia) |              Galicia |             Pontevedra | PO | 1
+ 381821 | ES |                 Es Pont D'Inca/El Pont D'Inca |             Baleares |               Baleares | PM | 3
+ 871418 | ES |                         Caserras Del Castillo |               Aragon |                 Huesca | HU | 4
+ 965671 | ES |                                     Llamargon |             Asturias |               Asturias |  O | 3
+ 965106 | ES |                                         Cardo |             Asturias |               Asturias |  O | 4
+ 671060 | ES |                             Los Altos-Arroyos |             Canarias | Santa Cruz de Tenerife | TF | 3
+ 867151 | ES |                          Cerceda (San Miguel) |              Galicia |               A Coruña |  C | 3
+ 574858 | ES |                                      Amillano |              Navarra |                Navarra | NA | 4
+ 872573 | ES |                          Santiago, De (Playa) |             Canarias | Santa Cruz de Tenerife | TF | 1
+ 217966 | ES |                     Olleros De Paredes Rubias |      Castilla - Leon |               Palencia |  P | 4
+ 859920 | ES |                             Riba De Santiuste | Castilla - La Mancha |            Guadalajara | GU | 4
+ 977749 | ES |                                   Sobrepiedra |             Asturias |               Asturias |  O | 4
+ 574978 | ES |                                        Aspurz |              Navarra |                Navarra | NA | 4
+ 477145 | ES |                         Villarejo-Periesteban | Castilla - La Mancha |                 Cuenca | CU | 4
+ 767804 | ES |                          Sanchon De La Ribera |      Castilla - Leon |              Salamanca | SA | 4
+ 262669 | ES |                          Argomoso (San Pedro) |              Galicia |                   Lugo | LU | 1
+ 321757 | ES |                    Pousada (Castrelo De Miño) |              Galicia |                Ourense | OR | 3
+ 372947 | ES |                                      Matienzo |           Pais Vasco |                Vizcaya | BI | 4
+ 574854 | ES |                         Castroserna De Arriba |      Castilla - Leon |                Segovia | SG | 4
+ 878463 | ES |                                     Penela, A |              Galicia |                   Lugo | LU | 1
+ 108538 | ES |                         Navalperal De Pinares |      Castilla - Leon |                  Ávila | AV | 4
+ 457396 | ES |                        Ventorros De La Laguna |            Andalucia |                Granada | GR | 1
+ 961410 | ES |                                         Darro |            Andalucia |                Granada | GR | 4
+ 285648 | ES |                                       Ibisate |           Pais Vasco |                  Álava | VI | 3
+  69703 | ES |                                        Aldana |           Pais Vasco |                Vizcaya | BI | 3
+ 102705 | ES |                                       La Mata | Castilla - La Mancha |                 Toledo | TO | 4
+ 315253 | ES |                                  Puigpardines |             Cataluna |                 Girona | GI | 4
+ 359326 | ES |                                  Los Vicentes | Comunidad Valenciana |               Alicante |  A | 4
+ 573450 | ES |                              Relea De La Loma |      Castilla - Leon |               Palencia |  P | 3
+ 215350 | ES |                                  Quintanaseca |      Castilla - Leon |                 Burgos | BU | 4
+ 871541 | ES |                                        Lucena |             Canarias |             Las Palmas | GC | 1
+ 281778 | ES |                                      Arkarazo |           Pais Vasco |              Guipúzcoa | SS | 4
+  87057 | ES |                                        Tamame |      Castilla - Leon |                 Zamora | ZA | 4
+ 481714 | ES |      Vivente (Santa Maria De Ardaña-Carballo) |              Galicia |               A Coruña |  C | 4
+ 567555 | ES |                         Freixo, O (San Roque) |              Galicia |             Pontevedra | PO | 1
+ 671960 | ES | Poligon Industrial El Clot De Moja (Olerdola) |             Cataluna |              Barcelona |  B | 4
+  12052 | ES |                                       Albandi |             Asturias |               Asturias |  O | 4
+  30160 | ES |                                          Irun |           Pais Vasco |              Guipúzcoa | SS | 4
+ 867052 | ES |                                       Policar |            Andalucia |                Granada | GR | 4
+ 106377 | ES |            Broño (Santiago De Lago-Valdoviño) |              Galicia |               A Coruña |  C | 4
+ 387509 | ES |                                    Godella | Comunidad Valenciana |               Valencia |  V | 4
+ 686440 | ES |               Castrotierra De La Valduerna |      Castilla - Leon |                   León | LE | 4
+ 457720 | ES |                          Cañaveral De Leon |            Andalucia |                 Huelva |  H | 4
+ 320629 | ES |          Furco (San Gregorio) (Carballedo) |              Galicia |                   Lugo | LU | 3
+ 960156 | ES |                                  Almoraima |            Andalucia |                  Cádiz | CA | 1
+ 979393 | ES |                                      Andeo |             Asturias |               Asturias |  O | 4
+ 870148 | ES |                       Cogollo, El (Morcin) |             Asturias |               Asturias |  O | 3
+ 477486 | ES |                                   Pradejon |             La Rioja |               La Rioja | LO | 4
+ 478878 | ES |                                   Valencia | Comunidad Valenciana |               Valencia |  V | 4
+ 860899 | ES |                                    Mojares | Castilla - La Mancha |            Guadalajara | GU | 4
+ 172671 | ES |                        Sant Feliu Del Raco |             Cataluna |              Barcelona |  B | 4
+ 577186 | ES |                                    Logroño |             La Rioja |               La Rioja | LO | 4
+ 468312 | ES |                                    Montjoi |             Cataluna |                 Girona | GI | 4
+  16626 | ES |                       Villanueva De Argaño |      Castilla - Leon |                 Burgos | BU | 4
+ 319153 | ES |                     Meixigo (San Lourenzo) |              Galicia |               A Coruña |  C | 3
+ 963474 | ES |                          Torrente De Cinca |               Aragon |                 Huesca | HU | 4
+ 965827 | ES |                        Emplalme, El (Nava) |             Asturias |               Asturias |  O | 3
+ 961298 | ES |                               Puente Genil |            Andalucia |                Córdoba | CO | 4
+ 172563 | ES |                  Rebollada, La (Sotrondio) |             Asturias |               Asturias |  O | 4
+ 972174 | ES |                               Los Andreses |            Andalucia |                 Huelva |  H | 4
+ 574290 | ES |                                   Casasola |      Castilla - Leon |              Salamanca | SA | 4
+ 869326 | ES |                              Villa Del Rio |            Andalucia |                Córdoba | CO | 4
+ 109668 | ES |                                      Neila |      Castilla - Leon |                 Burgos | BU | 4
+  16260 | ES |                                     Cañeda |            Cantabria |              Cantabria |  S | 4
+ 171442 | ES |                      Meson, El (San Mateo) |             Canarias |             Las Palmas | GC | 3
+ 571531 | ES |                                     Doroño |      Castilla - Leon |                 Burgos | BU | 4
+ 213190 | ES |                                    Febrero |             Asturias |               Asturias |  O | 3
+ 277014 | ES |                 Lagar, O (Vilar De Astres) |              Galicia |                Ourense | OR | 3
+  30442 | ES |                                   La Ledua | Comunidad Valenciana |               Alicante |  A | 3
+ 574294 | ES |                      Torremocha Del Jarama |               Madrid |                 Madrid |  M | 3
+ 175265 | ES |                                    Algorfa | Comunidad Valenciana |               Alicante |  A | 4
+ 384125 | ES |                                Gorostapolo |              Navarra |                Navarra | NA | 4
+ 965730 | ES |                                     Llares |             Asturias |               Asturias |  O | 4
+ 578818 | ES |                                  La Barona | Comunidad Valenciana |              Castellón | CS | 4
+  29936 | ES |                              Torre De Peña |              Navarra |                Navarra | NA | 3
+ 860495 | ES |                          Lucillos (Pueblo) | Castilla - La Mancha |                 Toledo | TO | 1
+ 668095 | ES |                   San Martin Del Pimpollar |      Castilla - Leon |                  Ávila | AV | 4
+ 256057 | ES |                                      Targa |             Canarias | Santa Cruz de Tenerife | TF | 1
+ 216622 | ES |                                  Conforcos |      Castilla - Leon |                   León | LE | 4
+ 968751 | ES |                      Cortegada (Cortegada) |              Galicia |                Ourense | OR | 1
+  69981 | ES |                       Candel, Lo (Caserio) | Comunidad Valenciana |               Alicante |  A | 3
+ 284130 | ES |                                Alcudia, L' | Comunidad Valenciana |               Valencia |  V | 3
+ 282594 | ES |                                 Ribafrecha |             La Rioja |               La Rioja | LO | 4
+ 671371 | ES |                                   Remellan |      Castilla - Leon |                   León | LE | 3
+ 963611 | ES |                         Constante (Oviedo) |             Asturias |               Asturias |  O | 3
+ 668371 | ES |                                 Fontiveros |      Castilla - Leon |                  Ávila | AV | 4
+ 570687 | ES |                                 Azkilarrea |              Navarra |                Navarra | NA | 3
+ 870016 | ES |                      Pandiello (Cudillero) |             Asturias |               Asturias |  O | 3
+  16500 | ES |                           Alcocero De Mola |      Castilla - Leon |                 Burgos | BU | 4
+ 766604 | ES |                            Geras De Gordon |      Castilla - Leon |                   León | LE | 4
+  29262 | ES |                    Telleira, A (Taboadela) |              Galicia |                Ourense | OR | 3
+ 256621 | ES |        Garrofa, La (Avinyonet Del Penedes) |             Cataluna |              Barcelona |  B | 3
+ 875643 | ES |                               Rivera Oveja |          Extremadura |                Cáceres | CC | 4
+ 960018 | ES |                               Los Collados |            Andalucia |                Almería | AL | 3
+ 962015 | ES |                                    Viacamp |               Aragon |                 Huesca | HU | 4
+ 371327 | ES |                             Egillor (Ollo) |              Navarra |                Navarra | NA | 4
+ 593026 | ES |                     Plata, La (Castrillon) |             Asturias |               Asturias |  O | 3
+ 675055 | ES |                                   Saelices | Castilla - La Mancha |                 Cuenca | CU | 4
+ 761552 | ES |                           Pedregal (Tineo) |             Asturias |               Asturias |  O | 3
+ 959832 | ES |                                      Albox |            Andalucia |                Almería | AL | 4
+ 102970 | ES |                                   La Yedra |             Canarias |             Las Palmas | GC | 3
+ 577870 | ES |                  Viejo De Callosa (Camino) | Comunidad Valenciana |               Alicante |  A | 4
+ 666703 | ES |                      Llaneces Del Rey Moro |             Asturias |               Asturias |  O | 3
+  69355 | ES |                   Salinas De Rambla Salada |               Murcia |                 Murcia | MU | 1
+ 574698 | ES |                        Valverde Del Majano |      Castilla - Leon |                Segovia | SG | 4
+ 875380 | ES |                                    Cimiano |             Asturias |               Asturias |  O | 4
+ 876219 | ES |                   Acea Da Ma (Fonteculler) |              Galicia |               A Coruña |  C | 3
+ 576222 | ES |                                Villalcampo |      Castilla - Leon |                 Zamora | ZA | 4
+ 104683 | ES |                            Valencia D'Aneu |             Cataluna |                 Lleida |  L | 4
+ 666463 | ES |                              Tudela Veguin |             Asturias |               Asturias |  O | 1
+ 879363 | ES |                             Castrelo (Cea) |              Galicia |                Ourense | OR | 1
+ 314713 | ES |                                  Barcelona |             Cataluna |              Barcelona |  B | 4
+ 218266 | ES |                                    Rodillo |      Castilla - Leon |              Salamanca | SA | 4
+ 218698 | ES |                        Navalmoral De Bejar |      Castilla - Leon |              Salamanca | SA | 4
+ 110078 | ES |                                     Noceda |      Castilla - Leon |                   León | LE | 4
+ 211594 | ES |                               Bayo (Grado) |             Asturias |               Asturias |  O | 3
+ 472086 | ES |                      Rodeiro (San Vicente) |              Galicia |             Pontevedra | PO | 1
+ 977821 | ES |                          Vega, La (Ceceda) |             Asturias |               Asturias |  O | 1
+  85829 | ES |                     Caleyo, El (Sotrondio) |             Asturias |               Asturias |  O | 4
+ 416737 | ES |             Valles San Juan (Urbanizacion) |               Madrid |                 Madrid |  M | 4
+ 474000 | ES |                           Couce Dos Mouros |              Galicia |                   Lugo | LU | 1
+  69093 | ES |                           Follente (Bemil) |              Galicia |             Pontevedra | PO | 4
+ 386081 | ES |                                  Agoncillo |             La Rioja |               La Rioja | LO | 4
+ 103478 | ES |                         Santiago Del Teide |             Canarias | Santa Cruz de Tenerife | TF | 4
+ 876435 | ES |    Carballal (Santa Maria De Lira-Carnota) |              Galicia |               A Coruña |  C | 3
+ 259489 | ES |                          Graña (Ponteceso) |              Galicia |               A Coruña |  C | 3
+ 964043 | ES |                          Raicedo (Colunga) |             Asturias |               Asturias |  O | 3
+ 108999 | ES |                                       Foxo |              Galicia |                Ourense | OR | 3
+ 285012 | ES |                                   Elizondo |           Pais Vasco |                Vizcaya | BI | 4
+ 176992 | ES |                        Becerril Del Carpio |      Castilla - Leon |               Palencia |  P | 4
+ 218626 | ES |                                Valdesangil |      Castilla - Leon |              Salamanca | SA | 4
+ 676664 | ES | Chorente (San Salvador De Taragoña-Rianxo) |              Galicia |               A Coruña |  C | 3
+ 470497 | ES |                                    Mijares |      Castilla - Leon |                  Ávila | AV | 4
+ 282114 | ES |                                   Villodas |           Pais Vasco |                  Álava | VI | 4
+ 468841 | ES |                                   Pedriego |             Asturias |               Asturias |  O | 3
+ 172151 | ES |                                   Cantillo |             Canarias | Santa Cruz de Tenerife | TF | 3
+ 866619 | ES |        Adro (San Martiño De Rodis-Cerceda) |              Galicia |               A Coruña |  C | 1
+ 474277 | ES |                                 Retortillo |      Castilla - Leon |              Salamanca | SA | 4
+ 470844 | ES |     Pazo Do Rio (Santaia De Lians-Oleiros) |              Galicia |               A Coruña |  C | 4
+ 667483 | ES |                                    Dobares |            Cantabria |              Cantabria |  S | 3
+ 154912 | ES |                 Las Centiniegas |             Asturias |               Asturias |  O | 3
+ 355042 | ES |                   Los Jorqueras |               Murcia |                 Murcia | MU | 1
+ 172253 | ES |            Cotariella (Langreo) |             Asturias |               Asturias |  O | 3
+ 963683 | ES |                  Granda (Siero) |             Asturias |               Asturias |  O | 3
+ 862411 | ES |                      El Cotillo |             Canarias |             Las Palmas | GC | 4
+ 959837 | ES |                      Villatobas | Castilla - La Mancha |                 Toledo | TO | 4
+ 154960 | ES |            Folgueras De Muñalen |             Asturias |               Asturias |  O | 3
+ 965089 | ES |                      Picaloredo |             Asturias |               Asturias |  O | 3
+ 571594 | ES |                   Rio De Abaixo |              Galicia |                Ourense | OR | 3
+ 967329 | ES |                      Tamagordas |             Asturias |               Asturias |  O | 4
+  29294 | ES | Cerdeiros, Os (Castro Caldelas) |              Galicia |                Ourense | OR | 3
+ 869199 | ES |                     Vilaragunte |              Galicia |                   Lugo | LU | 4
+ 468253 | ES |                    La Figuerina |             Asturias |               Asturias |  O | 4
+ 370043 | ES |             Borricen (Alumbres) |               Murcia |                 Murcia | MU | 4
+  86489 | ES |                     Ruideferros |      Castilla - Leon |                   León | LE | 3
+ 840038 | ES |                         Pajares | Castilla - La Mancha |            Guadalajara | GU | 4
+ 668539 | ES |                      Vallehondo |      Castilla - Leon |                  Ávila | AV | 4
+ 372467 | ES |                          Uparan |           Pais Vasco |                Vizcaya | BI | 3
+ 963818 | ES |                          Loarre |               Aragon |                 Huesca | HU | 4
+ 478270 | ES |                       El Charco |             Canarias | Santa Cruz de Tenerife | TF | 4
+ 211354 | ES |      Pescal, La (Cangas Narcea) |             Asturias |               Asturias |  O | 3
+  85551 | ES |              San Juan Del Monte |             Asturias |               Asturias |  O | 3
+ 960828 | ES |                      Pedro Ruiz |            Andalucia |                Granada | GR | 4
+ 371711 | ES |                       Turrillas |              Navarra |                Navarra | NA | 3
+ 670184 | ES |     Casillas, Las (Valsequillo) |             Canarias |             Las Palmas | GC | 3
+ 366611 | ES |                          Beariz |              Galicia |                Ourense | OR | 4
+ 765752 | ES |                      Valdescapa |      Castilla - Leon |                   León | LE | 4
+ 170531 | ES |                     Guadalajara | Castilla - La Mancha |            Guadalajara | GU | 4
+ 872873 | ES |            Castellar Del Valles |             Cataluna |              Barcelona |  B | 4
+ 592714 | ES |              Tuernes El Pequeño |             Asturias |               Asturias |  O | 3
+ 868327 | ES |   Neira (Santa Maria) (Lancara) |              Galicia |                   Lugo | LU | 4
+ 972750 | ES |                          Malaga |            Andalucia |                 Málaga | MA | 4
+ 963594 | ES |                       Martillue |               Aragon |                 Huesca | HU | 4
+ 964945 | ES |               San Juan De Nieva |             Asturias |               Asturias |  O | 4
+ 968164 | ES |         Truebano (Lugo Llanera) |             Asturias |               Asturias |  O | 4
+ 575395 | ES |                           Abion |      Castilla - Leon |                  Soria | SO | 4
+ 280362 | ES |                           Iragi |              Navarra |                Navarra | NA | 4
+ 169935 | ES |                     Bouzadragro |              Galicia |                Ourense | OR | 3
+  12452 | ES |                        Morentan |             Asturias |               Asturias |  O | 4
+ 960695 | ES |                          Huelva |            Andalucia |                 Huelva |  H | 4
+ 812496 | ES |                   San Saturnino |             Asturias |               Asturias |  O | 3
+ 967636 | ES |              Granda, La (Turon) |             Asturias |               Asturias |  O | 3
+ 811836 | ES |            Campas, Las (Pravia) |             Asturias |               Asturias |  O | 3
+ 473677 | ES |            Bascones De Valdivia |      Castilla - Leon |               Palencia |  P | 4
+ 109838 | ES |                      Valdealcon |      Castilla - Leon |                   León | LE | 4
+ 174652 | ES |                      La Figuera |             Cataluna |              Tarragona |  T | 4
+ 356122 | ES |                        Munarriz |              Navarra |                Navarra | NA | 4
+ 170729 | ES |                          Algora | Castilla - La Mancha |            Guadalajara | GU | 4
+ 968308 | ES |                       Castanedo |             Asturias |               Asturias |  O | 4
+ 959861 | ES |           Dehesa De Las Labores | Castilla - La Mancha |                 Toledo | TO | 1
+ 576550 | ES |                         Zarautz |           Pais Vasco |              Guipúzcoa | SS | 4
+ 765188 | ES |                          Cirion |      Castilla - Leon |                 Burgos | BU | 4
+ 815693 | ES |                       El Ferrol |             Asturias |               Asturias |  O | 3
+ 591158 | ES |                       La Gantal |             Asturias |               Asturias |  O | 3
+ 475902 | ES |                       Kanpantxu |           Pais Vasco |                Vizcaya | BI | 4
+ 220810 | ES |          Granatula De Calatrava | Castilla - La Mancha |            Ciudad Real | CR | 4
+ 967564 | ES |             Cuarteles De Doriga |             Asturias |               Asturias |  O | 3
+ 419161 | ES |                 Gatzaga Buradon |           Pais Vasco |                  Álava | VI | 4
+ 359830 | ES |                Llosa De Camacho | Comunidad Valenciana |               Alicante |  A | 4
+ 672163 | ES |                      Torrecilla |      Castilla - Leon |              Salamanca | SA | 3
+ 681856 | ES |         Fresnedo (Santa Coloma) |             Asturias |               Asturias |  O | 4
+ 103947 | ES |                         Pontons |             Cataluna |              Barcelona |  B | 4
+ 812448 | ES |                          Amandi |             Asturias |               Asturias |  O | 4
+ 593206 | ES |                            Rica |             Asturias |               Asturias |  O | 3
+ 961574 | ES |                    El Jaramillo |            Andalucia |                Córdoba | CO | 3
+ 573255 | ES |        Torre, La (Urbanizacion) | Comunidad Valenciana |               Alicante |  A | 3
+  69087 | ES |  Sisan (San Clemente-Ribadumia) |              Galicia |             Pontevedra | PO | 3
+ 359734 | ES |                  Casas De Cofer | Comunidad Valenciana |               Alicante |  A | 3
+ 963048 | ES |              Cervera Del Rincon |               Aragon |                 Teruel | TE | 4
+ 284892 | ES |                           Gerea |           Pais Vasco |                Vizcaya | BI | 4
+ 688192 | ES |                         Adrados |      Castilla - Leon |                Segovia | SG | 4
+ 104411 | ES |                         Linyola |             Cataluna |                 Lleida |  L | 4
+ 278034 | ES |         Praceres, Os (Lourizan) |              Galicia |             Pontevedra | PO | 4
+ 154456 | ES |              Murias De Puntaras |             Asturias |               Asturias |  O | 3
+ 669355 | ES |           Rabe De Los Escuderos |      Castilla - Leon |                 Burgos | BU | 4
+  17094 | ES |                     Cincovillas |      Castilla - Leon |                Segovia | SG | 4
+  69079 | ES |             Godos (Santa Maria) |              Galicia |             Pontevedra | PO | 4
+ 254389 | ES |                          Fataga |             Canarias |             Las Palmas | GC | 4
+ 351850 | ES |                 Invernadeiro, O |              Galicia |                Ourense | OR | 3
+ 689344 | ES |                          Luelmo |      Castilla - Leon |                 Zamora | ZA | 4
+  29928 | ES |                        Pitillas |              Navarra |                Navarra | NA | 4
+ 255457 | ES |                     La Fuentita |             Canarias |             Las Palmas | GC | 3
+ 471541 | ES |                   Hoz De Arreba |      Castilla - Leon |                 Burgos | BU | 4
+ 676448 | ES |         Figueiras (Santa Maria) |              Galicia |               A Coruña |  C | 3
+ 966952 | ES |          Cuerrias De Espinaredo |             Asturias |               Asturias |  O | 3
+ 865354 | ES |   Pino, El (Cardo-Villaviciosa) |             Asturias |               Asturias |  O | 3
+ 671107 | ES |                        Rodiezmo |      Castilla - Leon |                   León | LE | 4
+ 868612 | ES |                         Sarvise |               Aragon |                 Huesca | HU | 4
+ 860411 | ES |           Herreruela De Oropesa | Castilla - La Mancha |                 Toledo | TO | 4
+ 106151 | ES |                         Fonceca |             Asturias |               Asturias |  O | 3
+ 568518 | ES |               Rotella De Bedavo |             Asturias |               Asturias |  O | 3
+ 591974 | ES |             Fuente, La (Aviles) |             Asturias |               Asturias |  O | 4
+  29922 | ES |                        Arinzano |              Navarra |                Navarra | NA | 3
+ 219874 | ES |                    Valdemerilla |      Castilla - Leon |                 Zamora | ZA | 4
+ 971550 | ES |          Estacion, La (Montoro) |            Andalucia |                Córdoba | CO | 3
+ 814589 | ES |             Berruga, La (Turon) |             Asturias |               Asturias |  O | 3
+ 685276 | ES |                 Arroyo De Salas |      Castilla - Leon |                 Burgos | BU | 4
+  17116 | ES |                           Ciria |      Castilla - Leon |                  Soria | SO | 4
+ 842522 | ES |         Santa Maria De Miralles |             Cataluna |              Barcelona |  B | 3
+ 276519 | ES |            Vilaverde (Celanova) |              Galicia |                Ourense | OR | 4
+ 417121 | ES |                                      Marañon |              Navarra |                Navarra | NA | 4
+ 568507 | ES |                             Colinas De Abajo |             Asturias |               Asturias |  O | 4
+ 420493 | ES |                       Rafalet (Urbanizacion) | Comunidad Valenciana |               Alicante |  A | 1
+ 476833 | ES |                                  Los Mirones | Castilla - La Mancha |            Ciudad Real | CR | 1
+ 212350 | ES |                                        Orrea |             Asturias |               Asturias |  O | 4
+ 178068 | ES |                      Augas Mestas (Santiago) |              Galicia |                   Lugo | LU | 3
+ 177575 | ES |                         Serradilla Del Llano |      Castilla - Leon |              Salamanca | SA | 4
+ 473052 | ES |                                      Tirimol |              Galicia |                   Lugo | LU | 4
+ 973062 | ES |                              Algarrobo Costa |            Andalucia |                 Málaga | MA | 4
+  16526 | ES |                             Ruyales Del Agua |      Castilla - Leon |                 Burgos | BU | 4
+ 575635 | ES |                                     Almajano |      Castilla - Leon |                  Soria | SO | 4
+ 862463 | ES |                                     Sabadell |             Cataluna |              Barcelona |  B | 4
+ 870681 | ES |                             Cabañas De Yepes | Castilla - La Mancha |                 Toledo | TO | 4
+  69631 | ES |                                   Aristregui |              Navarra |                Navarra | NA | 4
+ 576571 | ES |                                    Santa Ana |      Castilla - Leon |                 Zamora | ZA | 4
+ 871518 | ES |                                   Pardinilla |               Aragon |                 Huesca | HU | 4
+ 665743 | ES |                Llanos, Los (El Fresno-Grado) |             Asturias |               Asturias |  O | 4
+  68687 | ES |                                    Bacelo, O |              Galicia |                Ourense | OR | 3
+ 667747 | ES |                               Entrambasaguas |            Cantabria |              Cantabria |  S | 4
+ 261289 | ES |                                    Boqueixon |              Galicia |               A Coruña |  C | 3
+ 574102 | ES |                                       Comala |               Murcia |                 Murcia | MU | 3
+ 415657 | ES |                                Ullastrar, L' |             Baleares |               Baleares | PM | 3
+ 863515 | ES |                    Santa Cecilia De Voltrega |             Cataluna |              Barcelona |  B | 4
+ 469729 | ES |                                   La Ganceda |            Cantabria |              Cantabria |  S | 3
+ 260737 | ES |   San Bartolomeu (San Xoan De Pravio-Cambre) |              Galicia |               A Coruña |  C | 3
+ 572314 | ES |                                         Vigo |              Galicia |             Pontevedra | PO | 4
+ 478942 | ES |                                         Sora |             Cataluna |              Barcelona |  B | 4
+ 171039 | ES |                           Lores (San Miguel) |              Galicia |             Pontevedra | PO | 3
+ 457492 | ES |                                        Jubar |            Andalucia |                Granada | GR | 4
+ 866260 | ES |                                 Los Raspajos |            Andalucia |                Almería | AL | 3
+ 569407 | ES |                                      El Mero |             Asturias |               Asturias |  O | 3
+ 967248 | ES |                                     Talavero |             Asturias |               Asturias |  O | 4
+ 963698 | ES |                                    Cartirana |               Aragon |                 Huesca | HU | 4
+ 106295 | ES |                             Mata, La (Grado) |             Asturias |               Asturias |  O | 3
+  15964 | ES |                                   Barrioazul |             Asturias |               Asturias |  O | 3
+ 877527 | ES |        Sigüeiro (San Martiño De Oroso-Oroso) |              Galicia |               A Coruña |  C | 3
+ 213478 | ES |                      San Bartolome (Meruelo) |            Cantabria |              Cantabria |  S | 3
+ 471133 | ES |                         Villovela De Esgueva |      Castilla - Leon |                 Burgos | BU | 4
+ 869287 | ES |                             Loeda (San Paio) |              Galicia |                Ourense | OR | 3
+ 253585 | ES |                             Yelamos De Abajo | Castilla - La Mancha |            Guadalajara | GU | 4
+ 381665 | ES |                        Cumiar (Santo Estevo) |              Galicia |             Pontevedra | PO | 1
+ 869302 | ES |                                      Campiña |            Andalucia |                Córdoba | CO | 4
+ 474690 | ES |                          Guerendiain (Elorz) |              Navarra |                Navarra | NA | 3
+ 961202 | ES |                       Cañuelo Bajo (Cordoba) |            Andalucia |                Córdoba | CO | 3
+  17090 | ES |                            Sequera De Fresno |      Castilla - Leon |                Segovia | SG | 4
+ 160060 | ES |                      Santa Colomba De Somoza |      Castilla - Leon |                   León | LE | 4
+ 417193 | ES |                                        Zabal |              Navarra |                Navarra | NA | 4
+ 959597 | ES |                                       Luzaga | Castilla - La Mancha |            Guadalajara | GU | 4
+ 283362 | ES |                             Monforte Del Cid | Comunidad Valenciana |               Alicante |  A | 4
+ 963470 | ES |                                       Azanuy |               Aragon |                 Huesca | HU | 4
+  12366 | ES |                                      Abraido |             Asturias |               Asturias |  O | 4
+ 861571 | ES |                                       Agadir |             Canarias |             Las Palmas | GC | 3
+ 809796 | ES |                                        Mijas |            Andalucia |                 Málaga | MA | 4
+ 846206 | ES |                                Chao De Vilar |              Galicia |               A Coruña |  C | 3
+ 665539 | ES |                                    Castrosin |             Asturias |               Asturias |  O | 4
+ 867187 | ES |                           Campelo (Negreira) |              Galicia |               A Coruña |  C | 4
+ 567342 | ES |                              Rozadas (Grado) |             Asturias |               Asturias |  O | 3
+ 871956 | ES |                           Nozaleda (Carreño) |             Asturias |               Asturias |  O | 3
+ 459076 | ES |                                   Espes Alto |               Aragon |                 Huesca | HU | 4
+ 255937 | ES |                              Valle De Arriba |             Canarias | Santa Cruz de Tenerife | TF | 4
+  68975 | ES |                                   Malvedo, O |              Galicia |                Ourense | OR | 3
+ 160684 | ES |                                 Alar Del Rey |      Castilla - Leon |               Palencia |  P | 4
+ 173153 | ES |                                      Salceda |            Cantabria |              Cantabria |  S | 4
+ 665995 | ES |                                Toral (Salas) |             Asturias |               Asturias |  O | 3
+  16770 | ES |                                   Ventosilla |      Castilla - Leon |                   León | LE | 3
+ 862043 | ES |                                    Las Zocas |             Canarias | Santa Cruz de Tenerife | TF | 4
+ 316189 | ES |                                      Vinaixa |             Cataluna |                 Lleida |  L | 4
+ 963161 | ES |                                         Sucs |             Cataluna |                 Lleida |  L | 4
+ 666043 | ES |                                    Calabazos |             Asturias |               Asturias |  O | 4
+ 415273 | ES |                                 Hio (Cangas) |              Galicia |             Pontevedra | PO | 3
+ 962174 | ES |                                  El Campillo |            Andalucia |                   Jaén |  J | 4
+ 683548 | ES |                                       Selaya |            Cantabria |              Cantabria |  S | 4
+ 370235 | ES |                                    El Ginete |               Murcia |                 Murcia | MU | 3
+  16058 | ES |                                     Laniello |             Asturias |               Asturias |  O | 3
+ 574359 | ES |                   Montecorona (Urbanitzacio) | Comunidad Valenciana |               Valencia |  V | 4
+ 841694 | ES |                      Barrio De San Jose Bajo |             Canarias | Santa Cruz de Tenerife | TF | 1
+ 866286 | ES |                     Campas, Las (Castrillon) |             Asturias |               Asturias |  O | 3
+ 872370 | ES |                        Miraflores, Huerta De |               Aragon |               Zaragoza |  Z | 1
+ 575970 | ES |                                      Megeces |      Castilla - Leon |             Valladolid | VA | 4
+ 963420 | ES |                                Sancho Abarca |               Aragon |               Zaragoza |  Z | 3
+ 871494 | ES |           Calvario, El (Santa Maria De Guia) |             Canarias |             Las Palmas | GC | 3
+ 275511 | ES |                                   Lamasdeite |              Galicia |                Ourense | OR | 3
+  12310 | ES |                            Monte, El (Navia) |             Asturias |               Asturias |  O | 3
+ 173353 | ES |                                     El Ansar |            Cantabria |              Cantabria |  S | 3
+ 568542 | ES |                                 Ciriego Bajo |             Asturias |               Asturias |  O | 3
+ 682504 | ES |                         Llaneces De Pedriego |             Asturias |               Asturias |  O | 3
+ 812016 | ES |                      Lugar De Abajo (Morcin) |             Asturias |               Asturias |  O | 3
+ 573706 | ES | Santa Eularia Del Riu (Can Nadal) (Barriada) |             Baleares |               Baleares | PM | 3
+  29370 | ES |                            Sandin (Celanova) |              Galicia |                Ourense | OR | 3
+ 572899 | ES |                                    Matachana |      Castilla - Leon |                   León | LE | 4
+ 217450 | ES |                                  Valderrueda |      Castilla - Leon |                   León | LE | 4
+ 106701 | ES |                   Carballal (Pª San Martiño) |              Galicia |               A Coruña |  C | 3
+ 872544 | ES |                          Granda, La (C.Onis) |             Asturias |               Asturias |  O | 3
+ 214786 | ES |                                     Donvidas |      Castilla - Leon |                  Ávila | AV | 4
+ 576403 | ES |                                   Cozcurrita |      Castilla - Leon |                 Zamora | ZA | 4
+ 460264 | ES |                               Pando (Quiros) |             Asturias |               Asturias |  O | 3
+  86341 | ES |                        Castrillo De La Reina |      Castilla - Leon |                 Burgos | BU | 4
+ 253501 | ES |      Nueva Sierra De Altomira (Urbanizacion) | Castilla - La Mancha |            Guadalajara | GU | 3
+ 811140 | ES |                  Rubielos De Mora (Estacion) |               Aragon |                 Teruel | TE | 1
+ 864442 | ES |                             Cortina (Quiros) |             Asturias |               Asturias |  O | 3
+ 878007 | ES |                            Reposteria (San Cipriano) |              Galicia |                   Lugo | LU | 3
+ 387065 | ES |                                        El Llano Alto | Comunidad Valenciana |               Alicante |  A | 3
+ 810588 | ES |                                             Abenozas |               Aragon |                 Huesca | HU | 3
+ 282684 | ES |                                     Cuevas De Reyllo |               Murcia |                 Murcia | MU | 4
+ 357682 | ES |                                               Arbuio |           Pais Vasco |                Vizcaya | BI | 3
+ 964181 | ES |                                              La Clua |             Cataluna |                 Lleida |  L | 3
+  17218 | ES |                                       Bocos De Duero |      Castilla - Leon |             Valladolid | VA | 4
+ 263053 | ES |                                     Casares Da Virxe |              Galicia |                Ourense | OR | 3
+ 212662 | ES |                                     Payega (Langreo) |             Asturias |               Asturias |  O | 4
+ 962969 | ES |                                   Boadella D'Emporda |             Cataluna |                 Girona | GI | 4
+  70073 | ES |                                  Abiar, L' (Partida) | Comunidad Valenciana |               Alicante |  A | 3
+ 668203 | ES |                              Alamedilla Del Berrocal |      Castilla - Leon |                  Ávila | AV | 4
+ 572887 | ES |                                 La Ribera De Folgoso |      Castilla - Leon |                   León | LE | 4
+ 474468 | ES |                                            Pardellas |              Galicia |                Ourense | OR | 1
+  68895 | ES |                           Fondo De Vila (Pardavedra) |              Galicia |                Ourense | OR | 4
+ 870387 | ES |                        Celeiros (Nogueira De Ramuin) |              Galicia |                Ourense | OR | 3
+ 257965 | ES |                                              Montgai |             Cataluna |                 Lleida |  L | 4
+ 871363 | ES |                                                Nacha |               Aragon |                 Huesca | HU | 3
+ 866187 | ES |                                  Sarces (San Amedio) |              Galicia |               A Coruña |  C | 1
+ 172798 | ES |                                               Beroiz |              Navarra |                Navarra | NA | 3
+ 849122 | ES |                    Ferradal (Barco De Valdeorras, O) |              Galicia |                Ourense | OR | 4
+ 155224 | ES |                                              Mañores |             Asturias |               Asturias |  O | 4
+ 279258 | ES |                                             Bolnuevo |               Murcia |                 Murcia | MU | 4
+ 281418 | ES |                       Gardotza (Poligono Industrial) |           Pais Vasco |                Vizcaya | BI | 3
+ 962963 | ES |                                  Santianes (Teverga) |             Asturias |               Asturias |  O | 3
+ 869559 | ES |                                            Cabreiros |              Galicia |                   Lugo | LU | 4
+ 577894 | ES |                                 Cachap, El (Partida) | Comunidad Valenciana |               Alicante |  A | 3
+ 174665 | ES |                                  Cerezo De Rio Tiron |      Castilla - Leon |                 Burgos | BU | 4
+ 845798 | ES | Canedo (San Mamede De San Mamede De Carnota-Carnota) |              Galicia |               A Coruña |  C | 3
+ 962892 | ES |                                         Paraiso Bajo |               Aragon |                 Teruel | TE | 3
+ 375395 | ES |                                        Canet Lo Roig | Comunidad Valenciana |              Castellón | CS | 4
+ 420469 | ES |                                            Cap Marti | Comunidad Valenciana |               Alicante |  A | 1
+ 869524 | ES |                                            Calatorao |               Aragon |               Zaragoza |  Z | 4
+  16298 | ES |                                            Fuente De |            Cantabria |              Cantabria |  S | 4
+ 594682 | ES |                                            Folgueron |             Asturias |               Asturias |  O | 3
+ 572338 | ES |                                                 Vigo |              Galicia |             Pontevedra | PO | 4
+ 385265 | ES |                                            Urtsuaran |           Pais Vasco |              Guipúzcoa | SS | 4
+  12204 | ES |                                 Viescas, Las (Turon) |             Asturias |               Asturias |  O | 3
+ 872681 | ES |                                                 Lepe |             Canarias | Santa Cruz de Tenerife | TF | 3
+ 672979 | ES |                                   Escalona Del Prado |      Castilla - Leon |                Segovia | SG | 4
+ 871164 | ES |                                      El Castaño Alto |             Canarias |             Las Palmas | GC | 3
+ 468241 | ES |                                            Villalain |             Asturias |               Asturias |  O | 4
+ 861070 | ES |                                            Algeciras |            Andalucia |                  Cádiz | CA | 4
+ 479626 | ES |                                             Terrades |             Cataluna |                 Girona | GI | 4
+ 587222 | ES |                                          Guadalcazar |            Andalucia |                Córdoba | CO | 4
+ 848654 | ES |                                               Cambeo |              Galicia |                Ourense | OR | 4
+ 284388 | ES |                                              Setoain |              Navarra |                Navarra | NA | 3
+ 573894 | ES |                                              Verdeña |      Castilla - Leon |               Palencia |  P | 4
+ 595390 | ES |                                            Argumosin |             Asturias |               Asturias |  O | 3
+ 475537 | ES |                                          Fuentetovar |      Castilla - Leon |                  Soria | SO | 3
+ 371807 | ES |                               Sansoain (Urraul Bajo) |              Navarra |                Navarra | NA | 3
+  16756 | ES |                                         San Clemente |      Castilla - Leon |                   León | LE | 4
+ 162328 | ES |                                     Mota Del Marques |      Castilla - Leon |             Valladolid | VA | 4
+ 574315 | ES |                                              Verbios |      Castilla - Leon |               Palencia |  P | 4
+ 863839 | ES |                                           Llagostera |             Cataluna |                 Girona | GI | 4
+ 358390 | ES |                                              Jauregi |           Pais Vasco |                  Álava | VI | 4
+ 472153 | ES |                                Villanueva De Carrizo |      Castilla - Leon |                   León | LE | 4
+ 864007 | ES |                                               Vilaür |             Cataluna |                 Girona | GI | 4
+ 176959 | ES |                                       Melgar De Yuso |      Castilla - Leon |               Palencia |  P | 4
+ 353446 | ES |                                   Arrufana (Louredo) |              Galicia |             Pontevedra | PO | 1
+ 681328 | ES |                                     Castro (Somiedo) |             Asturias |               Asturias |  O | 3
+ 477034 | ES |                                               Cendro |             Canarias |             Las Palmas | GC | 3
+ 276942 | ES |                                          Gradeira, A |              Galicia |                Ourense | OR | 3
+ 868947 | ES |                          Arroxo (San Martiño)(Sober) |              Galicia |                   Lugo | LU | 3
+ 176431 | ES |                                     Sorriba Del Esla |      Castilla - Leon |                   León | LE | 3
+ 866682 | ES |                                              Novalin |             Asturias |               Asturias |  O | 3
+ 171552 | ES |                                     Montaña Cardones |             Canarias |             Las Palmas | GC | 3
+ 469044 | ES |                                               Malpas |             Cataluna |                 Lleida |  L | 3
+  86257 | ES |                                      Robredo De Losa |      Castilla - Leon |                 Burgos | BU | 4
+  86691 | ES |                                 Tarilonte De La Peña |      Castilla - Leon |               Palencia |  P | 4
+ 366551 | ES |                                               Miomas |              Galicia |                Ourense | OR | 3
+ 869035 | ES |                               Roupar (San Pedro Fiz) |              Galicia |                   Lugo | LU | 3
+ 967620 | ES |                                Naves (Posada Llanes) |             Asturias |               Asturias |  O | 4
+ 386909 | ES |                                               El Cid | Comunidad Valenciana |               Alicante |  A | 3
+ 576463 | ES |                              Rosinos De La Requejada |      Castilla - Leon |                 Zamora | ZA | 3
+ 593482 | ES |                                             El Orrin |             Asturias |               Asturias |  O | 3
+ 421273 | ES |                                       Cruz De Gracia | Comunidad Valenciana |               Valencia |  V | 3
+ 255625 | ES |                                        Pedro Alvarez |             Canarias | Santa Cruz de Tenerife | TF | 4
+ 763904 | ES |                                Tornadizos De Arevalo |      Castilla - Leon |                  Ávila | AV | 4
+ 285000 | ES |                                                 Isla |           Pais Vasco |                Vizcaya | BI | 4
+ 163408 | ES |                                   Casa De Las Monjas | Castilla - La Mancha |               Albacete | AB | 3
+ 868651 | ES |                                      Farban (Sarria) |              Galicia |                   Lugo | LU | 1
+  85843 | ES |                                  San Pedro De Tiraña |             Asturias |               Asturias |  O | 4
+ 261901 | ES |                                          Vilamerelle |              Galicia |                   Lugo | LU | 4
+  29468 | ES |                                     Nigran (San Fiz) |              Galicia |             Pontevedra | PO | 3
+ 815717 | ES |                                      Veigas De Turia |             Asturias |               Asturias |  O | 3
+ 372695 | ES |                                             Ibarrola |           Pais Vasco |                Vizcaya | BI | 4
+ 107878 | ES |                                              El Tejo |            Cantabria |              Cantabria |  S | 4
+ 282576 | ES |                                      Llano De Brujas |               Murcia |                 Murcia | MU | 4
+ 839702 | ES |                     Eusebio Centenera (Urbanizacion) | Castilla - La Mancha |            Guadalajara | GU | 3
+ 358030 | ES |                                             Albiztur |           Pais Vasco |              Guipúzcoa | SS | 4
+ 314641 | ES |                       Lomo Del Balo (Valle Gran Rey) |             Canarias | Santa Cruz de Tenerife | TF | 1
+ 964178 | ES |                                              Valmuel |               Aragon |                 Teruel | TE | 4
+ 384929 | ES |                                              Murueta |           Pais Vasco |                Vizcaya | BI | 4
+ 159904 | ES |                                           Argenteiro |      Castilla - Leon |                   León | LE | 4
+ 572203 | ES |                                              Viergol |      Castilla - Leon |                 Burgos | BU | 4
+ 213958 | ES |                                              Lloredo |            Cantabria |              Cantabria |  S | 4
+ 964302 | ES |                                    Mesones De Isuela |               Aragon |               Zaragoza |  Z | 4
+ 845306 | ES |                                  Xaviña (Coristanco) |              Galicia |               A Coruña |  C | 3
+ 315457 | ES |                                            Vilacolum |             Cataluna |                 Girona | GI | 4
+ 577255 | ES |                          Piqueras Del Castillo | Castilla - La Mancha |                 Cuenca | CU | 4
+ 572566 | ES |                  Val De Sangorza (Santa Maria) |              Galicia |             Pontevedra | PO | 1
+ 477682 | ES |                     Pajara (Capital Municipal) |             Canarias |             Las Palmas | GC | 3
+ 860675 | ES |                                   Santa Agueda |             Canarias |             Las Palmas | GC | 3
+ 685072 | ES |                                Loma De Montija |      Castilla - Leon |                 Burgos | BU | 4
+  16990 | ES |                             Villar Del Profeta |      Castilla - Leon |              Salamanca | SA | 4
+ 469440 | ES |                              Castellar De Tost |             Cataluna |                 Lleida |  L | 3
+ 368195 | ES |                                    Reguenga, A |              Galicia |                Ourense | OR | 3
+ 960953 | ES |                                     Fontanales |             Canarias |             Las Palmas | GC | 4
+ 178907 | ES |                                         Zamora |      Castilla - Leon |                 Zamora | ZA | 4
+ 568315 | ES |                                   Valderrodero |             Asturias |               Asturias |  O | 4
+ 280968 | ES |                                         Cangos |              Galicia |                Ourense | OR | 3
+ 973842 | ES |                            Obarra (Monasterio) |               Aragon |                 Huesca | HU | 3
+  85611 | ES |                                         Abango |             Asturias |               Asturias |  O | 4
+ 966188 | ES | Pedreira (Santa Maria A Maior De Val, O-Naron) |              Galicia |               A Coruña |  C | 1
+ 366851 | ES |                            Infesta (Monterrey) |              Galicia |                Ourense | OR | 4
+ 574555 | ES |                                   Villasbuenas |      Castilla - Leon |              Salamanca | SA | 4
+ 847562 | ES |                                      Torneiros |              Galicia |                   Lugo | LU | 4
+ 374591 | ES |                               Casas De Maestre | Comunidad Valenciana |               Alicante |  A | 1
+ 978265 | ES |                                      Maramuñiz |             Asturias |               Asturias |  O | 4
+ 570682 | ES |                                    Monteveloso |              Galicia |                Ourense | OR | 3
+ 867580 | ES |                            Albanchez De Magina |            Andalucia |                   Jaén |  J | 4
+ 966868 | ES |                                           Coya |             Asturias |               Asturias |  O | 4
+ 353182 | ES |                             Xeve (Santo Andre) |              Galicia |             Pontevedra | PO | 1
+ 178497 | ES |                 Noceda (San Pedro) (Cervantes) |              Galicia |                   Lugo | LU | 1
+ 174632 | ES |                           Redecilla Del Camino |      Castilla - Leon |                 Burgos | BU | 4
+ 413269 | ES |                Casanova, A (Pereiro De Aguiar) |              Galicia |                Ourense | OR | 4
+ 808596 | ES |                                        El Viso |            Andalucia |                Córdoba | CO | 4
+ 102870 | ES |                                     Luis Verde |             Canarias |             Las Palmas | GC | 3
+  16228 | ES |                                           Soña |            Cantabria |              Cantabria |  S | 4
+ 212890 | ES |                  Rotella, La (Valdesoto-Siero) |             Asturias |               Asturias |  O | 4
+ 978805 | ES |                                         Pruida |             Asturias |               Asturias |  O | 3
+  70053 | ES |                                     Los Palaos | Comunidad Valenciana |               Alicante |  A | 3
+ 279210 | ES |                                    Las Cañadas |               Murcia |                 Murcia | MU | 4
+ 480958 | ES |                                 Valentins, Els |             Cataluna |              Tarragona |  T | 4
+ 865030 | ES |                                          Viñon |             Asturias |               Asturias |  O | 4
+ 103136 | ES |                                        La Rosa |             Canarias |             Las Palmas | GC | 3
+ 569751 | ES |                          San Martin De La Vega |               Madrid |                 Madrid |  M | 4
+ 578590 | ES |                                    Jesus Pobre | Comunidad Valenciana |               Alicante |  A | 4
+ 471132 | ES |                                   Uhia (Lugar) |              Galicia |               A Coruña |  C | 3
+ 473088 | ES |                                        Meiraos |              Galicia |                   Lugo | LU | 4
+ 674588 | ES |                                         Mandin |              Galicia |               A Coruña |  C | 3
+ 257017 | ES |                                     Vila-Sacra |             Cataluna |                 Girona | GI | 4
+ 216670 | ES |                                       Secarejo |      Castilla - Leon |                   León | LE | 4
+ 312217 | ES |                                 Heras De Ayuso | Castilla - La Mancha |            Guadalajara | GU | 4
+ 765800 | ES |                           La Virgen Del Camino |      Castilla - Leon |                   León | LE | 4
+ 767456 | ES |                              Dehesa De Montejo |      Castilla - Leon |               Palencia |  P | 4
+ 675091 | ES |                                Alcazar Del Rey | Castilla - La Mancha |                 Cuenca | CU | 4
+ 962399 | ES |                                  Urrea De Gaen |               Aragon |                 Teruel | TE | 4
+ 262417 | ES |                Seoane (El Salvador) (Monforte) |              Galicia |                   Lugo | LU | 1
+ 157888 | ES |                                       Mansilla |      Castilla - Leon |                 Burgos | BU | 3
+ 110158 | ES |                       Robledo De La Valdoncina |      Castilla - Leon |                   León | LE | 4
+ 260821 | ES |                             Iglesia, A (Mesia) |              Galicia |               A Coruña |  C | 4
+ 571362 | ES |                         Santa Olalla Del Valle |      Castilla - Leon |                 Burgos | BU | 4
+ 962294 | ES |                           Loma De Maria Angela |            Andalucia |                   Jaén |  J | 3
+ 218878 | ES |                                       Tenzuela |      Castilla - Leon |                Segovia | SG | 4
+ 319345 | ES |                  Niñodaguia (San Paio) Santiso |              Galicia |               A Coruña |  C | 3
+ 473286 | ES |                                      Cala D'Or |             Baleares |               Baleares | PM | 4
+  69067 | ES |                        Forcarei (Casco Urbano) |              Galicia |             Pontevedra | PO | 1
+  12376 | ES |                           Aguillon (Taramundi) |             Asturias |               Asturias |  O | 3
+ 568347 | ES |                        Vilariño (Hio - Cangas) |              Galicia |             Pontevedra | PO | 4
+ 969375 | ES |                                       Casdecid |              Galicia |                Ourense | OR | 3
+ 282354 | ES |                                      Montevite |           Pais Vasco |                  Álava | VI | 3
+ 970662 | ES |                                      Las Minas |            Andalucia |                Almería | AL | 3
+ 460648 | ES |                                        Valsera |             Asturias |               Asturias |  O | 4
+ 473406 | ES |                                  Cala'N Morell |             Baleares |               Baleares | PM | 3
+ 415501 | ES |                           Castillo De Bendinat |             Baleares |               Baleares | PM | 3
+ 286356 | ES |               Rincon De Los Pertusas (Partida) | Comunidad Valenciana |               Alicante |  A | 3
+  29140 | ES |                                      Viñas, As |              Galicia |                Ourense | OR | 3
+ 870537 | ES |                                        Renales | Castilla - La Mancha |            Guadalajara | GU | 4
+ 573322 | ES |                              San Pedro (Darbo) |              Galicia |             Pontevedra | PO | 4
+ 876568 | ES |                               Vilanova (Tapia) |             Asturias |               Asturias |  O | 4
+ 870039 | ES |                                 Ponte Trado, A |              Galicia |                Ourense | OR | 3
+ 414169 | ES |                                           Vigo |              Galicia |             Pontevedra | PO | 4
+ 214198 | ES |                                       Muriedas |            Cantabria |              Cantabria |  S | 4
+ 572539 | ES |                            Barrio De La Puente |      Castilla - Leon |                   León | LE | 4
+ 969348 | ES |                                Fuente (Barres) |             Asturias |               Asturias |  O | 4
+ 571699 | ES |                                      Galbarros |      Castilla - Leon |                 Burgos | BU | 4
+ 383945 | ES |                                      Mendioroz |              Navarra |                Navarra | NA | 4
+ 476166 | ES |                                     Aldeacueva |           Pais Vasco |                Vizcaya | BI | 4
+ 483889 | ES |             Freixo (San Xulian) (A Fonsagrada) |              Galicia |                   Lugo | LU | 1
+ 571890 | ES |                                         Bricia |      Castilla - Leon |                 Burgos | BU | 4
+ 865920 | ES |                                         Cerezo |          Extremadura |                Cáceres | CC | 4
+ 417589 | ES |                                        Latsaga |              Navarra |                Navarra | NA | 4
+ 484705 | ES |               San Romao De Campos (Carballedo) |              Galicia |                   Lugo | LU | 3
+ 673256 | ES |                                          Boada |             Cataluna |                 Lleida |  L | 3
+ 865375 | ES |              Roc De Sant Gaieta (Urbanitzacio) |             Cataluna |              Tarragona |  T | 4
+ 107428 | ES |                             Tetuan (Sotrondio) |             Asturias |               Asturias |  O | 4
+ 672547 | ES |                                     La Atalaya |      Castilla - Leon |              Salamanca | SA | 4
+ 360526 | ES |                          Mareny De San Lorenzo | Comunidad Valenciana |               Valencia |  V | 4
+ 841202 | ES |                                    El Canonigo |             Canarias |             Las Palmas | GC | 3
+ 673724 | ES |                              Eixample De Cunit |             Cataluna |              Tarragona |  T | 3
+ 869115 | ES |                   Insua (San Xulian) (Taboada) |              Galicia |                   Lugo | LU | 3
+ 471630 | ES |                                      Airas, As |              Galicia |                Ourense | OR | 3
+ 961094 | ES |                                      El Romero |            Andalucia |                  Cádiz | CA | 3
+ 157804 | ES |                                  Barrio Solano |      Castilla - Leon |                 Burgos | BU | 3
+ 672571 | ES |                                       Bocacara |      Castilla - Leon |              Salamanca | SA | 4
+ 864347 | ES |                                         Beixec |             Cataluna |                 Lleida |  L | 3
+ 470454 | ES |                                 Vilela (Verin) |              Galicia |                Ourense | OR | 4
+ 314197 | ES |                                 Punta De Abona |             Canarias | Santa Cruz de Tenerife | TF | 3
+ 965257 | ES |                                      Cermuño |             Asturias |               Asturias |  O | 4
+ 764984 | ES |                           Cueva De Manzanedo |      Castilla - Leon |                 Burgos | BU | 4
+ 865306 | ES |                        Villar (Villaviciosa) |             Asturias |               Asturias |  O | 3
+  12164 | ES |                                       Cuñaba |             Asturias |               Asturias |  O | 4
+ 468637 | ES |                             Corujona (Siero) |             Asturias |               Asturias |  O | 4
+ 689836 | ES |                                 La Sarguilla | Castilla - La Mancha |               Albacete | AB | 4
+ 766388 | ES |                            Penoselo (Fabero) |      Castilla - Leon |                   León | LE | 4
+ 587834 | ES |                             Castell De Ferro |            Andalucia |                Granada | GR | 4
+ 468097 | ES |                                     Zarrazin |             Asturias |               Asturias |  O | 3
+ 678800 | ES |                                Beade (Beade) |              Galicia |                Ourense | OR | 1
+  17040 | ES |                                     Navafria |      Castilla - Leon |                Segovia | SG | 4
+ 567942 | ES |                            Castañedo (Tineo) |             Asturias |               Asturias |  O | 3
+ 593638 | ES |                                       Isongo |             Asturias |               Asturias |  O | 3
+ 961446 | ES |                                       Atarfe |            Andalucia |                Granada | GR | 4
+ 965796 | ES |                          Vaos, Os (San Tome) |              Galicia |               A Coruña |  C | 1
+ 275679 | ES |                           Rial, O (Sabucedo) |              Galicia |                Ourense | OR | 1
+ 671671 | ES |                                  Villafruela |      Castilla - Leon |               Palencia |  P | 4
+ 262561 | ES |            Lousada (San Vicente) (Pedrafita) |              Galicia |                   Lugo | LU | 1
+ 469716 | ES |                        La Pobla De Montornes |             Cataluna |              Tarragona |  T | 4
+ 278994 | ES |                        San Cayetano Avileses |               Murcia |                 Murcia | MU | 3
+ 412177 | ES |                              Conde De Arriba |              Galicia |                Ourense | OR | 3
+ 352270 | ES |                            Casas (Trasmiras) |              Galicia |                Ourense | OR | 3
+ 672344 | ES |                                    Vilamanya |             Cataluna |                 Girona | GI | 3
+ 111895 | ES |                     Cabezuela De Salvatierra |      Castilla - Leon |              Salamanca | SA | 4
+ 861695 | ES |                Mercedes, Las, De (Carretera) |             Canarias | Santa Cruz de Tenerife | TF | 3
+ 876604 | ES |                                 Grandamarina |             Asturias |               Asturias |  O | 3
+ 472093 | ES |                 San Millan De Los Caballeros |      Castilla - Leon |                   León | LE | 4
+ 578230 | ES |                   Romeral, El (Urbanizacion) | Comunidad Valenciana |               Alicante |  A | 3
+ 318277 | ES | Sigras De Abaixo (Santiago De Sigras-Cambre) |              Galicia |               A Coruña |  C | 4
+ 586298 | ES |                                  La Perulaca |            Andalucia |                Almería | AL | 3
+ 962274 | ES |                    Camino Real (Casabermeja) |            Andalucia |                 Málaga | MA | 4
+ 869362 | ES |                                    El Rincon |            Andalucia |                Córdoba | CO | 3
+ 847046 | ES |                    Saiñas (Palmeira-Ribeira) |              Galicia |               A Coruña |  C | 4
+ 674515 | ES |                                      Potiche | Castilla - La Mancha |               Albacete | AB | 4
+ 569850 | ES |                                     Villegar |            Cantabria |              Cantabria |  S | 4
+ 162928 | ES |                             Barrio De Rabano |      Castilla - Leon |                 Zamora | ZA | 4
+ 868288 | ES |                                      Tomares |            Andalucia |                Sevilla | SE | 4
+ 960798 | ES |                                    Santiscal |            Andalucia |                  Cádiz | CA | 4
+ 254281 | ES |                Montearagon Estacion (Pueblo) | Castilla - La Mancha |                 Toledo | TO | 1
+ 173343 | ES |                                Barcenaciones |            Cantabria |              Cantabria |  S | 4
+ 967354 | ES |                                   Brañavella |             Asturias |               Asturias |  O | 4
+ 567039 | ES |                      Castromao (Santa Maria) |              Galicia |                Ourense | OR | 3
+  29332 | ES |                           Ludeiros (Ramiras) |              Galicia |                Ourense | OR | 3
+ 576283 | ES |                            Pozuelo De Tabara |      Castilla - Leon |                 Zamora | ZA | 4
+ 416257 | ES |                                      Fortuna |               Murcia |                 Murcia | MU | 4
+ 416053 | ES |                                    El Portus |               Murcia |                 Murcia | MU | 4
+ 671695 | ES |                            Olmos De Pisuerga |      Castilla - Leon |               Palencia |  P | 4
+ 579046 | ES |                          Collado De Alpuente | Comunidad Valenciana |               Valencia |  V | 4
+ 672704 | ES |                      Castellvell, El (Olius) |             Cataluna |                 Lleida |  L | 4
+ 767756 | ES |                    Peñasolana (Urbanizacion) |      Castilla - Leon |              Salamanca | SA | 1
+ 159160 | ES |                                     Villomar |      Castilla - Leon |                   León | LE | 4
+ 258733 | ES |                                     Cal Cego |             Cataluna |              Tarragona |  T | 3
+ 172481 | ES |                                 San Borondon |             Canarias | Santa Cruz de Tenerife | TF | 4
+ 761108 | ES |                         Arbellales (Somiedo) |             Asturias |               Asturias |  O | 3
+ 113450 | ES |                                     Bellotar | Castilla - La Mancha |               Albacete | AB | 4
+  29186 | ES |                                      Cadavos |              Galicia |                Ourense | OR | 4
+ 839666 | ES |                     Moratilla De Los Meleros | Castilla - La Mancha |            Guadalajara | GU | 4
+ 104891 | ES |                                    Argestues |             Cataluna |                 Lleida |  L | 4
+ 959063 | ES |                                   Los Dioses |            Andalucia |                Almería | AL | 3
+  69143 | ES |                    Ponteareas (Casco Urbano) |              Galicia |             Pontevedra | PO | 1
+ 766520 | ES |                                    Espanillo |      Castilla - Leon |                   León | LE | 4
+ 571426 | ES |                               Sas De Penelas |              Galicia |                Ourense | OR | 4
+  86647 | ES |                         San Roman De La Cuba |      Castilla - Leon |               Palencia |  P | 4
+ 485917 | ES |                          Vilaboa (Peroxa, A) |              Galicia |                Ourense | OR | 1
+ 959501 | ES |                                    La Mierla | Castilla - La Mancha |            Guadalajara | GU | 4
+ 845906 | ES |                        Porto De Espasante, O |              Galicia |               A Coruña |  C | 3
+  69473 | ES |                                      Leganes |               Madrid |                 Madrid |  M | 4
+ 417409 | ES |                                       Azagra |              Navarra |                Navarra | NA | 4
+ 170303 | ES |                        Soutelo (San Vicente) |              Galicia |             Pontevedra | PO | 1
+ 369515 | ES |                                   Llucalcari |             Baleares |               Baleares | PM | 4
+ 469597 | ES |                                       Aliezo |            Cantabria |              Cantabria |  S | 4
+ 177914 | ES |                       Torre, A (San Martiño) |              Galicia |                   Lugo | LU | 3
+ 872784 | ES |                                     Vallobal |             Asturias |               Asturias |  O | 4
+ 382913 | ES |                                   Los Arejos |               Murcia |                 Murcia | MU | 4
+ 576582 | ES |                                  Pino De Oro |      Castilla - Leon |                 Zamora | ZA | 4
+ 975090 | ES |                                    El Peñedo |             Asturias |               Asturias |  O | 3
+ 673567 | ES |                              Nafria La Llana |      Castilla - Leon |                  Soria | SO | 4
+  29422 | ES |              Lagoa, A (San Cibrao Das Viñas) |              Galicia |                Ourense | OR | 1
+ 477109 | ES |                               Cañada Juncosa | Castilla - La Mancha |                 Cuenca | CU | 1
+ 761396 | ES |                           San Andres (Tineo) |             Asturias |               Asturias |  O | 3
+ 472494 | ES |                      Acevedo (Ponte Sampaio) |              Galicia |             Pontevedra | PO | 3
+ 960252 | ES |                                 Valdelagrana |            Andalucia |                  Cádiz | CA | 3
+ 571927 | ES |                                    Villarias |      Castilla - Leon |                 Burgos | BU | 4
+ 277182 | ES |                            Vilamean (Nigran) |              Galicia |             Pontevedra | PO | 4
+ 214162 | ES |                                       La Ria |            Cantabria |              Cantabria |  S | 3
+ 478290 | ES |                             Cañada Del Trigo | Comunidad Valenciana |               Alicante |  A | 1
+ 572490 | ES |                             Adrados De Ordas |      Castilla - Leon |                   León | LE | 3
+ 815873 | ES |                                      Bahiñas |             Asturias |               Asturias |  O | 4
+ 576414 | ES |                                 Vega De Tera |      Castilla - Leon |                 Zamora | ZA | 4
+ 277422 | ES |                          Duxame (San Miguel) |              Galicia |             Pontevedra | PO | 3
+ 455848 | ES |                                      Almeria |            Andalucia |                Almería | AL | 4
+ 113690 | ES |                                   Torrenueva | Castilla - La Mancha |            Ciudad Real | CR | 4
+ 456256 | ES |                                      La Loma |            Andalucia |                Almería | AL | 3
+ 964749 | ES |                     Santa Marina (Cudillero) |             Asturias |               Asturias |  O | 4
+ 111972 | ES |                                      Segovia |      Castilla - Leon |                Segovia | SG | 4
+ 810540 | ES |                             Alcolea De Cinca |               Aragon |                 Huesca | HU | 4
+ 965214 | ES |                         Carcedo (Soto Barco) |             Asturias |               Asturias |  O | 4
+ 575167 | ES |                       Castillo De Castilnovo |      Castilla - Leon |                Segovia | SG | 3
+ 867450 | ES |                           San Feliz (Piloña) |             Asturias |               Asturias |  O | 3
+ 156112 | ES |                              Pola De Laviana |             Asturias |               Asturias |  O | 4
+
+(1000 rows)
+
+Tracing session: b8065b80-04dd-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 21:33:08.664000 | 127.0.0.1 |              0 | 127.0.0.1
+                    Parsing SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 1000 ALLOW FILTERING; [Native-Transport-Requests-6] | 2020-10-02 21:33:08.664000 | 127.0.0.1 |             79 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-6] | 2020-10-02 21:33:08.664000 | 127.0.0.1 |            129 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-6] | 2020-10-02 21:33:08.664001 | 127.0.0.1 |            212 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-6] | 2020-10-02 21:33:08.664001 | 127.0.0.1 |            300 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-6] | 2020-10-02 21:33:08.665000 | 127.0.0.1 |            422 | 127.0.0.1
+                     Executing seq scan across 1 sstables for (min(-9223372036854775808), min(-9223372036854775808)] [ReadStage-2] | 2020-10-02 21:33:08.665000 | 127.0.0.1 |            442 | 127.0.0.1
+                                                                         Read 2229 live rows and 611 tombstone cells [ReadStage-2] | 2020-10-02 21:33:08.673000 | 127.0.0.1 |           8990 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 21:33:08.673364 | 127.0.0.1 |           9364 | 127.0.0.1
+
+
+Tracing session: b80b3d80-04dd-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 21:33:08.696000 | 127.0.0.1 |              0 | 127.0.0.1
+                    Parsing SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 1000 ALLOW FILTERING; [Native-Transport-Requests-2] | 2020-10-02 21:33:08.696000 | 127.0.0.1 |             43 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-2] | 2020-10-02 21:33:08.696000 | 127.0.0.1 |             85 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-2] | 2020-10-02 21:33:08.696000 | 127.0.0.1 |            143 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-2] | 2020-10-02 21:33:08.696000 | 127.0.0.1 |            201 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-2] | 2020-10-02 21:33:08.696000 | 127.0.0.1 |            303 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (176781, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 21:33:08.696001 | 127.0.0.1 |            382 | 127.0.0.1
+                                                                         Read 2951 live rows and 819 tombstone cells [ReadStage-3] | 2020-10-02 21:33:08.709000 | 127.0.0.1 |          12892 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 21:33:08.709250 | 127.0.0.1 |          13250 | 127.0.0.1
+
+
+Tracing session: b81094b0-04dd-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 21:33:08.731000 | 127.0.0.1 |              0 | 127.0.0.1
+                    Parsing SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 1000 ALLOW FILTERING; [Native-Transport-Requests-1] | 2020-10-02 21:33:08.731000 | 127.0.0.1 |             56 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 21:33:08.731000 | 127.0.0.1 |            109 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 21:33:08.731000 | 127.0.0.1 |            180 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 21:33:08.731000 | 127.0.0.1 |            240 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 21:33:08.731000 | 127.0.0.1 |            344 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (674407, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 21:33:08.731001 | 127.0.0.1 |            439 | 127.0.0.1
+                                                                         Read 1954 live rows and 511 tombstone cells [ReadStage-3] | 2020-10-02 21:33:08.739000 | 127.0.0.1 |           7841 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 21:33:08.739184 | 127.0.0.1 |           8184 | 127.0.0.1
+
+
+Tracing session: b814da70-04dd-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 21:33:08.759000 | 127.0.0.1 |              0 | 127.0.0.1
+                    Parsing SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 1000 ALLOW FILTERING; [Native-Transport-Requests-1] | 2020-10-02 21:33:08.759000 | 127.0.0.1 |             45 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 21:33:08.759000 | 127.0.0.1 |             92 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 21:33:08.759000 | 127.0.0.1 |            153 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 21:33:08.759000 | 127.0.0.1 |            211 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 21:33:08.759000 | 127.0.0.1 |            312 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (577531, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 21:33:08.759001 | 127.0.0.1 |            353 | 127.0.0.1
+                                                                         Read 2931 live rows and 910 tombstone cells [ReadStage-3] | 2020-10-02 21:33:08.771000 | 127.0.0.1 |          12445 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 21:33:08.771817 | 127.0.0.1 |          12817 | 127.0.0.1
+
+
+Tracing session: b819bc70-04dd-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 21:33:08.791000 | 127.0.0.1 |              0 | 127.0.0.1
+                    Parsing SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 1000 ALLOW FILTERING; [Native-Transport-Requests-1] | 2020-10-02 21:33:08.791000 | 127.0.0.1 |             44 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 21:33:08.791000 | 127.0.0.1 |             90 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 21:33:08.791000 | 127.0.0.1 |            151 | 127.0.0.1
+ Submitting range requests on 256 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 21:33:08.791000 | 127.0.0.1 |            209 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 21:33:08.791000 | 127.0.0.1 |            310 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (106377, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 21:33:08.791001 | 127.0.0.1 |            367 | 127.0.0.1
+                                                                         Read 2824 live rows and 841 tombstone cells [ReadStage-3] | 2020-10-02 21:33:08.802000 | 127.0.0.1 |          11253 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 21:33:08.802614 | 127.0.0.1 |          11614 | 127.0.0.1
+
+
+Tracing session: b81e9e70-04dd-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 21:33:08.823000 | 127.0.0.1 |              0 | 127.0.0.1
+                    Parsing SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 1000 ALLOW FILTERING; [Native-Transport-Requests-1] | 2020-10-02 21:33:08.823000 | 127.0.0.1 |             41 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 21:33:08.823000 | 127.0.0.1 |             87 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 21:33:08.823000 | 127.0.0.1 |            164 | 127.0.0.1
+ Submitting range requests on 253 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 21:33:08.823000 | 127.0.0.1 |            223 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 21:33:08.823000 | 127.0.0.1 |            323 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (667483, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 21:33:08.823001 | 127.0.0.1 |            427 | 127.0.0.1
+                                                                         Read 2747 live rows and 815 tombstone cells [ReadStage-3] | 2020-10-02 21:33:08.833000 | 127.0.0.1 |          10653 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 21:33:08.834013 | 127.0.0.1 |          11013 | 127.0.0.1
+
+
+Tracing session: b8233250-04dd-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 21:33:08.853000 | 127.0.0.1 |              0 | 127.0.0.1
+                    Parsing SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 1000 ALLOW FILTERING; [Native-Transport-Requests-1] | 2020-10-02 21:33:08.853000 | 127.0.0.1 |             41 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 21:33:08.853000 | 127.0.0.1 |             83 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 21:33:08.853000 | 127.0.0.1 |            172 | 127.0.0.1
+ Submitting range requests on 253 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 21:33:08.853000 | 127.0.0.1 |            227 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 21:33:08.853000 | 127.0.0.1 |            333 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (276519, min(-9223372036854775808)] [ReadStage-2] | 2020-10-02 21:33:08.853001 | 127.0.0.1 |            361 | 127.0.0.1
+                                                                         Read 3320 live rows and 960 tombstone cells [ReadStage-2] | 2020-10-02 21:33:08.866000 | 127.0.0.1 |          12753 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 21:33:08.866094 | 127.0.0.1 |          13094 | 127.0.0.1
+
+
+Tracing session: b8281450-04dd-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 21:33:08.885000 | 127.0.0.1 |              0 | 127.0.0.1
+                    Parsing SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 1000 ALLOW FILTERING; [Native-Transport-Requests-1] | 2020-10-02 21:33:08.885000 | 127.0.0.1 |             43 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 21:33:08.885000 | 127.0.0.1 |             87 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 21:33:08.886000 | 127.0.0.1 |            191 | 127.0.0.1
+ Submitting range requests on 253 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 21:33:08.886000 | 127.0.0.1 |            248 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 21:33:08.886000 | 127.0.0.1 |            347 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (864442, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 21:33:08.886000 | 127.0.0.1 |            422 | 127.0.0.1
+                                                                         Read 3189 live rows and 869 tombstone cells [ReadStage-3] | 2020-10-02 21:33:08.898000 | 127.0.0.1 |          12533 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 21:33:08.897880 | 127.0.0.1 |          12880 | 127.0.0.1
+
+
+Tracing session: b82d1d60-04dd-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 21:33:08.918000 | 127.0.0.1 |              0 | 127.0.0.1
+                    Parsing SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 1000 ALLOW FILTERING; [Native-Transport-Requests-2] | 2020-10-02 21:33:08.918000 | 127.0.0.1 |             51 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-2] | 2020-10-02 21:33:08.918000 | 127.0.0.1 |             99 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-2] | 2020-10-02 21:33:08.918000 | 127.0.0.1 |            163 | 127.0.0.1
+ Submitting range requests on 250 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-2] | 2020-10-02 21:33:08.918000 | 127.0.0.1 |            221 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-2] | 2020-10-02 21:33:08.918000 | 127.0.0.1 |            323 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (315457, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 21:33:08.918001 | 127.0.0.1 |            380 | 127.0.0.1
+                                                                         Read 2306 live rows and 610 tombstone cells [ReadStage-3] | 2020-10-02 21:33:08.927000 | 127.0.0.1 |           9004 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 21:33:08.927344 | 127.0.0.1 |           9344 | 127.0.0.1
+
+
+Tracing session: b8318a30-04dd-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 21:33:08.947000 | 127.0.0.1 |              0 | 127.0.0.1
+                    Parsing SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 1000 ALLOW FILTERING; [Native-Transport-Requests-1] | 2020-10-02 21:33:08.947000 | 127.0.0.1 |             41 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 21:33:08.947000 | 127.0.0.1 |             85 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 21:33:08.947001 | 127.0.0.1 |            139 | 127.0.0.1
+ Submitting range requests on 250 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 21:33:08.947001 | 127.0.0.1 |            194 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 21:33:08.947001 | 127.0.0.1 |            296 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (314197, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 21:33:08.947001 | 127.0.0.1 |            332 | 127.0.0.1
+                                                                         Read 2016 live rows and 558 tombstone cells [ReadStage-3] | 2020-10-02 21:33:08.955000 | 127.0.0.1 |           7919 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 21:33:08.955253 | 127.0.0.1 |           8253 | 127.0.0.1
+

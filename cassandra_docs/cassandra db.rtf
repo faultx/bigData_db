@@ -1,0 +1,158 @@
+{\rtf1\ansi\ansicpg1254\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-BoldItalic;\f1\fnil\fcharset0 Menlo-Regular;\f2\fnil\fcharset0 Menlo-Bold;
+\f3\fmodern\fcharset0 CourierNewPSMT;\f4\fnil\fcharset0 HelveticaNeue-BoldItalic;\f5\froman\fcharset0 Times-Roman;
+\f6\froman\fcharset0 Times-BoldItalic;\f7\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red185\green188\blue185;\red18\green18\blue19;\red185\green188\blue186;
+\red17\green18\blue19;\red32\green33\blue38;\red255\green255\blue255;\red38\green38\blue38;\red242\green242\blue242;
+\red41\green101\blue168;\red38\green38\blue38;\red243\green243\blue242;\red88\green209\blue235;\red246\green246\blue239;
+\red255\green255\blue255;\red46\green51\blue52;\red46\green51\blue52;\red41\green45\blue46;\red27\green29\blue31;
+}
+{\*\expandedcolortbl;;\cssrgb\c77241\c78417\c77536;\cssrgb\c8642\c9035\c9809;\cssrgb\c77255\c78431\c77647;
+\cssrgb\c8627\c9020\c9804;\cssrgb\c16471\c17255\c20000;\cssrgb\c100000\c100000\c100000;\cssrgb\c20000\c20000\c20000;\cssrgb\c96078\c96078\c96078;
+\cssrgb\c20000\c47843\c71765;\cssrgb\c20022\c20022\c19997;\cssrgb\c96185\c96184\c96064;\cssrgb\c40000\c85098\c93725;\cssrgb\c97255\c97255\c94902;
+\cssrgb\c100000\c100000\c99985;\cssrgb\c23564\c25919\c26674;\cssrgb\c23529\c25882\c26667;\cssrgb\c21208\c23170\c23928;\cssrgb\c14118\c15294\c16078;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww17760\viewh11760\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\i\b\fs28 \cf2 \cb3 \ul \ulc2 \outl0\strokewidth-16 \strokec2 Installing casandrda:\
+- https://www.howtoforge.com/tutorial/how-to-install-apache-cassandra-on-centos-7/\
+\
+\
+\
+Csv \uc0\u304 mport:
+\f1\i0\b0 \cf4 \cb5 \ulnone \strokec4 \
+COPY excelsior.kisa_test FROM '/home/second2.csv' WITH DELIMITER = ';' AND HEADER = true;\
+\
+(https://stackoverflow.com/questions/28273223/import-from-sql-file-to-cassandra-table?rq=1#:~:text=2%20Answers&text=Save%20the%20file%20on%20the,keyspace%20name%3E%20on%20that%20node.&text=You%20can%20use%20the%20SOURCE,you%20launched%20the%20cqlsh%20command)\
+\
+(https://medium.com/@erbalvindersingh/importing-data-into-cassandra-with-csv-a006ff5f2904)\
+\
+\
+
+\f2\b\fs36 \ul Export to csv:
+\f1\b0\fs28 \ulnone \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf6 \cb7 \outl0\strokewidth-16 \strokec6 COPY ngram1 TO '/home/ngram_exp1.cvs' WITH DELIMITER = ';' AND HEADER = true ;\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf4 \cb5 \outl0\strokewidth-16 \strokec4 \
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f2\b\fs26 \cf8 \cb9 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 constant
+\f1\b0  ::=  {\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-string"}}{\fldrslt 
+\f2\b \cf10 string}} | {\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-integer"}}{\fldrslt 
+\f2\b \cf10 integer}} | {\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-float"}}{\fldrslt 
+\f2\b \cf10 float}} | {\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-boolean"}}{\fldrslt 
+\f2\b \cf10 boolean}} | {\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-uuid"}}{\fldrslt 
+\f2\b \cf10 uuid}} | {\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-blob"}}{\fldrslt 
+\f2\b \cf10 blob}} | NULL\
+
+\f2\b string  
+\f1\b0  ::=  '\\'' (any character where ' can appear if doubled)+ '\\''\
+              '$$' (any character other than '$$') '$$'\
+
+\f2\b integer 
+\f1\b0  ::=  re('-?[0-9]+')\
+
+\f2\b float   
+\f1\b0  ::=  re('-?[0-9]+(\\.[0-9]*)?([eE][+-]?[0-9+])?') | NAN | INFINITY\
+
+\f2\b boolean 
+\f1\b0  ::=  TRUE | FALSE\
+
+\f2\b uuid    
+\f1\b0  ::=  {\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-hex"}}{\fldrslt 
+\f2\b \cf10 hex}}\{8\}-{\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-hex"}}{\fldrslt 
+\f2\b \cf10 hex}}\{4\}-{\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-hex"}}{\fldrslt 
+\f2\b \cf10 hex}}\{4\}-{\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-hex"}}{\fldrslt 
+\f2\b \cf10 hex}}\{4\}-{\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-hex"}}{\fldrslt 
+\f2\b \cf10 hex}}\{12\}\
+
+\f2\b hex     
+\f1\b0  ::=  re("[0-9a-fA-F]")\
+
+\f2\b blob    
+\f1\b0  ::=  '0' ('x' | 'X') {\field{\*\fldinst{HYPERLINK "https://cassandra.apache.org/doc/latest/cql/definitions.html#grammar-token-hex"}}{\fldrslt 
+\f2\b \cf10 hex}}+\
+\
+
+\f0\i\b \cf11 \cb12 \ul \ulc11 Create Table:
+\f1\i0\b0 \cf8 \cb9 \ulnone \
+- https://cassandra.apache.org/doc/latest/cql/ddl.html#create-table\
+\
+- DESC keyspaces;\
+- 
+\f3\fs32 \cf13 \cb8 describe \cf14 tables;
+\f1\fs26 \cf8 \cb9 \
+\
+- 
+\f0\i\b \cf11 \cb12 \ul stress_Test_Toll
+\f1\i0\b0 \cf8 \cb9 \ulnone  \'97> \
+https://docs.datastax.com/en/ddac/doc/datastax_enterprise/tools/toolsCStress.html\
+https://www.vskills.in/certification/tutorial/big-data/apache-cassandra/stress-testing-and-jvm-tuning/\
+\
+Script:\
+- 
+\fs28 \cf4 \cb5 \kerning1\expnd0\expndtw0 \outl0\strokewidth-16 \strokec4 cqlsh -f trace_geo.cql > queryTrace_geo_count.txt
+\fs26 \cf8 \cb9 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+- 
+\fs28 \cf4 \cb5 \kerning1\expnd0\expndtw0 \outl0\strokewidth-16 ./stressTest_wr_1000000_geo.sh > stressTest_wr_1000000_geo.txt\
+
+\fs26 \cf8 \cb9 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\partightenfactor0
+
+\f4\i\b \cf11 \cb15 \ul Data Manipulation\
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f1\i0\b0 \cf8 \cb9 \ulc8 - https://cassandra.apache.org/doc/latest/cql/dml.html\ulnone \
+\
+\
+\
+\
+- 
+\f0\i\b\fs24 \cf16 \cb15 \ul \ulc16 Sorting and limiting results \'97> \
+https://docs.datastax.com/en/dse/5.1/cql/cql/cql_using/useQueryColumnsSort.html
+\f5\i0\b0\fs48 \cf17 \cb7 \ulnone \
+\pard\pardeftab720\partightenfactor0
+
+\fs24 \cf17 \
+- 
+\f6\i\b\fs26 \cf16 \cb15 \ul SELECT
+\f5\i0\b0\fs24 \cf17 \cb7 \ulnone  :\
+https://docs.datastax.com/en/cql-oss/3.3/cql/cql_reference/cqlSelect.html\
+\
+( https://stackoverflow.com/questions/51274364/how-to-view-all-tables-in-cql-and-cqlsh )\
+
+\f0\i\b \cf16 \cb15 \ul \
+\pard\pardeftab720\partightenfactor0
+\cf18 \ulc18 Request tracing in Cassandra:\
+\pard\pardeftab720\partightenfactor0
+
+\f5\i0\b0 \cf17 \cb7 \ulnone \
+https://www.datastax.com/blog/2012/11/request-tracing-cassandra-12\
+\
+
+\f6\i\b\fs28 \cf16 \cb15 \ul \ulc16 Select * from where?:
+\f5\i0\b0\fs24 \cf17 \cb7 \ulnone \
+- 
+\f1\fs28 \cf4 \cb5 \kerning1\expnd0\expndtw0 \outl0\strokewidth-16 SELECT * FROM "excelsior"."geo" WHERE a='ES' LIMIT 10000 ALLOW FILTERING;
+\f5\fs24 \cf17 \cb7 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\
+\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720\partightenfactor0
+
+\f7\fs30 \cf19 Cassandra zarif bir merkezi olmayan veritaban\uc0\u305 d\u305 r, bu nedenle kendisinden otomatik art\u305 rma alan\u305  sa\u287 lamas\u305 n\u305  bekler, vergilendirir ve as\u305 l amac\u305  ortadan kald\u305 r\u305 r, \'e7\'fcnk\'fc bu de\u287 er daha sonra merkezi bir yerde muhafaza edilmelidir\
+Bu nedenle, DB'nin otomatik artan bir say\uc0\u305  elde etmek i\'e7in kulland\u305 \u287 \u305  herhangi bir \'e7\'f6z\'fcm \'fcretmeyin.\
+Bunun yerine, uygulaman\uc0\u305 zdaki kodda veya hizmette kimlik olu\u351 turun, bu kimlik rastgele benzersiz kimlikler olu\u351 turmaya devam edebilir ve bunu veri modelinize uygulamak i\'e7in kullanabilir, bu \u351 ekilde Cassandra'n\u305 n amac\u305  ve faydas\u305  yenilmez\
+}

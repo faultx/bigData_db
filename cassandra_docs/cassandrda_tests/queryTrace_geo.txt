@@ -1,0 +1,22 @@
+Now Tracing is enabled
+
+ id    | a  | b         | c     | d         | e   | f
+-------+----+-----------+-------+-----------+-----+---
+ 82694 | IN | Ratanpura | Bihar | Gopalganj | 217 | 4
+
+(1 rows)
+
+Tracing session: c6885360-04ca-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                | timestamp                  | source    | source_elapsed | client
+-------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                      Execute CQL3 query | 2020-10-02 19:17:32.566000 | 127.0.0.1 |              0 | 127.0.0.1
+ Parsing SELECT * FROM geo WHERE id=82694; [Native-Transport-Requests-3] | 2020-10-02 19:17:32.566000 | 127.0.0.1 |            125 | 127.0.0.1
+                       Preparing statement [Native-Transport-Requests-3] | 2020-10-02 19:17:32.566000 | 127.0.0.1 |            182 | 127.0.0.1
+                   Executing single-partition query on geo [ReadStage-1] | 2020-10-02 19:17:32.566000 | 127.0.0.1 |            337 | 127.0.0.1
+                              Acquiring sstable references [ReadStage-1] | 2020-10-02 19:17:32.566000 | 127.0.0.1 |            400 | 127.0.0.1
+                                 Merging memtable contents [ReadStage-1] | 2020-10-02 19:17:32.566000 | 127.0.0.1 |            426 | 127.0.0.1
+                              Key cache hit for sstable 13 [ReadStage-1] | 2020-10-02 19:17:32.566001 | 127.0.0.1 |            466 | 127.0.0.1
+                    Read 1 live rows and 0 tombstone cells [ReadStage-1] | 2020-10-02 19:17:32.567000 | 127.0.0.1 |            593 | 127.0.0.1
+                                                        Request complete | 2020-10-02 19:17:32.566661 | 127.0.0.1 |            661 | 127.0.0.1
+

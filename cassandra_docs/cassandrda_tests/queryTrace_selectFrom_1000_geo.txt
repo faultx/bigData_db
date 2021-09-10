@@ -1,0 +1,1156 @@
+Now Tracing is enabled
+
+ id     | a  | b                            | c                               | d                              | e        | f
+--------+----+------------------------------+---------------------------------+--------------------------------+----------+------
+ 870550 | ES |             Ribera (Pizarra) |                       Andalucia |                         Málaga |       MA |    4
+ 562418 | PT |          São João dos Montes |                          Lisboa |            Vila Franca de Xira |     1114 |    4
+   1535 | DE |                      Rhaunen |                 Rheinland-Pfalz |                           null |        0 |    4
+ 903146 | US |                        Elsah |                        Illinois |                         Jersey |       83 |    4
+ 219535 | IN |                    Belchampa |                       Jharkhand |                         Garhwa |      346 |    4
+ 227203 | IN |                      Navalga |                       Telangana |                 K.V.Rangareddy |      537 |    3
+  82694 | IN |                    Ratanpura |                           Bihar |                      Gopalganj |      217 |    4
+ 586588 | JP |             Imazucho Katsura |                       Shiga Ken |                  Takashima Shi |  8740424 |    1
+  57379 | IN |                      Vadaver |                      Tamil Nadu |                      Tiruvarur |      619 |    4
+ 211044 | MX | Bosques del Valle 5to Sector |                      Nuevo León |         San Pedro Garza García |       19 |    3
+ 308151 | IN |                     Shalamar |                           Delhi |               North West Delhi |       90 |    4
+ 365538 | MX |                   El Chirivo |                          Sonora |                         Alamos |        3 |    4
+ 632972 | JP |                Shimotadagawa |                      Miyagi Ken |                       Kami Gun |  7446985 |    1
+ 791055 | JP |                 Kodokamigumi |                     Niigata Ken |                    Niigata Shi |  1855427 |    1
+ 478198 | ES |                      Belhoco |                        Canarias |         Santa Cruz de Tenerife |       TF |    3
+ 592807 | PT |                      Serrião |                         Coimbra |                Figueira da Foz |      605 |    1
+ 485567 | PT |               Aldeia da Mata |                      Portalegre |                          Crato |     1206 |    4
+ 938047 | PE |              Ccayco Simipata |                           Cuzco |                        Canchis |      806 |    3
+  98579 | PT |                      Portela |                          Aveiro |                         Arouca |      104 |    4
+ 786959 | AT |                       Grünau |                  Oberösterreich |        Politischer Bezirk Perg |      411 |    3
+ 484479 | MX |                 La Guadalupe |                          Oaxaca |            Santos Reyes Nopala |      526 |    3
+  12775 | HR |          Bukovac Svetojanski |                      Zagrebačka |                           null |     null |    3
+  76367 | NO |                      Hamarøy |                        Nordland |                        Hamarøy |     1875 | null
+ 421105 | ES |                      Berfull |            Comunidad Valenciana |                       Valencia |        V |    4
+ 929013 | PE |                      Surcuña |                             Ica |                          Nazca |     1103 |    4
+ 219028 | JP |           Higashikariki 4-Jo |                        Hokkaido |                    Sapporo Shi |  2128291 |    1
+ 318492 | IN |                        Urmal |                       Jharkhand |            Seraikela-kharsawan |      369 |    4
+  46073 | IT |                        Barni |                       Lombardia |                           Como |       CO |    4
+ 104937 | AU |                   Cherrypool |                        Victoria |                           null |     null |    4
+ 754788 | FR |                    La Gimond |            Auvergne-Rhône-Alpes |                          Loire |       42 |    5
+ 472890 | ES |         Igrexario, O (Marin) |                         Galicia |                     Pontevedra |       PO |    1
+ 252815 | MX |                    Ahuatempa | Veracruz de Ignacio de la Llave |                Soledad Atzompa |      147 |    4
+ 630268 | PE |                   Cochapampa |                     La Libertad |                         Otuzco |     1306 |    3
+ 254071 | AT |                    Achleiten |                  Oberösterreich |   Politischer Bezirk Schärding |      414 |    4
+ 690795 | SE |                    Sundsvall |                  Västernorrland |                      Sundsvall |     2281 |    4
+ 731505 | IN |                       Maholi |                   Uttar Pradesh |                        Sitapur |      154 |    4
+ 496362 | IN |                Naruganahalli |                       Karnataka |                       Tumakuru |      571 |    3
+ 642300 | PE |                    San Pedro |                          Ancash |                          Casma |      208 |    3
+ 204405 | MX |                    Hoteleros |                          Oaxaca |               Oaxaca de Juárez |       67 |    3
+ 892082 | US |                        Kenai |                          Alaska |                Kenai Peninsula |      122 |    4
+  89864 | IT |                    Mignanego |                         Liguria |                         Genova |       GE |    4
+ 554792 | LU |             Esch-sur-Alzette |                Esch-sur-Alzette |               Esch-sur-Alzette |        4 |    6
+ 765309 | SG |             Jalan Mat Jambol |                            null |                           null |     null | null
+ 339894 | MX |                 El Fiscalejo |                         Jalisco |                       Quitupan |       69 |    4
+ 363245 | GB |                  Little Dens |                        Scotland |                  Aberdeenshire |      ABD |    3
+ 778290 | FR |                  Rodelinghem |                 Hauts-de-France |                  Pas-de-Calais |       62 |    5
+ 632985 | KR |                       철원읍 |                          강원도 |                         철원군 |    32360 |    6
+ 808378 | FR |                      Batilly |                       Normandie |                           Orne |       61 |    5
+ 923128 | PT |                        Zeive |                        Bragança |                       Bragança |      402 |    4
+ 321996 | IN |                   Kosamkheda |                  Madhya Pradesh |                    Narsinghpur |      452 |    4
+ 482569 | MX |                 Real del Río |                 Baja California |                       Mexicali |        2 |    1
+ 347499 | GB |               Coille Mhorgil |                        Scotland |                       Highland |      HLD |    3
+ 294913 | IN |                      Fherusa |                           Bihar |                          Saran |      219 |    3
+ 591862 | JP |               Saijocho Saijo |                   Hiroshima Ken |                    Shobara Shi |  7372275 |    1
+  23958 | MX |          San Rafael Amolucan |                         Hidalgo |                    Singuilucan |       57 |    4
+ 564000 | IN |                       Paunar |                  Madhya Pradesh |                     Chhindwara |      455 |    4
+ 893320 | PT |                       Aveiro |                          Aveiro |                         Aveiro |      105 |    4
+ 585959 | PT |                       Pinhel |                          Guarda |                         Pinhel |      910 |    4
+ 924747 | JP |         Taiyu Kashiwagishita |                       Akita Ken |                     Yokote Shi |  2110504 |    1
+ 758577 | KR |                         북구 |                      부산광역시 |                           북구 |    21080 |    6
+ 668155 | ES |         Gallegos De Sobrinos |                 Castilla - Leon |                          Ávila |       AV |    4
+ 468962 | MX |               Peña de  Horeb |             Baja California Sur |                      Los Cabos |        8 |    3
+ 641108 | JP |                    Saruhachi |                     Niigata Ken |                       Sado Shi |  1853313 |    1
+ 293795 | IN |                   Dhakia Jut |                   Uttar Pradesh |                      Moradabad |      135 |    3
+  48024 | PK |                        Pechi |                      Balochisan |                           null |     null | null
+ 570033 | JP |                    Yubunecho |                   Hiroshima Ken |                      Otake Shi |  1853661 |    1
+  88647 | PL |                        Bytów |                       Pomerania |                Powiat bytowski |     2201 |    6
+ 898021 | PE |                    Chuchicol |                      Lambayeque |                      Ferreñafe |     1402 |    3
+ 479744 | PT |            Carreiro de Areia |                        Santarém |                   Torres Novas |     1419 |    4
+ 881212 | PL |                   Wierzbinek |                  Greater Poland |                Powiat koniński |     3010 |    6
+  13946 | MX |                Mexicalco III |                          México |            Ecatepec de Morelos |       33 |    3
+ 590593 | JP |         Ikanikeisaiganaibaai |                     Saitama Ken |                      Iruma Shi |  1861469 |    1
+ 616236 | JP |                        Teeji |                     Okayama Ken |                     Tomata Gun |  1850139 |    1
+ 686745 | IN |                     Kodapada |                          Odisha |                      Kendujhar |      375 |    3
+ 513712 | MX |                    El Tábano |                      Guanajuato |            Purísima del Rincón |       25 |    4
+  79369 | PE |                 Lanchi Punta |                        Amazonas |                           Luya |      105 |    3
+ 259226 | MX |     Cereso Ciudad Valles SLP |                 San Luis Potosí |                  Ciudad Valles |       13 |    1
+  25453 | PE |                Champacuchuni |                           Junín |                          Yauli |     1208 |    3
+ 584700 | DE |                   Griesstätt |                          Bayern |                  Upper Bavaria |       91 |    4
+ 136173 | IN |                      Dalhori |                 Jammu & Kashmir |                        Rajauri |        6 |    3
+ 941333 | PT |                     Barrosas |                           Porto |                     Felgueiras |     1303 |    4
+ 409712 | PL |                         Kąty |                   Lesser Poland |                 Powiat brzeski |     1202 |    6
+ 508785 | JP |              Nishitosa Iwama |                       Kochi Ken |                   Shimanto Shi |  7405898 |    1
+ 491620 | MX |                    El Rincón |                        Guerrero |             Cochoapa el Grande |       78 |    3
+ 168018 | CZ |          Všejanská Zavadilka |                Středočeský kraj |                        Nymburk |     3208 | null
+ 778239 | JP |                Odacho Nojiro |                     Shimane Ken |                        Oda Shi |  1854750 |    1
+ 821903 | SG |           Tampines Street 73 |                            null |                           null |     null | null
+  44894 | PE |                   Huinchunya |                        Apurimac |                      Antabamba |      303 |    3
+ 908542 | PE |                     Pucanoco |                        Arequipa |                       Caylloma |      405 |    3
+ 322529 | IN |                     Bhimjore |                          Odisha |                     Jharsuguda |      371 |    3
+ 114838 | AU |                     Badgebup |               Western Australia |                     KALGOORLIE |     null |    4
+ 712492 | MX |              Tierra Colorada |                        Guerrero |                 Cuajinicuilapa |       23 |    4
+ 246877 | JP |          Imagumano Senzancho |                        Kyoto Fu |                      Kyoto Shi |  1857906 |    1
+ 798535 | FR |                     Nollieux |            Auvergne-Rhône-Alpes |                          Loire |       42 |    5
+ 338781 | IN |                      Baldhoi |                         Gujarat |                         Rajkot |      476 |    4
+ 423503 | MX |                   El Yeguate |                         Durango |                      Mezquital |       14 |    4
+ 847390 | GB |                      Harston |                         England |                 Cambridgeshire | 11609029 |    4
+  67647 | IN |                      Garposh |                          Odisha |                      Sambalpur |      372 |    3
+ 779629 | AT |                  Kleinzapfen |                         Kärnten | Politischer Bezirk Völkermarkt |      208 |    4
+ 469519 | LT |                  Sulinkių k. |                 Šiauliai County |            Radviliškio r. sav. |       71 |    3
+ 507502 | IN |                Kurukattur |                 Tamil Nadu |                                 Tuticorin |     627 |    3
+ 817879 | JP |                    Hirata |                Okayama Ken |                              Mimasaka Shi | 1857232 |    1
+ 965958 | ES |    Quintas (Santo Estevo) |                    Galicia |                                  A Coruña |       C |    3
+  89997 | PL |                 Krzykawka |              Lesser Poland |                            Powiat olkuski |    1212 |    6
+ 129177 | IN |                Pothukurru |             Andhra Pradesh |                             East Godavari |     545 |    1
+ 605307 | LV |             Krievragciems |                 Talsu nov. |                             Ķūļciema pag. |  880264 |    4
+ 637493 | LV |                 Teļakolni |                Ciblas nov. |                               Blontu pag. |  684944 |    3
+ 577734 | PE |                Santa Rosa |                       Lima |                                  Barranca |    1502 |    4
+ 172138 | ES |       Paredes De Buitrago |                     Madrid |                                    Madrid |       M |    4
+ 401317 | JP |                      Aoba |                 Aomori Ken |                             Hachinohe Shi | 2130200 |    4
+ 881294 | RU |                 Липовское |       Свердловская Область |                           РЕЖЕВСКИЙ РАЙОН |    null |    4
+ 552835 | JP |             Kamishirokane |                   Gifu Ken |                                  Seki Shi | 1852765 |    1
+ 175666 | AR |   MIGUELETE (PARADA FCGM) |               Buenos Aires |                                      null |    null |    1
+ 899435 | PT |                  Guisande |                     Aveiro |                      Santa Maria da Feira |     109 |    1
+ 246837 | MX |                 La Cumbre |                    Sinaloa |                                     Choix |       7 |    4
+ 760699 | KR |                    은평구 |                 서울특별시 |                                    은평구 |   11120 |    6
+ 812931 | SG |            Mackenzie Road |                       null |                                      null |    null | null
+ 197308 | AT |                Altenmarkt |                    Kärnten | Politischer Bezirk Sankt Veit an der Glan |     205 |    4
+ 476239 | DE |                 Liebstadt |                    Sachsen |                                      null |       0 |    4
+ 455057 | JP |             Kirigasakicho |                   Gifu Ken |                                 Ogaki Shi | 1854700 |    1
+ 623698 | PT |                Ribeirinha |                     Azores |                            Ribeira Grande |    4205 |    4
+  83078 | IN |                  Katsakrh |                      Bihar |                                     Banka |     225 |    3
+ 391990 | MX | La Sabanilla (Portezuelo) |            San Luis Potosí |                        Cerro de San Pedro |       9 |    4
+  96429 | PL |                   Hucisko |                    Mazovia |                          Powiat przysuski |    1423 |    6
+ 251141 | PT |                     Porto |                      Porto |                                     Porto |    1312 |    4
+ 708054 | TR |                 Altikesek |                    Kayseri |                                 Pinarbaşi |    null |    4
+ 523427 | PT |                    Árvore |                      Porto |                             Vila do Conde |    1316 |    4
+ 676998 | PT |             Vila do Conde |                      Porto |                             Vila do Conde |    1316 |    4
+ 578937 | CH |       Brienz/Brinzauls GR |          Kanton Graubünden |                             Region Albula |    1841 |    4
+ 593449 | FR |                    Branne |    Bourgogne-Franche-Comté |                                     Doubs |      25 |    5
+  21757 | PE |                 Contihuyo |                       Puno |                     San Antonio De Putina |    2110 |    3
+  92852 | JP |                 Yokonocho |                  Aichi Ken |                               Inazawa Shi | 1861601 |    1
+ 376774 | MX |            5 de Diciembre |                    Morelos |                                   Cuautla |       6 |    3
+ 311868 | IN |                   Bijauri |              Uttar Pradesh |                                      Etah |     201 |    4
+ 501524 | JP |                Tangimachi |                   Tokyo To |                              Hachioji Shi | 8304375 |    1
+ 223201 | JP |           Kamocho Kambara |                Shimane Ken |                                 Unnan Shi | 7392557 |    1
+ 199598 | MX |       San Jose de La Laja |                 Nuevo León |                              Los Herreras |      27 |    4
+ 197230 | GB |                 Smallburn |                   Scotland |                             East Ayrshire |     EAY |    3
+ 778059 | JP |          Kutsuki Kuwabara |                  Shiga Ken |                             Takashima Shi | 8740424 |    1
+ 284016 | ES |                      Rada |                    Navarra |                                   Navarra |      NA |    1
+ 898964 | PE |                Sahuachuco |                     Ancash |                                  Pallasca |     215 |    3
+ 633917 | LV |                   Cegaļne |            Daugavpils nov. |                              Kalupes pag. |  440262 |    3
+ 464665 | IN |                       Wok |                     Sikkim |                              South Sikkim |    null |    3
+ 931662 | PT |                   Coutada |             Castelo Branco |                                   Covilhã |     503 |    4
+ 532373 | LT |              Kapsūdžių k. |           Telšių apskritis |                           Plungės r. sav. |      68 |    1
+  53916 | PL |                    Glinno |             Greater Poland |                        Powiat wągrowiecki |    3028 |    6
+ 474658 | GB |                   Newgord |                   Scotland |                          Shetland Islands |     ZET |    3
+ 709742 | FR |                Remaucourt |            Hauts-de-France |                                     Aisne |       2 |    5
+  10305 | FR |                   Avignon | Provence-Alpes-Côte d'Azur |                                  Vaucluse |      84 |    5
+ 430032 | IN |           Hinganghat Town |                Maharashtra |                                    Wardha |     504 |    3
+ 806105 | FR |           Fay-de-Bretagne |           Pays de la Loire |                          Loire-Atlantique |      44 |    5
+ 110491 | AR |            COLONIA HANSEN |                   Santa Fe |                                      null |    null |    3
+ 142172 | AR |                  FILMATUE |                    Neuquen |                                      null |    null |    3
+  66537 | IN |            Puna Kumbharia |                    Gujarat |                                     Surat |     492 |    1
+ 699626 | AT |                   Arnbach |                      Tirol |                  Politischer Bezirk Lienz |     707 |    4
+  86607 | ES |        Barrios De La Vega |            Castilla - Leon |                                  Palencia |       P |    4
+ 177022 | CH |                   Frümsen |          Kanton St. Gallen |                      Wahlkreis Werdenberg |    1724 |    4
+ 630530 | PE |               Santa Clara |                     Ancash |                                     Santa |     218 |    4
+ 162199 | HR |                    Brezje |                 Zagrebačka |                                      null |    null |    3
+ 469808 | PT |                 Deldoreto |                      Viseu |                           Carregal do Sal |    1802 |    1
+ 617222 | PE |                      Yuco |                     Ancash |                                   Huaylas |     212 |    3
+ 511810 | IN |                Tinpukuria |                West Bengal |                               Murshidabad |     333 |    3
+  26945 | PE |                    Luluca |                      Piura |                                   Ayabaca |    2002 |    3
+ 195919 | JP |            Nishikikojicho |                  Ehime Ken |                               Niihama Shi | 1855422 |    1
+ 224204 | MX |                 El Huazán |                     Oaxaca |                        Villa Sola de Vega |     277 |    4
+  68817 | ES |   Santo Andre (Trasmiras) |                    Galicia |                                   Ourense |      OR |    3
+ 496164 | IN |                Gudeballur |                  Telangana |                             Mahabub Nagar |     538 |    3
+  55716 | PL |                Gniejewice |                    Mazovia |                           Powiat grójecki |    1406 |    6
+   1929 | DE |                   Nortorf |         Schleswig-Holstein |                                      null |       0 | null
+ 249066 | MX |                   Tepeyac |                     Puebla |                                    Puebla |     114 |    4
+ 278728 | PE |                   Encanto |                 San Martín |                                Bellavista |    2202 |    4
+ 553208 | MX |               Los Ángeles |                    Chiapas |                                 Tapachula |      89 |    4
+ 238512 | MX |                 El Charco |        Michoacán de Ocampo |                                   Hidalgo |      34 |    4
+ 105555 | ES |                   Fragosa |                Extremadura |                                   Cáceres |      CC |    4
+ 382006 | MX |      Privada Sierra Madre |                 Nuevo León |                    San Pedro Garza García |      19 |    3
+   9262 | DZ |        Cite Les Amandiers |                    Tlemcen |                                      null |    null |    3
+ 314695 | LV |                 Parsikova |              Kārsavas nov. |                            Mērdzenes pag. |  681072 |    3
+ 632202 | IT |                 Gambulaga |             Emilia-Romagna |                                   Ferrara |      FE |    4
+ 843478 | FR |                   L'Aigle |                  Normandie |                                      Orne |      61 |    5
+ 396724 | KR |                      서구 |                 대전광역시 |                                      서구 |   25030 |    6
+ 235576 | JP |        Misumicho Kurosawa |                Shimane Ken |                                Hamada Shi | 1863308 |    1
+ 176524 | PT |                Porto Alto |                   Santarém |                                 Benavente |    1405 |    4
+ 992276 | FR |                      Momy |         Nouvelle-Aquitaine |                      Pyrénées-Atlantiques |      64 |    5
+ 390651 | MX |                Amilpillas |                   Guerrero |                       Cutzamala de Pinzón |      27 |    4
+  50562 | PL |                    Kielce |             Świętokrzyskie |                                    Kielce |    2661 |    6
+ 424875 | MX |          Chalet La Cumbre |                 Guanajuato |                                      León |      20 |    3
+ 158062 | AT |                    Sutsch |                    Kärnten | Politischer Bezirk Sankt Veit an der Glan |     205 |    4
+ 100268 | IN |               Parakkadavu |                     Kerala |                                 Ernakulam |     595 |    4
+   4292 | AR |                HUANQUEROS |                   Santa Fe |                                      null |    null |    4
+ 390350 | IN |                Vedicherla |             Andhra Pradesh |                                   Nellore |     550 |    3
+ 412813 | ES |                Cancela, A |                    Galicia |                                   Ourense |      OR |    3
+ 870403 | MY |                     Debak |                    Sarawak |                                      null |    null |    3
+ 354927 | IN |                   Simalia |                    Gujarat |                                  Vadodara |     486 |    4
+  46779 | IN |                   Mangura |                      Bihar |                                Kishanganj |     210 |    3
+ 982385 | PT |                    Águeda |                     Aveiro |                                    Águeda |     101 |    4
+ 601778 | NL |    Capelle aan den IJssel |               Zuid-Holland |                    Capelle aan den IJssel |     502 |    6
+ 988219 | PT |                    Mourão |                      Évora |                                    Mourão |     708 |    4
+ 399104 | PL |                  Żabickie |                   Podlasie |                        Powiat augustowski |    2001 |    6
+ 708197 | JP |        Kamitoba Asanomoto |                   Kyoto Fu |                                 Kyoto Shi | 1857906 |    1
+ 816561 | FR |                    Xousse |                  Grand Est |                        Meurthe-et-Moselle |      54 |    5
+ 160158 | CZ |                           Jankovice |        Karlovarský kraj |                       Karlovy Vary |     3403 |    4
+ 333035 | IN |                          Udairamsar |               Rajasthan |                            Bikaner |      101 |    3
+ 884234 | RU |                            Доробино |        Тульская Область |             ТЕПЛО-ОГАРЕВСКИЙ РАЙОН |     null |    4
+ 241215 | IN |                   Mandawar (Bijnor) |           Uttar Pradesh |                             Bijnor |      134 |    4
+ 955350 | PT |                 Oliveira São Mateus |                   Braga |             Vila Nova de Famalicão |      312 |    4
+ 411148 | KR |                                동구 |              부산광역시 |                               동구 |    21030 |    6
+ 347039 | IN |                             Barwala |               Rajasthan |                             Nagaur |      112 |    3
+ 520671 | MX |                        La Esperanza |                  Puebla |                    Tlatlauquitepec |      186 |    3
+ 534202 | IN |                              Tekuri |           Uttar Pradesh |                           Varanasi |      197 |    4
+ 969685 | FR |                            Asnelles |               Normandie |                           Calvados |       14 |    5
+ 497780 | JP | Tsuyuguchi.Nakanumada.Nakano.Natsuy |           Tokushima Ken |                           Mima Shi |  7406325 |    1
+ 617561 | MX |                        El Rocillito |              Guanajuato |      Santa Cruz de Juventino Rosas |       35 |    4
+ 698938 | KR |                              연제구 |              부산광역시 |                             연제구 |    21130 |    6
+ 414903 | MX |                          San Miguel |                 Durango |                          Guanaceví |        9 |    4
+ 279894 | ES |                          Ollobarren |                 Navarra |                            Navarra |       NA |    4
+  52209 | IN |                          Naupada RS |          Andhra Pradesh |                         Srikakulam |      542 |    3
+ 152158 | DZ |                        Allane Tribu |                  Bouira |                               null |     null |    1
+ 137968 | AU |                            Ovingham |         South Australia |                     SA SUBS NEAR 1 |     null |    4
+ 111330 | AU |                        Eastern View |                Victoria |                    VIC FAR COUNTRY |     null |    3
+ 448177 | JP |                          Takabatake |             Saitama Ken |                         Fukaya Shi |  1864030 |    4
+ 413699 | LV |                           Čerpinski |          Krāslavas nov. |                       Aulejas pag. |   600248 |    3
+ 593923 | PT |                       Praia de Mira |                 Coimbra |                               Mira |      608 |    4
+ 357232 | AT |                          Hadersdorf |          Oberösterreich | Politischer Bezirk Urfahr-Umgebung |      416 |    4
+ 304277 | HR |                  Vučjak Feričanački |       Osječko-Baranjska |                               null |     null |    4
+ 899731 | FR |                              Nantes |        Pays de la Loire |                   Loire-Atlantique |       44 |    5
+ 741586 | JP |                          Uriuchicho |            Shizuoka Ken |                      Hamamatsu Shi |  1863288 |    1
+ 222671 | MX |                         El Progreso |     Michoacán de Ocampo |                      Tangamandapio |       84 |    3
+ 716730 | RO |                              Suseni |                    Alba |                               null |     null |    4
+ 437847 | MX |                        Pancho Villa |               Chihuahua |                              Janos |       35 |    4
+ 568415 | PT |                             Coimbra |                 Coimbra |                            Coimbra |      603 |    4
+ 835088 | SG |                         Chapel Road |                    null |                               null |     null | null
+  79435 | PE |                           Apanguray |                Amazonas |                               Luya |      105 |    3
+ 620795 | IN |                              Malsar |                 Gujarat |                           Vadodara |      486 |    3
+ 102707 | AT |                          Badersdorf |              Burgenland |        Politischer Bezirk Oberwart |      109 |    4
+ 819229 | PE |                          Catucancha |                  Ancash |                            Huaylas |      212 |    3
+ 693376 | MK |                           Istibanja |                    null |                               null |     null |    4
+ 513512 | AT |                              Kronau |          Oberösterreich |       Politischer Bezirk Linz-Land |      410 |    4
+ 296717 | IN |                   Rallapadu Project |          Andhra Pradesh |                           Prakasam |      549 |    3
+ 782149 | AT |                              Winden |        Niederösterreich |            Politischer Bezirk Melk |      315 |    4
+ 861967 | ES |                       La Veguetilla |                Canarias |                         Las Palmas |       GC |    3
+ 855407 | SG |                      Sunbird Circle |                    null |                               null |     null | null
+ 236829 | MX |                  Barranca del Mamey |                  México |                           Amatepec |        8 |    4
+ 989138 | PE |                              Arenal |                Amazonas |                              Bagua |      102 |    4
+ 320872 | PE |                       Chachacomayoc |                   Cuzco |                               Anta |      803 |    3
+ 134071 | AR |                 BAÑADOS DEL PANTANO |                La Rioja |                               null |     null |    3
+ 252624 | MX |              Santa Teresa (Establo) |                  Sonora |                             Cajeme |       18 |    3
+ 875622 | NO |                                Ålen |               Trøndelag |                           Holtålen |     5026 |    4
+ 766326 | FR |                               Dijon | Bourgogne-Franche-Comté |                          Côte-d'Or |       21 |    5
+ 632765 | LU |                              Bissen |                  Mersch |                             Bissen |        2 |    6
+  42565 | IN |                            Edulabad |               Telangana |                     K.V.Rangareddy |      537 |    3
+ 958562 | JP |                          Izumigaoka |              Miyagi Ken |                         Sendai Shi |  2111147 |    1
+ 444592 | LT |                         Stegvilų k. |          Tauragė County |                    Šilalės r. sav. |       87 |    3
+  76732 | GB |                             Ardmair |                Scotland |                           Highland |      HLD |    4
+ 421698 | IN |                            Sologuri |                   Assam |                             Nagaon |      305 |    3
+ 618607 | PT |                              Ínfias |                   Braga |                             Vizela |      314 |    4
+ 852057 | GB |                          Crich Carr |                 England |                         Derbyshire | 11609031 |    3
+ 189768 | MX |                       Puente Grande |                  México |                         Huehuetoca |       35 |    1
+ 994552 | PT |                             Pataias |                  Leiria |                           Alcobaça |     1001 |    4
+ 584190 | PE |                         28 de Julio |                  Loreto |                             Loreto |     1603 |    4
+ 348003 | GB |                             Seamill |                Scotland |                     North Ayrshire |      NAY |    4
+ 178369 | JP |                Wadayamacho Jonandai |               Hyogo Ken |                          Asago Shi |  7370818 |    1
+ 533868 | IN |                             Gorgama |                   Bihar |                          Begusarai |      222 |    3
+ 591130 | JP |                   Toyosakacho Asuka |           Hiroshima Ken |               Higashihiroshima Shi |  1862821 |    1
+ 298833 | IN |                               Utagi |             Maharashtra |                             Sangli |      531 |    1
+ 604149 | JP |                             Maesawa |                Tokyo To |                  Higashikurume Shi |  1862785 |    4
+ 453060 | IN |                        Brahmaniposi |                  Odisha |                         Mayurbhanj |      376 |    3
+ 688335 | SE |                             Hagfors |                Värmland |                            Hagfors |     1783 |    4
+ 359377 | JP |                         Toyokamachi |             Ibaraki Ken |                           Joso Shi |  7452802 |    1
+ 345281 | IN |                             Ashagad |             Maharashtra |                              Thane |      517 |    1
+ 160311 | CZ |                              Služín |          Olomoucký kraj |                          Prostějov |     3709 |    4
+ 998563 | PT |                             Canelas |                  Aveiro |                          Estarreja |      108 |    4
+ 822781 | PE |          Nueva Esperanza de Huaylas |                 Huanuco |                            Huanuco |     1001 |    3
+ 975840 | PL |                          Szydłówiec |          Greater Poland |                    Powiat słupecki |     3023 |    6
+  85623 | ES |                              Pineda |                Asturias |                           Asturias |        O |    4
+ 263256 | MX |                   Villa del Tratado |                  Puebla |                             Puebla |      114 |    3
+   1235 | DE |                           Osterwald |           Niedersachsen |                               null |        0 | null
+ 233877 | MX |                              Pabelo |                 Jalisco |                 Villa Purificación |       68 |    4
+ 926020 | PT |                               Gatas |          Castelo Branco |                     Castelo Branco |      502 |    4
+ 235942 | IN |                           Akkanwali |                  Punjab |                              Mansa |       47 |    4
+ 999145 | PT |                               Moura |                    Beja |                              Moura |      210 |    4
+  27477 | PE |                          Chujñalaya |                    Puno |                               Puno |     2101 |    3
+ 926803 | PE |                       La Candelaria |                Arequipa |                           Castilla |      404 |    3
+ 240011 | MX |    Ninguno [Estación de Microondas] |         San Luis Potosí |                           Cárdenas |        5 |    3
+ 392215 | LT |                        Vaigailių k. |         Šiauliai County |                   Pakruojo r. sav. |       65 |    3
+  56309 | IN |                          Moonnekkar |                  Kerala |                           Palakkad |      593 |    3
+ 763102 | LT |                        Detlaukės k. |         Klaipėda County |                     Skuodo r. sav. |       75 |    1
+ 265864 | JP |         Minamikatamachi Toneyashiki |              Miyagi Ken |                           Tome Shi |  2110755 |    1
+ 446620 | LT |                        Dambuvkos k. |            Utena County |                   Anykščių r. sav. |       34 |    3
+ 788778 | GB |                           Foul Mile |                 England |                        East Sussex | 11609033 |    3
+ 969045 | PL |                          Laurentowo |          Warmia-Masuria |                Powiat szczycieński |     2817 |    6
+ 467207 | CZ |      Rokytnice nad Jizerou-Hleďsebe |          Liberecký kraj |                             Semily |     3608 | null
+ 614230 | PT |                             Cinfães |                   Viseu |                            Cinfães |     1804 |    4
+ 152540 | CZ |                 Rochlice-Liberec VI |          Liberecký kraj |                            Liberec |     3505 | null
+ 671492 | ES |                            Acardece |                Canarias |             Santa Cruz de Tenerife |       TF |    4
+ 982859 | PL |                            Szczecin |          West Pomerania |                           Szczecin |     3262 |    6
+ 943780 | PT |                             Funchal |                 Madeira |                            Funchal |     3103 |    4
+ 107844 | DE |                              Riebau |          Sachsen-Anhalt |                               null |        0 |    4
+ 596686 | PT |                      Samora Correia |                Santarém |                          Benavente |     1405 |    4
+ 142366 | AR |      KILOMETRO 1895 (APEADERO FCGB) |                 Formosa |                               null |     null |    3
+ 411834 | IN |                            Baisinga |                  Odisha |                         Mayurbhanj |      376 |    4
+ 449125 | JP |                                Kita |              Shiga Ken |                              Yasu Shi |  1848489 |    4
+ 659928 | PE |                           Mancapeca |                Huanuco |                             Huamalies |     1005 |    3
+ 582365 | FR |                              Angers |       Pays de la Loire |                        Maine-et-Loire |       49 |    5
+ 604809 | JP |   Marunochi Tokyobirudeingu(14-Kai) |               Tokyo To |                            Chiyoda Ku |  1864529 |    1
+ 264330 | MX |                            El Llano |                 Sonora |              San Miguel de Horcasitas |       56 |    4
+ 641630 | JP |                             Aioicho |           Shizuoka Ken |                         Hamamatsu Shi |  1863288 |    4
+ 641515 | PT |                             Cascais |                 Lisboa |                               Cascais |     1105 |    4
+ 204879 | IN |                             Khiriya |          Uttar Pradesh |                                   Mau |      192 |    4
+ 233791 | JP |                  Kikutamachi Oroshi |          Fukushima Ken |                          Koriyama Shi |  2112139 |    1
+ 409517 | IT |                            Molochio |               Calabria |                    Reggio Di Calabria |       RC |    4
+ 722143 | LV |                            Denisova |         Krāslavas nov. |                       Robežnieku pag. |   600286 |    3
+ 189809 | PT |                      Ponte da Torre |                 Leiria |                                Nazaré |     1011 |    1
+ 476673 | JP |                            Todoroki |              Akita Ken |                         Yurihonjo Shi |  7443160 |    1
+ 631714 | PT |                              Moledo |       Viana do Castelo |                               Caminha |     1602 |    4
+ 763059 | JP |                                Kobe |             Kagawa Ken |                             Shozu Gun |  1851654 |    1
+  73281 | MX |                            Virreyes |              Zacatecas |                             Guadalupe |       17 |    3
+ 686002 | JP |                              Yashio |            Saitama Ken |                            Yashio Shi |     null |    4
+ 801816 | SG |                  West Coast Terrace |                   null |                                  null |     null | null
+ 404700 | IN |                             Kannara |                 Kerala |                              Thrissur |      594 |    4
+ 986190 | PT |                             Espinho |                 Aveiro |                               Espinho |      107 |    4
+ 795034 | FR |                         Sousmoulins |     Nouvelle-Aquitaine |                     Charente-Maritime |       17 |    5
+ 320890 | GB |                        Kirk Smeaton |                England |                       North Yorkshire | 11609043 |    4
+ 979745 | PL |                               Krągi |         West Pomerania |                   Powiat szczecinecki |     3215 |    6
+ 357325 | JP |                     Furujukushinden |            Ibaraki Ken |                              Yuki Shi |  1848088 |    1
+ 350839 | KR |                              상북면 |             울산광역시 |                                울주군 |    26310 |    6
+ 134605 | AU |                       Atkinsons Dam |             Queensland |                                  null |     null |    4
+ 751638 | SG |                    Woodlands Circle |                   null |                                  null |     null | null
+ 279225 | IE |                             Dundalk |                   null |                                  null |     null |    4
+ 980823 | US |                         Smartsville |             California |                                Nevada |       57 |    4
+ 614071 | PT |                           Guimarães |                  Braga |                             Guimarães |      308 |    4
+ 147833 | DZ |                              Zemala |                  Medea |                                  null |     null |    3
+ 130991 | CZ |                              Dyjice |          Kraj Vysočina |                               Jihlava |     3707 |    4
+   1434 | AZ |                           Səmədabad |               Goranboy |                                  null |     null |    4
+ 177123 | IN |                               Manki |              Karnataka |                        Uttara Kannada |      563 |    4
+ 300989 | HR |                           Dijakovac | Bjelovarsko-Bilogorska |                                  null |     null |    3
+ 187224 | MX |                          El Paraíso |                Jalisco |                               Zapopan |      120 |    4
+ 653098 | PE |                          San Miguel |              Cajamarca |                                  Jaen |      608 |    4
+ 658850 | JP |                       Inochibayashi |                Mie Ken |                              Taki Gun |  7417704 |    1
+ 698797 | JP |                         Utano Inado |               Nara Ken |                               Uda Shi |  7412212 |    1
+ 375466 | MX |                  Predio de Calderón |    Michoacán de Ocampo |                               Uruapan |      102 |    1
+ 466972 | GB |                            Muirtown |               Scotland |                     Perth and Kinross |     null |    3
+ 275471 | CR |                           San Ramón |   Provincia de Cartago |                              La Unión |      303 |    6
+ 610659 | MX |                        Pedro Martín |               Guerrero |                      Taxco de Alarcón |       55 |    4
+ 361192 | AT |                            Kindberg |             Steiermark | Politischer Bezirk Bruck-Mürzzuschlag |      621 |    4
+ 331240 | PE |                        Ccochaccocha |               Ayacucho |                               Lucanas |      506 |    3
+ 913942 | PT |                             Feitoso |                Coimbra |                            Cantanhede |      602 |    1
+ 404530 | MX |                      Los Tamarindos |               Guerrero |            Iguala de la Independencia |       35 |    4
+ 310375 | LV |                        Lauku Ļāperi |        Daugavpils nov. |                           Ambeļu pag. |   440242 |    3
+   5889 | FR |                       Duhort-Bachen |     Nouvelle-Aquitaine |                                Landes |       40 |    5
+ 508292 | KR |                              북도면 |             인천광역시 |                                옹진군 |    23320 |    6
+ 477417 | JP |                        Higashinozoe |             Aomori Ken |                          Kuroishi Shi |  2129393 |    4
+ 409720 | KR |                              옥계면 |                 강원도 |                                강릉시 |    32030 |    6
+ 118712 | BE |                              Gestel |             Vlaanderen |                                Anvers |      VAN |    4
+ 647200 | JP | Nishishinjuku Shinjuku Sukueatawa(2 |               Tokyo To |                           Shinjuku Ku |  1852083 |    1
+ 749879 | KR |                              상북면 |               경상남도 |                                양산시 |    38100 |    6
+ 588243 | IE |                           Dublin 17 |                   null |                                  null |     null | null
+ 632335 | PT |                              Lisboa |                 Lisboa |                                Lisboa |     1106 |    4
+ 568615 | ES |                       Villardejusto |               Asturias |                              Asturias |        O |    4
+ 572321 | AU |                           Geeveston |               Tasmania |                              TASMANIA |     null |    4
+ 646884 | NL |                           Boerakker |              Groningen |                        Westerkwartier |     1969 |    6
+ 563382 | GB |                          Sgodachail |               Scotland |                              Highland |      HLD |    3
+ 319440 | IN |                              Dendla |         Madhya Pradesh |                              Shajapur |      436 |    4
+ 176631 | JP |                            Kaiyocho |              Hyogo Ken |                            Ashiya Shi |  1864981 |    1
+ 201847 | JP |                          Kitanagata |            Fukuoka Ken |                           Chikugo Shi |  1864591 |    1
+  33690 | MX |                          El Cerrito |              Querétaro |                             Querétaro |       14 |    4
+ 754480 | MX |                          La Higuera |              Chihuahua |                          Santa Isabel |       24 |    4
+ 429111 | MX |                           La Bóveda |             Guanajuato |                              Tarimoro |       39 |    4
+ 269051 | MX |  Mina Santa Mónica (Mina de Sílica) |                 Sonora |                           Agua Prieta |        2 |    3
+ 352089 | IN |                           Silaghati |                 Odisha |                            Mayurbhanj |      376 |    3
+ 123984 | IN |                          Kopradhara |                  Assam |                                Jorhat |      312 |    1
+ 989837 | PT |                                Góis |                Coimbra |                                  Góis |      606 |    4
+ 705475 | MX |                    La Agua Caliente |                Durango |                            Tepehuanes |       35 |    4
+ 660510 | PT |                         Sobretâmega |                  Porto |                    Marco de Canaveses |     1307 |    4
+ 833342 | KR |                              송파구 |             서울특별시 |                                송파구 |    11240 |    6
+ 607255 | PT |                              Várzea |                  Braga |                              Barcelos |      302 |    4
+ 857848 | FR |                            Paris 19 |          Île-de-France |                                 Paris |       75 |    5
+  30474 | ES |                             La Faja |   Comunidad Valenciana |                              Alicante |        A |    3
+ 388183 | LT |                            Jūrės k. |     Marijampolė County |                      Kazlų Rūdos sav. |       58 |    3
+ 344834 | IN |                               Aurai |         Madhya Pradesh |                                Mandla |      454 |    4
+ 894240 | PT |                       Monte Inverno |                  Évora |                             Alandroal |      701 |    3
+ 535332 | IN |                            Wazirpur |                  Bihar |                                 Patna |      230 |    4
+ 612953 | MX |                        San Cayetano |             Guanajuato |                              Irapuato |       17 |    1
+ 417177 | IN |                     Sarai  Chhabila |          Uttar Pradesh |                           Bulandshahr |      142 |    4
+ 345339 | GB |                      Port o' Warren |               Scotland |                 Dumfries and Galloway |      DGY |    3
+ 794361 | SG |                  Tampines Street 42 |                   null |                                  null |     null | null
+ 605339 | IN |                            Kesagodu |              Karnataka |                                Hassan |      574 |    3
+ 883609 | PE |                           Yarocoyan |                   Lima |                                  Oyón |     1509 |    3
+  21766 | MX |                   Conjunto Arboleda |                Morelos |                       Emiliano Zapata |        8 |    3
+ 477884 | PT |                   Aldeia da Ribeira |               Santarém |                              Santarém |     1416 |    4
+ 604563 | LV |                           Taudejāni |          Rēzeknes nov. |                           Lendžu pag. |   780266 |    4
+ 547305 | JP |                              Yanaka |            Ibaraki Ken |                          Inashiki Gun |  2112616 |    1
+  23962 | MX |                          San Rafael |                Hidalgo |                           Singuilucan |       57 |    4
+ 727689 | IN |                           Somaguddu |              Karnataka |                           Chitradurga |      566 |    3
+ 285868 | PE |                           Yurgamito |                   Lima |                            Huarochiri |     1507 |    4
+ 802518 | FR |                            Montbouy |    Centre-Val de Loire |                                Loiret |       45 |    5
+ 417059 | LV |                               Josti |          Jaunpils nov. |                         Jaunpils pag. |   905756 |    4
+ 420346 | MX |                Ampliación Palo Solo |                 México |                          Huixquilucan |       37 |    3
+ 255196 | JP |              Kambara(Takaminekogen) |              Gumma Ken |                          Agatsuma Gun |  7453747 |    1
+ 867327 | ES |              Cecebre (San Salvador) |                Galicia |                              A Coruña |        C |    4
+ 856334 | NO |                            Egersund |               Rogaland |                             Eigersund |     1101 |    4
+ 655156 | KR |                    연풍면 |             충청북도 |                               괴산군 |   33360 |    6
+ 484783 | JP |             Shibusawakami |         Kanagawa Ken |                           Hadano Shi | 1863429 |    4
+ 884032 | PL |                  Mikulice |       Greater Poland |                       Powiat turecki |    3027 |    6
+ 810335 | PE |                 Villa Mar |              Huanuco |                              Marañon |    1007 |    3
+  22341 | PE |              Aguanomuyuna |           San Martín |                           San Martín |    2209 |    3
+ 449143 | AU |                     Gowan |      New South Wales |                                 null |    null |    4
+ 649692 | NO |                     Molde |      Møre og Romsdal |                                Molde |    1506 |    4
+ 986507 | PT |                    Aveiro |               Aveiro |                               Aveiro |     105 |    4
+ 172095 | JP |      Harunocho Hirokakami |            Kochi Ken |                            Kochi Shi | 1859127 |    1
+ 326439 | IN |                   Puranga |               Kerala |                           Malappuram |     592 |    1
+ 668033 | KR |                  서대문구 |           서울특별시 |                             서대문구 |   11130 |    6
+ 912156 | PE |                     Arica |             Amazonas |                          Chachapoyas |     101 |    3
+ 370730 | DE |                      Köln |  Nordrhein-Westfalen |                Regierungsbezirk Köln |      53 |    6
+ 485422 | IN |             Peddalingapur |            Telangana |                          Karim Nagar |     534 |    3
+ 269706 | DE |                   Altdorf |    Baden-Württemberg |           Regierungsbezirk Stuttgart |      81 |    4
+  40490 | MX |                  El Rucio |            Zacatecas |                         Villa de Cos |      51 |    4
+ 133368 | IN |                 Haldibani |               Odisha |                           Mayurbhanj |     376 |    3
+ 965771 | PT |                   Frielas |               Lisboa |                               Loures |    1107 |    4
+ 669519 | SE |                Åtvidaberg |         Östergötland |                           Åtvidaberg |     561 |    4
+ 102444 | DZ |                   S'Hanin |                Medea |                                 null |    null |    1
+ 115441 | DZ |                   Bekakra |       Ain-Temouchent |                                 null |    null |    3
+ 576820 | CZ |                   Chlumek |       Jihočeský kraj |                                Písek |    3305 |    4
+ 709885 | JP |                         O |          Okinawa Ken |                        Shimajiri Gun | 1852456 |    1
+ 891217 | PE |                   Tucuman |                Junín |                                Jauja |    1204 |    4
+ 808914 | SG |              Holland Road |                 null |                                 null |    null | null
+ 872155 | SG |         Tanjong Rhu Place |                 null |                                 null |    null | null
+ 950059 | PE |            Seke Huindilla |             Arequipa |                             Caylloma |     405 |    3
+ 110428 | AU |                 Selbourne |             Tasmania |                             TASMANIA |    null |    4
+ 977401 | ES |                    Oñardi |             Asturias |                             Asturias |       O |    3
+ 549520 | LT |            Paskrynypio k. |        Kaunas County |                       Prienų r. sav. |      69 |    1
+ 837784 | PE |       Miraflores el Tambo |            Cajamarca |                            Hualgayoc |     607 |    3
+ 839798 | ES |           Padilla De Hita | Castilla - La Mancha |                          Guadalajara |      GU |    4
+ 469031 | CZ |                   Skalice |      Pardubický kraj |                              Chrudim |    3603 |    4
+ 654951 | TR |                 Mahmudiye |            Çanakkale |                                Ezine | 8632578 |    4
+  83672 | IN |                     Goras |       Madhya Pradesh |                              Sheopur |     418 |    4
+ 863102 | FR |           Rilly-sur-Loire |  Centre-Val de Loire |                         Loir-et-Cher |      41 |    5
+ 118091 | EE |                  Mõisamaa |     Ida-Viru maakond |                           Toila vald |     803 |    6
+ 857407 | KR |                    광명시 |               경기도 |                               광명시 |   31060 |    6
+ 736090 | KR |                    용주면 |             경상남도 |                               합천군 |   38400 |    6
+ 879884 | NZ |                 Fendalton |           Canterbury |                                 null |    null |    4
+ 562645 | LT |              Juodiškių k. |   Vilniaus apskritis |                     Vilniaus r. sav. |      41 |    1
+  16690 | ES |       Llamas De La Ribera |      Castilla - Leon |                                 León |      LE |    4
+  29720 | ES |                     Ascoy |               Murcia |                               Murcia |      MU |    1
+ 557365 | LT |                 Česnių k. |     Telšių apskritis |                       Telšių r. sav. |      78 |    3
+ 763253 | KR |             안산시 상록구 |               경기도 |                        안산시 상록구 |   31091 |    6
+ 212660 | MX |                Santa Cruz |             Tlaxcala |         Sanctórum de Lázaro Cárdenas |      20 |    3
+ 980401 | PL |                 Augustowo |       Warmia-Masuria |                  Powiat szczycieński |    2817 |    6
+ 635262 | IT |                      Armo |              Liguria |                              Imperia |      IM |    4
+ 403625 | JP |                Hinokidani |            Ehime Ken |                       Yawatahama Shi | 1926017 |    1
+ 249392 | MX |                 Las Mesas |  Michoacán de Ocampo |                          Tumbiscatío |      96 |    4
+ 471298 | GB |                   Brechin |             Scotland |                                Angus |     ANS |    4
+ 303507 | IN |      Mittachintavaripalle |       Andhra Pradesh |                             Chittoor |     554 |    4
+ 105506 | IN |         Timmaboopalapuram |           Tamil Nadu |                           Tiruvallur |     602 |    3
+ 431108 | PL |                   Stryjki |              Mazovia |                    Powiat wołomiński |    1434 |    6
+ 436358 | IN |               Angareshwar |              Gujarat |                             Vadodara |     486 |    3
+ 177200 | IN |                     Hadav |            Karnataka |                       Uttara Kannada |     563 |    1
+ 126695 | AU |             Mountain Camp |           Queensland |                                 null |    null |    4
+ 880834 | PL |           Wrąbczyn Górski |       Greater Poland |                      Powiat słupecki |    3023 |    6
+ 149859 | DZ |                   Hadjadj |            L.Aghouat |                                 null |    null |    3
+ 808923 | SG |              Lorong Mydin |                 null |                                 null |    null | null
+  18101 | BR |                     Xaxim |       Santa Catarina |                                 null | 4219705 |    2
+ 408181 | JP |        Miwacho Shimokawai |             Kyoto Fu |                      Fukuchiyama Shi | 1864008 |    1
+  70080 | FR |                       Boz | Auvergne-Rhône-Alpes |                                  Ain |       1 |    5
+ 135685 | AU |            Beenaam Valley |           Queensland |                      SUNSHINE MT ISA |    null |    3
+ 130239 | MX |     El Palmar (P-96, 141) |           Nuevo León |                            Monterrey |      39 |    3
+ 213412 | JP |             Minamihoeicho |            Kochi Ken |                            Kochi Shi | 1859127 |    1
+ 179508 | AT |                   Bergham |       Oberösterreich |    Politischer Bezirk Braunau am Inn |     404 |    4
+ 761455 | KR |                    양천구 |           서울특별시 |                               양천구 |   11150 |    6
+ 200319 | IN |                Bommahalli |           Tamil Nadu |                           Dharmapuri |     630 |    4
+ 111759 | AU |                 Buninyong |             Victoria |                          VIC COUNTRY |    null |    4
+ 469641 | JP | Minamikatamachi Itagasawa |           Miyagi Ken |                             Tome Shi | 2110755 |    1
+ 407252 | PL |                    Lublin |               Lublin |                               Lublin |     663 |    6
+ 833939 | SG |           Guillemard Road |                 null |                                 null |    null | null
+ 276887 | IN |                 Bhladiana |          Uttarakhand |                        Tehri Garhwal |      59 |    3
+ 236709 | MX |     Rincón de la Cofradía |               México |                             Amatepec |       8 |    4
+ 689235 | SE |                  Västerås |          Västmanland |                             Västerås |    1980 |    4
+ 396222 | BE |                   Westrem |           Vlaanderen |                    Flandre-Orientale |     VOV |    4
+ 456745 | KR |                    풍기읍 |             경상북도 |                               영주시 |   37060 |    6
+ 214263 | IN |                   Gangani |          Uttarakhand |                           Uttarkashi |      56 |    3
+ 510893 | LT |             Ginakiemio k. |        Alytus County |                      Varėnos r. sav. |      38 |    1
+ 270086 | MX |         Adalberto Cornejo |               Sonora |                               Cajeme |      18 |    3
+ 661879 | IN |              Baramati H.O |          Maharashtra |                                 Pune |     521 |    3
+ 598305 | JP |              Araicho Arai |         Shizuoka Ken |                            Kosai Shi | 8301108 |    1
+ 197421 | MX |        Reginaldo Sandoval |            Zacatecas |                          Ojocaliente |      36 |    3
+ 578633 | AZ |                     Mirti |               Göyçay |                                 null |    null |    4
+   2482 | AR |                 JUAN VELA |         Buenos Aires |                                 null |    null |    3
+ 625359 | MX |            Granja Barajas |           Guanajuato |                 Silao de la Victoria |      37 |    4
+ 406547 | MX |                     Ahila |              Hidalgo | Santiago Tulantepec de Lugo Guerrero |      56 |    4
+ 288525 | IN |                    Tangnu |     Himachal Pradesh |                               Shimla |      33 |    3
+ 301479 | IN |                Meerapuram |       Andhra Pradesh |                              Kurnool |     552 |    3
+ 281492 | AR |   LOS LOBOS (DPTO. JUNIN) |             San Luis |                                 null |    null |    3
+ 885769 | PE |                   Cayalti |               Loreto |                        Alto Amazonas |    1602 |    3
+ 355653 | IN |            Minchinipatana |               Odisha |                               Ganjam |     388 |    3
+  55879 | IN |                 Pushkriri |      Jammu & Kashmir |                            Ananthnag |      14 |    3
+ 912838 | PE |          Quebrada Japaime |             Amazonas |                         Condorcanqui |     104 |    3
+ 702608 | JP |                 Kasugacho |             Hokkaido |                          Kushiro Shi | 2129370 |    4
+ 252211 | AT |                  Aichberg |       Oberösterreich |         Politischer Bezirk Linz-Land |     410 |    4
+ 601812 | JP |                 Hajikacho |          Tochigi Ken |                         Ashikaga Shi | 1865004 |    4
+ 656428 | KR |                    강릉시 |               강원도 |                               강릉시 |   32030 |    6
+ 874983 | ES |                   Rodonya |             Cataluna |                            Tarragona |       T |    4
+ 292408 | PE |                                      Anaraya |                Moquegua |             General Sanchez Cerro |     1802 |    3
+ 559690 | IN |                                   Pavithiram |              Tamil Nadu |                          Namakkal |      609 |    3
+ 659198 | JP |                     Toyosatocho Shirotorimae |              Miyagi Ken |                          Tome Shi |  2110755 |    3
+ 157205 | CZ |                                 Batouchovice |           Kraj Vysočina |                            Třebíč |     3710 |    4
+ 832339 | JP |                              Kanayashimmachi |            Shizuoka Ken |                       Shimada Shi |  7418322 |    1
+ 873492 | ES |                   Collada, La (Pola De Lena) |                Asturias |                          Asturias |        O |    4
+ 568852 | CH |                                     Boussens |          Canton de Vaud |             Gros-de-Vaud District |     2223 |    4
+ 302841 | IN |                                      Katarki |               Karnataka |                             Gadag |      561 |    4
+ 338662 | IN |                                      Vyttila |                  Kerala |                         Ernakulam |      595 |    4
+ 487948 | MX |     Rancho el Centenario (Rancho Luis Justo) |                Guerrero |                             Azoyú |       13 |    3
+  58628 | PT |                                  Vale Agudia |                  Aveiro |                            Arouca |      104 |    1
+ 664708 | JP |                         Hongucho Higashiwada |            Wakayama Ken |                        Tanabe Shi |  1850706 |    1
+ 111691 | DE |                                     Einöllen |         Rheinland-Pfalz |                              null |        0 |    4
+ 978431 | PL |                                       Poznań |          Greater Poland |                            Poznań |     3064 |    6
+ 130331 | AU |                           Barossa Goldfields |         South Australia |                              null |     null |    4
+ 456602 | GB |                                      Tullich |                Scotland |                          Highland |      HLD |    3
+ 826445 | PL |                                   Piasecznik |          West Pomerania |                  Powiat gryfiński |     3206 |    6
+ 198571 | JP |                                  Yamasaihoji |               Fukui Ken |                         Awara Shi |  7467385 |    1
+ 374424 | AT |                                Mitterlaßnitz |              Steiermark |  Politischer Bezirk Graz-Umgebung |      606 |    4
+ 464079 | LT |                                  SB „Merkys“ |      Vilniaus apskritis |                  Vilniaus r. sav. |       41 |    1
+ 956341 | FI |                                      Hietama |  Central Finland Region |                         Äänekoski |      135 |    6
+ 985527 | US |                                     Norcross |                 Georgia |                          Gwinnett |      135 |    4
+ 807614 | KR |                                       현남면 |                  강원도 |                            양양군 |    32410 |    6
+ 959137 | PL |                                Sarny Wielkie |       Opole Voivodeship |                    Powiat opolski |     1609 |    6
+ 625651 | PT |                                    Monchique |                    Faro |                         Monchique |      809 |    4
+ 602402 | NL |                                    Nijverdal |              Overijssel |                       Hellendoorn |      163 |    6
+  46103 | IT |                                    Salvirola |               Lombardia |                           Cremona |       CR |    4
+ 232983 | IN |                                     Ribandar |                     Goa |                         North Goa |      585 |    4
+ 811962 | SG |                                   Adam Drive |                    null |                              null |     null | null
+ 391197 | IN |                                     Ferozpur |           Uttar Pradesh |                           Kannauj |      160 |    3
+ 535650 | IN |                               Singhbrahmapur |                  Odisha |                              Puri |      387 |    3
+ 554975 | BG |                         Велешани / Veleshani |    Кърджали / Kurdzhali |              Кърджали / Kurdzhali |    KRZ16 |    4
+ 690134 | GB |                                       Furley |                 England |                             Devon | 11609025 |    3
+ 924755 | RU |                                     Калиново |     Воронежская Область |                ГРИБАНОВСКИЙ РАЙОН |     null |    4
+ 694388 | IT |                                      Testico |                 Liguria |                            Savona |       SV |    4
+ 127999 | AR |                                AGUAS BLANCAS |                   Salta |                              null |     null |    4
+ 885466 | PL |                                       Nowice |          West Pomerania |                   Powiat pyrzycki |     3212 |    6
+ 259776 | MX |                                     El Golpe |                 Tabasco |                          Cárdenas |        2 |    4
+ 572324 | MX |                               La Piedra Bola |                 Durango |                          Tamazula |       34 |    4
+ 612074 | PE |                                      Hualmal |                Amazonas |                              Luya |      105 |    3
+ 936046 | PT |                                   Faniqueira |                  Leiria |                           Batalha |     1004 |    4
+ 753783 | RO |                                        Ambud |               Satu Mare |                              null |     null |    4
+  31381 | PE |                               Garbanzo Pampa |                 Huanuco |                        Lauricocha |     1010 |    3
+ 634466 | PE |                                    Supahuaro |                Apurimac |                        Cotabambas |      305 |    4
+ 257871 | IN |                                       Gutasi |           Uttar Pradesh |                       Farrukhabad |      159 |    4
+  22494 | MX |                         Cumbres San Patricio |              Nuevo León |                            García |       18 |    1
+ 916319 | RU |                                    Малиновка |      Тамбовская Область |                  ТАМБОВСКИЙ РАЙОН |     null |    4
+  95935 | PL |                                      Barkowo |          West Pomerania |                   Powiat gryficki |     3205 |    6
+ 305755 | LU |                                   Bettendorf |                Diekirch |                        Bettendorf |        2 |    6
+ 929145 | PE |                                      Cochuco |                  Ancash |                          Pallasca |      215 |    3
+ 941129 | PT |                               Borba de Godim |                   Porto |                        Felgueiras |     1303 |    4
+  72148 | HR |                            Gornji Prnjarovec |              Zagrebačka |                              null |     null |    4
+ 488261 | MX |                                 Las Cebollas |                 Durango |                      Pueblo Nuevo |       23 |    4
+ 745534 | JP |                             Awacho Taniguchi |           Tokushima Ken |                           Awa Shi |  1864902 |    1
+ 685847 | JP |                              Hamasakahigashi |             Tottori Ken |                       Tottori Shi |  1849887 |    1
+ 922405 | FR |                              Merry-la-Vallée | Bourgogne-Franche-Comté |                             Yonne |       89 |    5
+  55391 | IN |                                        Kotla |        Himachal Pradesh |                             Mandi |       27 |    4
+ 838666 | FR |                                     Guérigny | Bourgogne-Franche-Comté |                            Nièvre |       58 |    5
+ 741299 | JP |                                         Aoki |            Wakayama Ken |                         Arida Gun |  1865123 |    4
+ 471293 | JP |                                   Shimogaito |                Nara Ken |                         Ikoma Gun |  1861748 |    1
+ 397618 | MX |                                  La Catedral |     Michoacán de Ocampo |                           Arteaga |       10 |    4
+ 909942 | PT |                                  Quinta Nova |                    Faro |                           Aljezur |      803 |    3
+ 286896 | ES |           Casas Del Señor / Cases Del Senyor |    Comunidad Valenciana |                          Alicante |        A |    3
+ 231194 | MX |                            Rosas del Tepeyac |                  Puebla |                            Puebla |      114 |    4
+ 133881 | IN |                                   Raja Khasa |        Himachal Pradesh |                            Kangra |       24 |    4
+ 410114 | IN |                                 Rangenahalli |               Karnataka |                    Chikkamagaluru |      570 |    4
+ 587968 | JP |                                         Ando |            Shizuoka Ken |                      Shizuoka Shi |  1851714 |    1
+ 936820 | PT |                                      Crastos |                    Faro |                             Lagoa |      806 |    1
+ 874241 | ES |                                        Taull |                Cataluna |                            Lleida |        L |    4
+ 653848 | KR |                                       순창읍 |                전라북도 |                            순창군 |    35360 |    6
+ 165486 | CZ |                                Dolejší Těšov |           Plzeňský kraj |                           Klatovy |     3404 |    4
+ 871740 | ES |                             Villar (Carreño) |                Asturias |                          Asturias |        O |    4
+ 777806 | CH |                             Grosshöchstetten |         Canton de Berne |          Bern-Mittelland District |      246 |    4
+ 914459 | RU |                                    Величково |      Смоленская Область |                 ГАГАРИНСКИЙ РАЙОН |     null |    4
+ 126846 | DZ |                                 Ouled Louifi |                   Batna |                              null |     null |    1
+  82835 | PE |                                        Ytaña |                Apurimac |                         Antabamba |      303 |    3
+ 884502 | PE |                                     Huaycate |             La Libertad |                            Julcan |     1305 |    3
+ 453828 | IN |                                    Madhupura |                  Odisha |                          Baleswar |      377 |    4
+ 860287 | FR |                                     Paris 01 |           Île-de-France |                             Paris |       75 |    5
+ 346956 | IN |                                      Salaiya |          Madhya Pradesh |                        Chhatarpur |      425 |    4
+ 958371 | PT |                                   Figueiredo |                   Braga |                            Amares |      301 |    4
+ 894605 | RU |                                    Калуга 12 |       Калужская Область |                              null |     null |    1
+ 325646 | IN |                                     Jokbahla |             Chattisgarh |                           Jashpur |      402 |    3
+ 417113 | IT |                                Passo Stelvio |               Lombardia |                           Sondrio |       SO |    4
+ 469512 | ES |                       Vilanova D'Escornalbou |                Cataluna |                         Tarragona |        T |    4
+ 815496 | FR |                                     Retonfey |               Grand Est |                           Moselle |       57 |    5
+ 527997 | JP |                                    Shiroyama |                 Mie Ken |                           Tsu Shi |  1849544 |    1
+  85902 | IN |                                       Ukhrid |             West Bengal |                   Purba Bardhaman |      335 |    3
+ 593966 | PE |                        Sunchuas (Murranchas) |             La Libertad |                            Otuzco |     1306 |    3
+ 912101 | PE |                                        Churo |                Amazonas |                       Chachapoyas |      101 |    3
+ 832964 | SG |                            Lorong 105 Changi |                    null |                              null |     null | null
+ 392440 | JP |                 Suetakeshimo(Nishiichinishi) |           Yamaguchi Ken |                     Kudamatsu Shi |  1858497 |    1
+ 808033 | FR |                                     Crastatt |               Grand Est |                          Bas-Rhin |       67 |    5
+ 488176 | MX |                                  Camino Real |                Guerrero | Coahuayutla de José María Izazaga |       16 |    4
+ 345424 | PE |                                        Lluta |                   Cuzco |                           Espinar |      808 |    3
+ 868255 | ES |                                       Torbeo |                 Galicia |                              Lugo |       LU |    4
+ 176278 | AR | LAS QUINTAS (VILLA DOMINICO, PDO.AVELLANEDA) |            Buenos Aires |                              null |     null |    1
+ 250525 | JP |                                     Isakadai |                 Mie Ken |                     Yokkaichi Shi |  1848370 |    1
+ 698548 | MX |                              Plan Hidráulico |     Baja California Sur |                            La Paz |        3 |    3
+ 860780 | PE |                                  Capillapata |            Huancavelica |                      Huancavelica |      901 |    4
+ 585085 | IN |                Surepalli |                  Andhra Pradesh |                            Prakasam |      549 |    4
+ 896352 | PT |                    Évora |                           Évora |                               Évora |      705 |    4
+ 427928 | PL |            Młody Niedróż |                         Mazovia |                      Powiat płoński |     1420 |    6
+ 406181 | JP |        Haruecho Haribara |                       Fukui Ken |                           Sakai Shi |  7467387 |    4
+  64442 | CH |       Les Mayens-de-Sion |                Canton du Valais |                       Sion District |     2312 |    4
+  81724 | IN |            Devalfaslawar |                       Telangana |                       Mahabub Nagar |      538 |    3
+ 602783 | IN |                Ramagatta |                       Karnataka |                           Davangere |      567 |    4
+ 443500 | LT |           Padvarninkų k. |                 Šiauliai County |                 Radviliškio r. sav. |       71 |    3
+ 575625 | BY |                Козенки 1 |                           Gomel |                               Mozyr |     null |    1
+ 903476 | PE |              Milmarutuna |                        Apurimac |                           Antabamba |      303 |    3
+ 135050 | AU |                  Sandbar |                 New South Wales |                                null |     null |    3
+ 483189 | JP |                     Maki |                     Niigata Ken |                            Sado Shi |  1853313 |    4
+ 471443 | CZ |        Týnec nad Sázavou |                Středočeský kraj |                             Benešov |     3201 |    4
+ 150339 | MX |               La Heredad |                          México |                         Tequixquiac |       96 |    4
+ 997637 | PT |      São Pedro do Corval |                           Évora |               Reguengos de Monsaraz |      711 |    4
+ 995813 | PT |                    Évora |                           Évora |                               Évora |      705 |    4
+ 595454 | PE |                  Tayango |                     La Libertad |                     Sanchez Carrión |     1309 |    3
+ 333049 | IT |                  Teulada |                        Sardegna |                            Cagliari |       CA |    4
+ 569140 | CH |           Cossonay-Ville |                  Canton de Vaud |                     Morges District |     2227 |    4
+ 915198 | PT |                   Silves |                            Faro |                              Silves |      813 |    4
+ 214455 | IN |             Dobarikallan |                       Rajasthan |                              Nagaur |      112 |    3
+ 912699 | FR |         Bercenay-en-Othe |                       Grand Est |                                Aube |       10 |    5
+ 998586 | PT |     Ferreira do Alentejo |                            Beja |                Ferreira do Alentejo |      208 |    1
+ 715134 | PT |                    Velas |                          Azores |                               Velas |     4502 |    4
+  34744 | MX |        Chairel Infonavit |                      Tamaulipas |                             Tampico |       38 |    3
+ 587308 | JP |            Misumicho Ino |                     Shimane Ken |                          Hamada Shi |  1863308 |    1
+ 258425 | PT |                  Estoril |                          Lisboa |                             Cascais |     1105 |    4
+ 729067 | MX |             Las Adelitas |                       Chihuahua |                           Chihuahua |       19 |    1
+  47408 | CH |                    Honau |                   Kanton Luzern |               Lucerne-Land District |      312 |    4
+ 666318 | PT |            Paço de Sousa |                           Porto |                            Penafiel |     1311 |    4
+ 538203 | MX |               San Isidro | Veracruz de Ignacio de la Llave |                San Juan Evangelista |      142 |    4
+ 766414 | LT |       Karsakiškio vienk. |                       Panevėžys |                   Panevėžio r. sav. |       66 |    3
+ 103673 | AU |              Strathblane |                        Tasmania |                            TASMANIA |     null |    4
+ 231972 | MX |        San Mateo Tecalco |                          México |                             Tecámac |       81 |    3
+ 698978 | AT |                 Kohlberg |                      Steiermark | Politischer Bezirk Südoststeiermark |      623 |    4
+ 868094 | MX |               San Martín | Veracruz de Ignacio de la Llave |                 Ixhuatlán de Madero |       83 |    4
+ 961004 | PE |          Nuevo Pacaymayo |                           Cuzco |                       La Convención |      809 |    3
+ 182597 | PT |                  Riachos |                        Santarém |                        Torres Novas |     1419 |    4
+ 850155 | GB |                   Horley |                         England |                         Oxfordshire | 11609045 |    4
+ 918338 | PE |               Marihutaña |                        Arequipa |                            Caylloma |      405 |    3
+ 427110 | IN |               Jeshingpur |                         Gujarat |                         Sabarkantha |      472 |    3
+ 474559 | DE |               Wiesweiler |                 Rheinland-Pfalz |                                null |        0 |    4
+ 429206 | IN |              Ankulachati |                          Odisha |                              Khorda |      386 |    3
+ 387209 | ES |             Sol Del Este |            Comunidad Valenciana |                            Alicante |        A |    1
+ 291113 | IE |               Crookstown |                            null |                                null |     null |    4
+ 770994 | FR |             Auquainville |                       Normandie |                            Calvados |       14 |    5
+ 208089 | MX |    La Bocana de Copalita |                          Oaxaca |                Santa María Huatulco |      413 |    4
+ 452831 | LT |               Jovaišų k. |                       Panevėžys |                   Panevėžio r. sav. |       66 |    3
+ 785589 | RO |                   Galaţi |                          Galaţi |                                null |     null |    4
+ 825275 | SG |            Lorong Ah Soo |                            null |                                null |     null | null
+ 207439 | JP |             Yanocho Uryu |                       Hyogo Ken |                            Aioi Shi |     null |    3
+ 920536 | PT |                  Requião |                           Braga |              Vila Nova de Famalicão |      312 |    4
+ 814274 | JP |                    Rakan |                   Tokushima Ken |                           Itano Gun |  1861303 |    1
+ 485808 | AT |            Bernhardsthal |                Niederösterreich |       Politischer Bezirk Mistelbach |      316 |    4
+ 771646 | LT |               Puodžių k. |                    Utena County |                    Anykščių r. sav. |       34 |    1
+ 554532 | IN |                  Pandori |                   Uttar Pradesh |                              Jhansi |      166 |    4
+ 966559 | PT |                  Salvada |                            Beja |                                Beja |      205 |    4
+ 494769 | JP |                 Kitamura |                        Hokkaido |                          Hiyama Gun |  2130044 |    1
+ 362502 | MX |               9 de Marzo |                         Sinaloa |                            Culiacán |        6 |    1
+ 663526 | PE |                Montañesa |                           Cuzco |                         Paucartambo |      811 |    3
+ 136859 | CZ |        Bělá nad Radbuzou |                   Plzeňský kraj |                           Domažlice |     3401 |    4
+ 188015 | MX |            El Campamento |                          Oaxaca |              Santa Cruz Zenzontepec |      386 |    4
+ 234512 | MX |       Lomas de Guadalupe |                          México |                Atizapán de Zaragoza |       13 |    1
+  90036 | IT |                 Pescarzo |                       Lombardia |                             Brescia |       BS |    4
+ 235452 | MX |               El Palmito |             Michoacán de Ocampo |                           Aguililla |        2 |    4
+ 976616 | DE |                Herzfelde |                     Brandenburg |                                null |        0 |    4
+ 608521 | FR |                    Senon |                       Grand Est |                               Meuse |       55 |    5
+ 274321 | PE |                   Kapani |                            Puno |                               Lampa |     2107 |    3
+ 915357 | PE |                   Malvas |                          Ancash |                              Huaraz |      201 |    4
+ 154450 | IN |                    Dhoki |                     Maharashtra |                           Osmanabad |      525 |    4
+ 627962 | PE |              Pedro Cesar |                             Ica |                                 Ica |     1101 |    3
+ 650107 | GB |                Laphroaig |                        Scotland |                     Argyll and Bute |      AGB |    4
+ 314870 | IN |                  Maricha |                           Bihar |                          Samastipur |      221 |    4
+ 116797 | EE |                    Reigi |                    Hiiu maakond |                        Hiiumaa vald |      205 |    6
+ 432846 | IN |              Omachapuzha |                          Kerala |                          Malappuram |      592 |    3
+ 721573 | KR |                     북구 |                      광주광역시 |                                북구 |    24040 |    6
+ 696061 | JP |                Matsubara |                    Nagasaki Ken |                           Omura Shi |  7418807 |    4
+ 211605 | MX |           San José Tetla |                          Puebla |                             Piaxtla |      113 |    4
+ 859909 | RU |               Таштагол 2 |             Кемеровская Область |                                null |     null |    1
+  84281 | PE |               Pampamarca |                        Ayacucho |                            Huamanga |      501 |    4
+ 917720 | UA |    Дворянка (Мостівська) |                     Mykolaivska |                         Domanivskyi |     null |    1
+ 666399 | SE |                    Solna |                       Stockholm |                               Solna |      184 |    4
+ 117762 | AU |        Limeburners Creek |                 New South Wales |                                null |     null |    4
+ 564684 | IN |                   Badera |                  Madhya Pradesh |                         Ashok Nagar |      459 |    4
+ 434884 | LT |                 Šakių k. |                   Kaunas County |                       Kauno r. sav. |       52 |    3
+ 343584 | IN |                  Andauli |                           Bihar |                               Patna |      230 |    4
+  61804 | PT |                       Ul |                          Aveiro |                 Oliveira de Azeméis |      113 |    4
+ 100720 | IN |                Akhatwade |                     Maharashtra |                             Jalgaon |      499 |    3
+ 682167 | SE |               Oskarshamn |                          Kalmar |                          Oskarshamn |      882 |    4
+  81142 | IN |                Srichandi |                     Uttarakhand |                            Haridwar |       68 |    1
+  42545 | IN | Huda Residential Complex |                       Telangana |                      K.V.Rangareddy |      537 |    1
+ 389377 | JP |                Deyashiki |                        Gifu Ken |                            Gifu Shi |  1863639 |    1
+ 898159 | FR |     Rozier-Côtes-d’Aurec |            Auvergne-Rhône-Alpes |                               Loire |       42 |    5
+ 110173 | DE |                 Kyllburg |                 Rheinland-Pfalz |                                null |        0 |    4
+   3843 | AT |            Petersdorf II |                      Steiermark |    Politischer Bezirk Graz-Umgebung |      606 |    3
+  82471 | PE |                  Huanroc |                          Ancash |                               Santa |      218 |    4
+ 251961 | MX |               Agua Nueva |             Michoacán de Ocampo |                           Tancítaro |       83 |    3
+ 479979 | HU |                Zalabaksa |                            Zala |                                null |     null |    4
+ 586198 | JP |          Hamakitayamacho |                       Fukui Ken |                           Fukui Shi |  1863982 |    4
+ 835161 | FR | Saint-Paul-de-Fenouillet |                       Occitanie |                 Pyrénées-Orientales |       66 |    5
+    990 | AU |                               Brenanah |             Victoria |                           null |     null |    3
+  35337 | DE |                            Mark Landin |          Brandenburg |                           null |        0 | null
+ 673366 | AT |                                  Egarn |              Kärnten | Politischer Bezirk Feldkirchen |      210 |    4
+ 205160 | MX |                            Los Molinos |              Sinaloa |                          Choix |        7 |    4
+ 619051 | PT |                        Alfândega da Fé |             Bragança |                Alfândega da Fé |      401 |    4
+ 693315 | RO |                                  Reciu |                 Alba |                           null |     null |    4
+ 614741 | MX |                    Agua Tibia de Ayala |           Guanajuato |                        Pénjamo |       23 |    4
+ 626620 | PE |                           Sol Radiante |                Junín |                         Satipo |     1206 |    3
+ 346588 | PE |                              Calangato |                Cuzco |                  La Convención |      809 |    3
+ 618034 | PT |                                 Igreja |                Viseu |               São Pedro do Sul |     1816 |    4
+ 419388 | IN |                           Kolimigundla |       Andhra Pradesh |                        Kurnool |      552 |    4
+ 639423 | MX |                       Villas del Norte |            Chihuahua |                      Chihuahua |       19 |    1
+ 951402 | PT |                        Sande Vila Nova |                Braga |                      Guimarães |      308 |    1
+ 268991 | MX |                      Abel Acosta Anaya |               Sonora |                    Agua Prieta |        2 |    3
+ 693856 | MW |                              Mwakaboko |      Northern Region |                        Karonga |        8 | null
+ 380478 | DE |                                 Bissee |   Schleswig-Holstein |                           null |        0 |    4
+ 388720 | JP |                             Konoichiba |         Wakayama Ken |                      Kaiso Gun |  1860774 |    1
+ 667502 | JP |                       Myogimachi Myogi |            Gumma Ken |                    Tomioka Shi |  1850090 |    1
+ 188513 | PT |                               Loureira |               Leiria |                         Leiria |     1009 |    4
+ 585088 | JP |                          Oishi Sotsuka |            Shiga Ken |                       Otsu Shi |  1853552 |    4
+ 138818 | AU |                          Point Lookout |           Queensland |                UNDERWOOD SOUTH |     null |    4
+ 452413 | JP |                             Kinzamachi |         Shizuoka Ken |                   Shizuoka Shi |  1851714 |    1
+ 918606 | PT |                                Funchal |              Madeira |                        Funchal |     3103 |    4
+ 474291 | DE |                              Darmstadt |               Hessen |     Regierungsbezirk Darmstadt |       64 |    4
+ 630152 | JP |                              Honamicho |             Osaka Fu |                      Suita Shi |  1851482 |    1
+ 526311 | MX |                        Rancho del Pozo |      San Luis Potosí |                Ciudad del Maíz |       10 |    3
+ 324932 | IN |                                Panduda |            Jharkhand |                 East Singhbhum |      357 |    4
+ 125380 | DE |                                 Chüden |       Sachsen-Anhalt |                           null |        0 |    4
+ 349706 | IN |                              Gokulpura |        Uttar Pradesh |                           Agra |      146 |    4
+  90834 | IN |                           Jearrahimpur |        Uttar Pradesh |                   Shahjahanpur |      152 |    3
+ 137894 | AU |                                 Nakara |   Northern Territory |                         DARWIN |     null |    4
+ 844731 | GB |                        Thorpe-le-Soken |              England |                          Essex | 11609034 |    4
+ 410852 | PL |                                  Dąbie |        Lesser Poland |              Powiat myślenicki |     1209 |    6
+ 133738 | DZ |                           Maghnia Cadi |              Tlemcen |                           null |     null |    3
+ 544209 | JP |                          Roppyakumecho |            Hyogo Ken |                        Ako Shi |  1865406 |    1
+ 624710 | PE |                          Nueva Hollada |              Huanuco |                  Leoncio Prado |     1006 |    3
+ 122363 | AU |                                Whitlow |      New South Wales |                           null |     null |    4
+ 765719 | JP |                                  Uwada |         Ishikawa Ken |                      Hakui Gun |  7467838 |    1
+ 631527 | MX |                        Bajo Usumacinta |              Chiapas |                       Catazajá |       16 |    4
+ 970003 | BY |                                Заполье |             Moghilev |                       Klitchev |     null |    4
+ 454093 | KR |                                 김포시 |               경기도 |                         김포시 |    31230 |    6
+ 716752 | MX |                           Ramos Millán |              Hidalgo |                Emiliano Zapata |       21 |    1
+ 208154 | MX |                          Benito Juárez |               Oaxaca |           Santo Tomás Ocotepec |      532 |    4
+ 285938 | IN |                               Muramban |           Tamil Nadu |                      Tuticorin |      627 |    4
+ 191691 | IN |                            Sayanapalli |            Telangana |                        Khammam |      541 |    3
+ 311346 | MX |                             Tepetzingo |              Morelos |                Emiliano Zapata |        8 |    4
+ 876274 | PL |                                Olsztyn |       Warmia-Masuria |                        Olsztyn |     2862 |    6
+ 884105 | RO |                           Bucureşti 75 |            Bucureşti |                      Bucureşti |   179132 | null
+  77075 | NO |                                 Tromsø |    Troms og Finnmark |                         Tromsø |     5401 |    4
+ 526157 | LU |                                   Wahl |              Redange |                           Wahl |       13 |    6
+ 104122 | IN |                                  Dowda |            Rajasthan |                      Dungarpur |      124 |    3
+ 555966 | IN |                             Shaikhpura |              Haryana |                          Hisar |       80 |    4
+  89271 | PL |                                 Lublin |               Lublin |                         Lublin |      663 |    6
+ 895139 | PT |                                Calheta |              Madeira |                        Calheta |     3101 |    1
+ 642782 | JP |                     Yokawacho Ichinose |            Hyogo Ken |                       Miki Shi |  7370811 |    1
+ 282665 | CO |                               Cumaribo |              Vichada |                       Cumaribo |    99773 |    4
+ 861960 | RU |                                  Нея 1 |  Костромская Область |                           null |     null |    1
+ 703566 | TR |                                  Eymür |              Bayburt |                       Demirözü |  8631613 |    4
+ 332533 | IT |                               Terlizzi |               Puglia |                           Bari |       BA |    4
+ 740098 | LT |                               Glūko k. |        Alytus County |                Varėnos r. sav. |       38 |    3
+ 510035 | PT |                    Alverca do Ribatejo |               Lisboa |            Vila Franca de Xira |     1114 |    4
+  12820 | MX |                        Polanco Oriente |              Jalisco |                    Guadalajara |       39 |    1
+ 117776 | BD |                       Islamia Madrasha |           Chittagong |                       Chandpur |     2013 |    1
+ 471372 | ES | Rua Alta (Santo Estevo De Perlio-Fene) |              Galicia |                       A Coruña |        C |    3
+ 292391 | IN |                                 Punasa |       Madhya Pradesh |                     East Nimar |      466 |    4
+ 590908 | JP |                               Nagatoro |           Miyagi Ken |                     Watari Gun |  7446988 |    1
+ 665373 | IN |                    Ghattianwali Jattan |               Punjab |                       Firozpur |       43 |    3
+ 928574 | PE |                              Mamanocca |                Cuzco |                        Espinar |      808 |    3
+ 741225 | CZ |                                  Újezd |         Ústecký kraj |                 Ústí nad Labem |     3510 |    4
+ 186123 | IN |                       Mohd. Pur Buzurg |          Uttarakhand |                       Haridwar |       68 |    3
+ 691354 | KR |                                 제주시 |       제주특별자치도 |                         제주시 |    39010 |    6
+ 719772 | DE |                             Hillgroven |   Schleswig-Holstein |                           null |        0 |    4
+ 854842 | GB |                                Osgodby |              England |                North Yorkshire | 11609043 |    3
+ 558018 | GB |                           Hutton Magna |              England |                         Durham | 11609048 |    4
+ 195489 | MX |                          Lomas Del Sur |              Yucatán |                         Mérida |       50 |    1
+  42412 | PE |                             Yurac Yacu |               Ancash |             Mariscal Luzuriaga |      213 |    4
+ 882421 | PE |                         Cerro Colorado |                 Lima |                     Huarochiri |     1507 |    3
+ 993460 | PT |                                Valcovo |               Guarda |                       Trancoso |      913 |    1
+ 759835 | LT |                             Apkartų k. |         Utena County |                 Molėtų r. sav. |       62 |    1
+ 152198 | MX |                   San Bartolo el Viejo |               México |                   Zinacantepec |      118 |    4
+  52717 | IN |          Gandhinagaram (West Godavari) |       Andhra Pradesh |                  West Godavari |      546 |    3
+ 127495 | AR |                  ENCRUCIJADA DE TASTIL |                Salta |                           null |     null |    3
+ 605862 | IT |                             Ferentillo |               Umbria |                          Terni |       TR |    4
+ 515622 | IN |                              Loni Road |                Delhi |                     East Delhi |       93 |    3
+ 420822 | IN |                     M.A.Rajulakandriga |       Andhra Pradesh |                       Chittoor |      554 |    3
+ 508898 | PT |                 Vila Nova de Famalicão |                Braga |         Vila Nova de Famalicão |      312 |    4
+ 176385 | ES |                Vilarrube (San Martiño) |              Galicia |                       A Coruña |        C |    1
+  32738 | MX |                    Campestre Covadonga |               Puebla |                         Puebla |      114 |    3
+ 603151 | PT |                    Póvoa de São Miguel |                 Beja |                          Moura |      210 |    4
+  45539 | IT |                               Scipione |       Emilia-Romagna |                          Parma |       PR |    4
+ 375654 | MX |                             Villa Maya |              Tabasco |                     Comalcalco |        5 |    1
+ 788428 | FR |                             Colonzelle | Auvergne-Rhône-Alpes |                          Drôme |       26 |    5
+  64487 | IN |                      Talegaon(Dindori) |          Maharashtra |                         Nashik |      516 |    3
+ 446964 | IN |                    K.Honnamachanahalli |            Karnataka |                       Tumakuru |      571 |    3
+ 890488 | PL |                               Szczecin |       West Pomerania |                       Szczecin |     3262 |    6
+ 911763 | PE |                                 Machag |              Huanuco |                           Ambo |     1002 |    3
+  91223 | PL |                                Hucisko |              Silesia |           Powiat częstochowski |     2404 |    6
+ 157770 | DZ |                     Djebbalah Khemissi |               Guelma |                           null |     null |    1
+  88698 | IN |                                 Neemka |        Uttar Pradesh |            Gautam Buddha Nagar |      141 |    3
+ 669887 | AT |                             Magersdorf |     Niederösterreich |  Politischer Bezirk Hollabrunn |      310 |    4
+ 153264 | AR |                                LOZANO |                           Jujuy |                                      null |    null |    3
+ 353290 | ES |                    Fraga, A (Vincios) |                         Galicia |                                Pontevedra |      PO |    4
+ 883577 | RO |                          Bucureşti 51 |                       Bucureşti |                                 Bucureşti |  179132 | null
+ 653133 | IN |                               Rangiam |                      Tamil Nadu |                                  Ariyalur |     616 |    3
+ 133855 | AR |                           VILLA ELISA |                      Entre Rios |                                      null |    null |    4
+ 358902 | MX |                            La Villita |                 San Luis Potosí |                           San Luis Potosí |      28 |    4
+ 233892 | MX |                             La Cañada |                          México |                                  Tultepec |     108 |    3
+ 314000 | IN |                 Akhtiarpur Thillupura |                   Uttar Pradesh |                                 Moradabad |     135 |    3
+ 314982 | MX |                     Rincón de Huinalá |                      Nuevo León |                                   Apodaca |       6 |    1
+ 342836 | IN |                              Naulakhi |                       Rajasthan |                               Hanumangarh |     100 |    3
+ 615059 | IN |                            Engarsingi |                          Odisha |                                  Gajapati |     389 |    3
+ 911220 | UA |                               Лютарка |                     Khmelnytska |                              Iziaslavskyi |    null |    4
+ 406192 | KR |                                군산시 |                        전라북도 |                                    군산시 |   35020 |    6
+ 106003 | DE |                            Neversdorf |              Schleswig-Holstein |                                      null |       0 |    4
+ 921875 | RU |                              Кишлеево |            Владимирская Область |                           СОБИНСКИЙ РАЙОН |    null |    4
+ 228894 | MX |                  Lomas del Agua Tibia |             Michoacán de Ocampo |                                Puruándiro |      71 |    1
+ 649073 | KR |                                  서구 |                      대전광역시 |                                      서구 |   25030 |    6
+ 885081 | JP |              Higashiyama(1710-Banchi) |                        Hokkaido |                                Furano Shi | 2130304 |    1
+ 304718 | IN |                             Akhrasole |                     West Bengal |                                   Bankura |     339 |    3
+ 401784 | IN |                               Bagnkot |                 Jammu & Kashmir |                                     Reasi |      20 |    3
+ 123484 | DE |                               Fockbek |              Schleswig-Holstein |                                      null |       0 |    4
+  87694 | IN |                           Khal Bujurg |                  Madhya Pradesh |                                   Barwani |     441 |    3
+ 224322 | MX |                              La Posta |                          México |                        Almoloya de Juárez |       5 |    4
+ 143667 | MX |                    Guadalupe Victoria |                      Guanajuato |                                      León |      20 |    4
+ 677242 | AT |                          Obergrünbach |                Niederösterreich | Politischer Bezirk Waidhofen an der Thaya |     322 |    4
+ 558760 | LT |                          Plunksnės k. |                  Tauragė County |                           Šilalės r. sav. |      87 |    3
+ 200291 | MX |                        Puerta del Sol | Veracruz de Ignacio de la Llave |                          Mariano Escobedo |     101 |    4
+ 494343 | MX |                            Casa Nueva |                          México |                                Huehuetoca |      35 |    4
+ 593531 | IN |                          Sirigiripadu |                  Andhra Pradesh |                                    Guntur |     548 |    3
+  35472 | MX |                          Buenos Aires | Veracruz de Ignacio de la Llave |                                   Chontla |      63 |    4
+ 239299 | JP |              Hokkitsumachi Kamihakoda |                       Gumma Ken |                             Shibukawa Shi | 1852593 |    4
+ 353145 | IN |                               Sergarh |                          Odisha |                                  Baleswar |     377 |    1
+ 174265 | JP |                             Komushiro |                    Kumamoto Ken |                          Shimomashiki Gun | 7412709 |    4
+ 769040 | ES |                              La Muela |                 Castilla - Leon |                                     Soria |      SO |    4
+ 791852 | JP |                                  Tako |                        Osaka Fu |                         Kawachinagano Shi | 1859747 |    4
+ 691270 | KR |                                제주시 |                  제주특별자치도 |                                    제주시 |   39010 |    6
+ 167674 | DZ |                              Sidi Ali |                         Tlemcen |                                      null |    null |    3
+ 746092 | MX |                              Tepetate |                         Durango |                                 Mezquital |      14 |    3
+ 274270 | IN |                              Nuthapur |                      Tamil Nadu |                                Perambalur |     615 |    3
+ 565472 | MX |                    Jardines del Llano |                Distrito Federal |                                   Tláhuac |      11 |    4
+ 980427 | US |                      City Of Industry |                      California |                               Los Angeles |      37 |    4
+ 627999 | MX |                         Nueva Reforma |            Coahuila de Zaragoza |                                  Saltillo |      30 |    1
+ 586018 | JP |                            Shihiguchi |                       Fukui Ken |                                 Fukui Shi | 1863982 |    1
+ 800051 | FR |                                Altier |                       Occitanie |                                    Lozère |      48 |    5
+ 757569 | KR |                              부산진구 |                      부산광역시 |                                  부산진구 |   21050 |    6
+ 346888 | PE |                              Coquimbo |                           Cuzco |                             La Convención |     809 |    3
+ 304565 | HR |                      Stara Ljeskovica |               Požeško-Slavonska |                                      null |    null |    4
+ 866366 | MX |                                 Lomas | Veracruz de Ignacio de la Llave |                                   Córdoba |      44 |    3
+ 282135 | GF |                                  Mana |                          Guyane |                                    Guyane |     973 |    5
+ 342298 | IN |                              Nayakpur |                         Gujarat |                                 Ahmedabad |     474 |    3
+ 428690 | IN |                              Ranjagol |                          Odisha |                                 Dhenkanal |     383 |    3
+ 496257 | JP |                                Futaba |                        Hokkaido |                                 Abuta Gun | 2130724 |    4
+ 346006 | IN |                              Rinchhia |                         Gujarat |                              Panch Mahals |     484 |    3
+ 698264 | IT |                          Olmo Gentile |                        Piemonte |                                      Asti |      AT |    4
+ 703499 | JP |              Takatsukicho Nishiatsuji |                       Shiga Ken |                              Nagahama Shi | 1856237 |    1
+ 823130 | JP |                          Ginkakujicho |                        Kyoto Fu |                                 Kyoto Shi | 1857906 |    1
+ 177556 | AR |                            LAS FLORES |                    Buenos Aires |                                      null |    null |    4
+ 217102 | ES |                               Revilla |                 Castilla - Leon |                                      León |      LE |    3
+ 183969 | MX |       Guadalupe del Pedregal la Palma |                          México |                       San José del Rincón |     124 |    4
+ 819423 | FR |                           Metzervisse |                       Grand Est |                                   Moselle |      57 |    5
+ 770295 | JP |                              Nukiharu |                    Kumamoto Ken |                           Kamimashiki Gun | 7412706 |    4
+ 208802 | MX |                              Cala Sur |                          Puebla |                                   Atempan |      17 |    4
+  27682 | MX |                         Vista Hermosa |            Coahuila de Zaragoza |                            Piedras Negras |      25 |    1
+   3236 | AR | AHI VEREMOS (GUASAYAN, DPTO.GUASAYAN) |             Santiago Del Estero |                                      null |    null |    3
+ 658467 | TR |                              Alacayar |                         Erzurum |                                    Narman | 8631377 |    3
+ 357229 | JP |                               Furuike |                       Hyogo Ken |                                  Aioi Shi |    null |    1
+ 128883 | MX |                  De los Electricistas |                         Hidalgo |                       Tulancingo de Bravo |      77 |    4
+ 377718 | DE |                              Sommerau |                 Rheinland-Pfalz |                                      null |       0 |    4
+ 670987 | ES |                    Villar De Corrales |                 Castilla - Leon |                                      León |      LE |    4
+ 594989 | MX |                             San Ramón |                         Hidalgo |                               Chapantongo |      17 |    3
+ 902961 | JP |                 Tamuramachi Teshirogi |                   Fukushima Ken |                              Koriyama Shi | 2112139 |    1
+ 702884 | JP |                        Nakanoshimacho |                        Hokkaido |                                Kitami Shi | 2129532 |    1
+ 876776 | MX |                        Monte de Yánez |                       Zacatecas |                       Nochistlán de Mejía |      34 |    4
+ 213985 | JP |                             Itoimachi |                   Hiroshima Ken |                               Miyoshi Shi | 1856691 |    1
+ 691800 | PE |                            Pitomolino |                           Cuzco |                                      Anta |     803 |    3
+ 356364 | IN |                            Bairagijot |                   Uttar Pradesh |                                 Shrawasti |     181 |    4
+ 144560 | AR |                  RINCON DE BALDERRAMA |                         Tucuman |                                      null |    null |    3
+ 947570 | BR |                               Ibiporã |                          Parana |                                      null | 4109807 |    2
+ 956590 | PT |                               Funchal |                         Madeira |                                   Funchal |    3103 |    4
+ 802188 | SG |                       West Coast Lane |                            null |                                      null |    null | null
+ 188736 | MX |     Unidad José María Morelos y Pavón |                          México |                   Coacalco de Berriozábal |      20 |    4
+  76410 | GB |                            Ardentinny |                        Scotland |                           Argyll and Bute |     AGB |    4
+ 408269 | JP |                              Wakamiya |                     Fukuoka Ken |                                Kasuya Gun | 1859874 |    1
+ 630254 | PE |                          Huarac Ircam |                          Ancash |                                     Santa |     218 |    3
+ 612988 | LT |                            Kreivių k. |                  Tauragė County |                           Šilalės r. sav. |      87 |    3
+ 872529 | DE |                             Wahnwegen |                 Rheinland-Pfalz |                                      null |       0 |    4
+ 424361 | IT |                                Fucine |             Trentino-Alto Adige |                                    Trento |      TN |    4
+ 422734 | MX |                          Julio Gaytán |                          Sonora |                                    Cajeme |      18 |    3
+ 737145 | IN |                              Bhawapur |                   Uttar Pradesh |                                  Faizabad |     177 |    4
+ 250317 | MX |                             Santa Ana |             Michoacán de Ocampo |                                    Ocampo |      61 |    4
+ 780171 | JP |                              Saijocho |                    Shizuoka Ken |                                Numazu Shi | 1854900 |    4
+  58264 | PR |                                 Cidra |                           Cidra |                                      null |    null |    4
+ 553655 | BG |                       Донино / Donino |               Габрово / Gabrovo |                         Габрово / Gabrovo |   GAB05 |    4
+ 716196 | DE |                               Münster |             Nordrhein-Westfalen |                         Reg.-Bez. Münster |      55 |    4
+ 149820 | DZ |               Douar Ouled Sidi Mesaad |                  Oum-El-Bouaghi |                                      null |    null |    3
+ 696895 | MX |             Culhuacán CTM Sección X-A |                Distrito Federal |                                  Coyoacán |       3 |    3
+ 830614 | FR |                           Bossancourt |                       Grand Est |                                      Aube |      10 |    5
+ 670007 | AT |                             Autendorf |                Niederösterreich |                   Politischer Bezirk Horn |     311 |    4
+ 259722 | MX |                              El Yaqui |                          Sonora |                                   Guaymas |      29 |    4
+ 356431 | KR |                                군산시 |                        전라북도 |                                    군산시 |   35020 |    6
+ 272275 | GB |                    Black Pill |                      Wales |                  Swansea |      SWA |    3
+ 928305 | PE |                     San Ramon |                        Ica |                      Ica |     1101 |    4
+ 281989 | IN |                      Gayespur |                West Bengal |              Murshidabad |      333 |    4
+  12349 | HR |                         Vrsno |           Šibensko-Kninska |                     null |     null |    3
+ 664109 | JP |              Mabicho Kaminima |                Okayama Ken |            Kurashiki Shi |  1858309 |    1
+ 603187 | PT |                       Cabanas |                       Beja |                  Odemira |      211 |    1
+ 248743 | JP |                 Kamishimmichi |                 Aomori Ken |              Sannohe Gun |  2128302 |    3
+ 341608 | PK |                         Kahna |  Norhern Punajb Rawalpindi |                     null |     null | null
+ 992663 | PT |                        Guarda |                     Guarda |                   Guarda |      907 |    4
+  28817 | PK |                        Faridi |              NWFP Peshawar |                     null |     null | null
+ 176952 | MX |                    La Campana |       Coahuila de Zaragoza |             Ramos Arizpe |       27 |    4
+ 456043 | DZ |                    El Bellala |             Oum-El-Bouaghi |                     null |     null |    1
+  21624 | MX |                    Las Palmas |        Michoacán de Ocampo |                Zitácuaro |      112 |    3
+ 282335 | IN |                         Gotur |                  Telangana |            Mahabub Nagar |      538 |    4
+ 600816 | JP |                      Kunikane |               Shizuoka Ken |             Kakegawa Shi |  8301107 |    1
+ 212624 | MX |              San José Aztatla |                   Tlaxcala |  Contla de Juan Cuamatzi |       18 |    4
+ 906479 | PT |          Vila Nova da Baronia |                       Beja |                   Alvito |      203 |    4
+ 641606 | JP |          Hiraokacho Nishitani |                  Hyogo Ken |             Kakogawa Shi |  1860702 |    1
+ 896365 | PE |                 Corral Grande |                La Libertad |          Sanchez Carrión |     1309 |    3
+ 386500 | JP |                   Nishigawara |                 Toyama Ken |                Oyabe Shi |  1853505 |    1
+ 198205 | JP |                       Renjoji |                  Ehime Ken |            Minamiuwa Gun |  1857121 |    1
+ 522384 | IN |                        Basila |              Uttar Pradesh |                Chandauli |      196 |    4
+ 259383 | IN |                         Baral |              Uttar Pradesh |                   Jhansi |      166 |    4
+   1041 | AU |                       Eskdale |                   Victoria |          VIC FAR COUNTRY |     null |    4
+ 366141 | GB |                      Bankfoot |                   Scotland |        Perth and Kinross |     null |    4
+ 397768 | KR |                        한림면 |                   경상남도 |                   김해시 |    38070 |    6
+ 421877 | IT |                    Montelepre |                    Sicilia |                  Palermo |       PA |    4
+ 840580 | PE |                       Wanchaq |                      Cuzco |                    Cuzco |      801 | null
+ 781609 | AT |                       Zeißing |           Niederösterreich | Politischer Bezirk Krems |      313 |    4
+ 805420 | FR |                        Prunoy |    Bourgogne-Franche-Comté |                    Yonne |       89 |    5
+ 684356 | JP |                    Nishikoiso |               Kanagawa Ken |                 Naka Gun |  1855966 |    4
+ 621134 | PE |                     Pacupampa |                    Huanuco |                  Huanuco |     1001 |    3
+ 187860 | MX |                     Agua Fría |                     México |   Almoloya de Alquisiras |        4 |    4
+  32189 | PE |                        Shalca |                  Cajamarca |                     Jaen |      608 |    4
+ 385886 | IN |                  L.Gannavaram |             Andhra Pradesh |            East Godavari |      545 |    1
+ 272636 | CZ |             Praha 9-Hostavice |         Hlavní město Praha |       Hlavní město Praha |     3100 | null
+ 174481 | CZ |                       Bojiště |           Středočeský kraj |                    Kolín |     3204 |    4
+ 239632 | JP |                   Hosomimachi |               Miyazaki Ken |              Nobeoka Shi |  1855094 |    1
+ 653674 | PE |        Buenos Aires del Parco |                  Cajamarca |              San Ignacio |      609 |    3
+    655 | DE |                        Gallin |     Mecklenburg-Vorpommern |                     null |        0 |    4
+ 432093 | IN |                       Argonda |                  Telangana |                Nizamabad |      533 |    4
+ 186585 | MX |                   La Sierrita |        Michoacán de Ocampo |               Chinicuila |       26 |    4
+  88880 | IN |                         Siwal |              Uttar Pradesh |                  Mathura |      145 |    4
+ 938405 | PT |                    Portalegre |                 Portalegre |               Portalegre |     1214 |    4
+ 301733 | HR |                      Barušići |                   Istarska |                     null |     null |    4
+ 953058 | PT |                Geraz do Minho |                      Braga |         Póvoa de Lanhoso |      309 |    4
+  41665 | IN |                Konbirnawatoli |                  Jharkhand |                    Gumla |      366 |    3
+ 865632 | EE |                      Antkruva |               Võru maakond |             Setomaa vald |      732 |    6
+ 540785 | LT |                Skynimų lll k. |         Vilniaus apskritis |       Šalčininkų r. sav. |       85 |    1
+  66044 | FR |                      Boyelles |            Hauts-de-France |            Pas-de-Calais |       62 |    5
+  43850 | MX |          Campo Leonardo Perez |                     Sonora |   San Ignacio Río Muerto |       72 |    3
+ 568396 | CH |                        Tenero |                     Ticino |         Locarno District |     2104 |    4
+ 984634 | PE |                      Shipipin |                La Libertad |                  Bolivar |     1303 |    3
+ 797866 | FR |                        Larbey |         Nouvelle-Aquitaine |                   Landes |       40 |    5
+ 379211 | MD |                         Japca |                   Floresti |                     null |     null |    4
+ 715907 | JP |               Matsudai Tazawa |                Niigata Ken |            Tokamachi Shi |  1850218 |    1
+  85969 | ES |        Sierra, La (Valdaliga) |                  Cantabria |                Cantabria |        S |    3
+ 537325 | MX |     Carlos Salinas de Gortari |       Coahuila de Zaragoza |                     Nava |       22 |    3
+ 883890 | PE |                 Las Quintanas |                La Libertad |                   Ascope |     1302 |    3
+ 120123 | MX |                     El Papayo |                   Guerrero |        Coyuca de Benítez |       21 |    4
+ 680007 | PT |                 São Sebastião |                     Azores |        Angra do Heroísmo |     4301 |    4
+ 508506 | IN |             Nallacheruvupalle |             Andhra Pradesh |                 Cuddapah |      551 |    4
+  41188 | NZ |                 Carters Beach |                 West Coast |                     null |     null |    4
+  36167 | DE |            Hamburg Neuengamme |                    Hamburg |                     null |        0 |    4
+ 660908 | KR |                        마포구 |                 서울특별시 |                   마포구 |    11140 |    6
+ 512582 | PT |                      Bragança |                   Bragança |                 Bragança |      402 |    4
+ 818847 | FR |                   Schwerdorff |                  Grand Est |                  Moselle |       57 |    5
+ 560856 | IN |                    Dilipnagar |             Madhya Pradesh |                   Ratlam |      434 |    3
+ 793030 | FR |                      Dinéault |                   Bretagne |                Finistère |       29 |    5
+ 863158 | ES |    Santa Liestra Y San Quilez |                     Aragon |                   Huesca |       HU |    4
+ 889232 | PE |                   Chitccarumi |               Huancavelica |                 Huaytara |      906 |    3
+ 899023 | FR |              Château-sur-Cher |       Auvergne-Rhône-Alpes |              Puy-de-Dôme |       63 |    5
+ 154622 | CZ |                        Dachov |            Pardubický kraj |                  Chrudim |     3603 |    4
+ 451376 | PE |                   Santa Clara |                       Puno |                     Puno |     2101 |    4
+ 586567 | MX | Nuevo Campeche (Tres Aguadas) |                   Campeche |                Escárcega |        9 |    4
+ 630395 | IN |               Sagunbahipathar |                      Assam |                 Marigaon |      304 |    1
+ 532886 | PT |                Fajã da Ovelha |                    Madeira |                  Calheta |     3101 |    4
+ 257710 | IN |                       Kartora |             Madhya Pradesh |                  Anuppur |      461 |    3
+  28441 | PH |                       Mulondo |                       null |                     null |     null |    1
+ 345766 | IN |                        Orvada |                    Gujarat |             Panch Mahals |      484 |    3
+ 931093 | FR |                        Hyères | Provence-Alpes-Côte d'Azur |                      Var |       83 |    5
+ 460315 | DZ |                  Akar Damoune |                 Tizi-Ouzou |                     null |     null |    3
+ 362684 | IN |                     Rasoolpur |              Uttar Pradesh |                Barabanki |      176 |    3
+  73524 | FR |                      Mérignac |         Nouvelle-Aquitaine |                  Gironde |       33 |    5
+ 861436 | BY |                      Сосновцы |                    Vitebsk |          Charkovchtchina |     null |    4
+ 385643 | MX |               Villa Encantada |                   Campeche |                   Carmen |        3 |    1
+ 688582 | JP |                    Kushirocho |                Shimane Ken |               Masuda Shi |  1857590 |    1
+ 867673 | PE |                      Vishinca |                   Ayacucho |     Paucar Del Sara Sara |      508 |    3
+ 928093 | FR |                          Lyon |       Auvergne-Rhône-Alpes |                    Rhône |       69 |    5
+ 819622 | FR |                    La Bastide | Provence-Alpes-Côte d'Azur |                      Var |       83 |    5
+ 165099 | CZ |                      Kotoučov |           Středočeský kraj |               Kutná Hora |     3205 |    4
+ 222920 | MX |                       Ayautla |                     Oaxaca |    San Bartolomé Ayautla |      116 |    4
+ 933505 | GB |                      Ningwood |                    England |            Isle of Wight | 11609015 |    3
+  42277 | IN |                        Kondur |                  Telangana |                Nizamabad |      533 |    4
+ 510120 | IN |                        Rampur |                West Bengal |                  Birbhum |      334 |    4
+ 747761 | JP |                        Domeki |                  Chiba Ken |            Sodegaura Shi |  2110982 |    4
+ 982622 | PE |                    El Naranjo |                La Libertad |                   Otuzco |     1306 |    4
+ 922019 | RU |                       Большое |       Владимирская Область |       ГОРОХОВЕЦКИЙ РАЙОН |     null |    4
+ 735470 | FR |               Vavray-le-Grand |                  Grand Est |                    Marne |       51 |    5
+ 290843 | IN |                    Binjhawara |             Madhya Pradesh |               Chhindwara |      455 |    3
+
+(1000 rows)
+
+Tracing session: a67e4e60-04d6-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                           | timestamp                  | source    | source_elapsed | client
+------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                 Execute CQL3 query | 2020-10-02 20:42:32.774000 | 127.0.0.1 |              0 | 127.0.0.1
+                                                              Parsing SELECT *  FROM geo limit 1000; [Native-Transport-Requests-12] | 2020-10-02 20:42:32.774000 | 127.0.0.1 |            112 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-12] | 2020-10-02 20:42:32.774000 | 127.0.0.1 |            156 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-12] | 2020-10-02 20:42:32.774000 | 127.0.0.1 |            209 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-12] | 2020-10-02 20:42:32.774000 | 127.0.0.1 |            302 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-12] | 2020-10-02 20:42:32.775000 | 127.0.0.1 |            419 | 127.0.0.1
+                      Executing seq scan across 1 sstables for (min(-9223372036854775808), min(-9223372036854775808)] [ReadStage-1] | 2020-10-02 20:42:32.775000 | 127.0.0.1 |            471 | 127.0.0.1
+                                                                            Read 100 live rows and 19 tombstone cells [ReadStage-1] | 2020-10-02 20:42:32.775000 | 127.0.0.1 |           1111 | 127.0.0.1
+                                                                                                                   Request complete | 2020-10-02 20:42:32.775497 | 127.0.0.1 |           1497 | 127.0.0.1
+
+
+Tracing session: a681f7e0-04d6-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                           | timestamp                  | source    | source_elapsed | client
+------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                 Execute CQL3 query | 2020-10-02 20:42:32.798000 | 127.0.0.1 |              0 | 127.0.0.1
+                                                              Parsing SELECT *  FROM geo limit 1000; [Native-Transport-Requests-12] | 2020-10-02 20:42:32.798000 | 127.0.0.1 |             37 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-12] | 2020-10-02 20:42:32.798000 | 127.0.0.1 |             71 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-12] | 2020-10-02 20:42:32.798000 | 127.0.0.1 |            105 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-12] | 2020-10-02 20:42:32.798000 | 127.0.0.1 |            174 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-12] | 2020-10-02 20:42:32.798000 | 127.0.0.1 |            283 | 127.0.0.1
+                                         Executing seq scan across 1 sstables for (469519, min(-9223372036854775808)] [ReadStage-1] | 2020-10-02 20:42:32.798001 | 127.0.0.1 |            303 | 127.0.0.1
+                                                                            Read 100 live rows and 24 tombstone cells [ReadStage-1] | 2020-10-02 20:42:32.799000 | 127.0.0.1 |            953 | 127.0.0.1
+                                                                                                                   Request complete | 2020-10-02 20:42:32.799318 | 127.0.0.1 |           1318 | 127.0.0.1
+
+
+Tracing session: a6852c30-04d6-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 20:42:32.819000 | 127.0.0.1 |              0 | 127.0.0.1
+                                                              Parsing SELECT *  FROM geo limit 1000; [Native-Transport-Requests-1] | 2020-10-02 20:42:32.819000 | 127.0.0.1 |             27 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 20:42:32.819000 | 127.0.0.1 |             58 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 20:42:32.819000 | 127.0.0.1 |             91 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 20:42:32.819000 | 127.0.0.1 |            150 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 20:42:32.819000 | 127.0.0.1 |            254 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (816561, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 20:42:32.819000 | 127.0.0.1 |            936 | 127.0.0.1
+                                                                           Read 100 live rows and 29 tombstone cells [ReadStage-3] | 2020-10-02 20:42:32.820000 | 127.0.0.1 |           1542 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 20:42:32.820907 | 127.0.0.1 |           1907 | 127.0.0.1
+
+
+Tracing session: a6886080-04d6-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 20:42:32.840000 | 127.0.0.1 |              0 | 127.0.0.1
+                                                              Parsing SELECT *  FROM geo limit 1000; [Native-Transport-Requests-1] | 2020-10-02 20:42:32.840000 | 127.0.0.1 |             30 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 20:42:32.840000 | 127.0.0.1 |             62 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 20:42:32.840000 | 127.0.0.1 |             92 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 20:42:32.840000 | 127.0.0.1 |            148 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 20:42:32.840000 | 127.0.0.1 |            255 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (411834, min(-9223372036854775808)] [ReadStage-2] | 2020-10-02 20:42:32.840001 | 127.0.0.1 |            271 | 127.0.0.1
+                                                                           Read 100 live rows and 30 tombstone cells [ReadStage-2] | 2020-10-02 20:42:32.841000 | 127.0.0.1 |            914 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 20:42:32.841258 | 127.0.0.1 |           1258 | 127.0.0.1
+
+
+Tracing session: a68b6dc0-04d6-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 20:42:32.860000 | 127.0.0.1 |              0 | 127.0.0.1
+                                                              Parsing SELECT *  FROM geo limit 1000; [Native-Transport-Requests-2] | 2020-10-02 20:42:32.860000 | 127.0.0.1 |             27 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-2] | 2020-10-02 20:42:32.860000 | 127.0.0.1 |             58 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-2] | 2020-10-02 20:42:32.860000 | 127.0.0.1 |             91 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-2] | 2020-10-02 20:42:32.860000 | 127.0.0.1 |            147 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-2] | 2020-10-02 20:42:32.861000 | 127.0.0.1 |            268 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (856334, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 20:42:32.861000 | 127.0.0.1 |            342 | 127.0.0.1
+                                                                           Read 100 live rows and 38 tombstone cells [ReadStage-3] | 2020-10-02 20:42:32.861000 | 127.0.0.1 |            963 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 20:42:32.861327 | 127.0.0.1 |           1327 | 127.0.0.1
+
+
+Tracing session: a68ea210-04d6-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 20:42:32.881000 | 127.0.0.1 |              0 | 127.0.0.1
+                                                              Parsing SELECT *  FROM geo limit 1000; [Native-Transport-Requests-1] | 2020-10-02 20:42:32.881000 | 127.0.0.1 |             26 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 20:42:32.881000 | 127.0.0.1 |             52 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 20:42:32.881001 | 127.0.0.1 |             77 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 20:42:32.881001 | 127.0.0.1 |            131 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 20:42:32.881001 | 127.0.0.1 |            231 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (874983, min(-9223372036854775808)] [ReadStage-2] | 2020-10-02 20:42:32.881001 | 127.0.0.1 |            245 | 127.0.0.1
+                                                                           Read 100 live rows and 26 tombstone cells [ReadStage-2] | 2020-10-02 20:42:32.882000 | 127.0.0.1 |            874 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 20:42:32.882218 | 127.0.0.1 |           1218 | 127.0.0.1
+
+
+Tracing session: a691d660-04d6-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 20:42:32.902000 | 127.0.0.1 |              0 | 127.0.0.1
+                                                              Parsing SELECT *  FROM geo limit 1000; [Native-Transport-Requests-3] | 2020-10-02 20:42:32.902000 | 127.0.0.1 |             32 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-3] | 2020-10-02 20:42:32.902000 | 127.0.0.1 |             61 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-3] | 2020-10-02 20:42:32.902000 | 127.0.0.1 |             91 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-3] | 2020-10-02 20:42:32.902000 | 127.0.0.1 |            144 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-3] | 2020-10-02 20:42:32.902000 | 127.0.0.1 |            253 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (860780, min(-9223372036854775808)] [ReadStage-1] | 2020-10-02 20:42:32.902001 | 127.0.0.1 |            260 | 127.0.0.1
+                                                                           Read 100 live rows and 24 tombstone cells [ReadStage-1] | 2020-10-02 20:42:32.903000 | 127.0.0.1 |            881 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 20:42:32.903232 | 127.0.0.1 |           1232 | 127.0.0.1
+
+
+Tracing session: a694e3a0-04d6-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 20:42:32.922000 | 127.0.0.1 |              0 | 127.0.0.1
+                                                              Parsing SELECT *  FROM geo limit 1000; [Native-Transport-Requests-3] | 2020-10-02 20:42:32.922000 | 127.0.0.1 |             31 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-3] | 2020-10-02 20:42:32.922000 | 127.0.0.1 |             60 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-3] | 2020-10-02 20:42:32.922000 | 127.0.0.1 |             97 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-3] | 2020-10-02 20:42:32.922000 | 127.0.0.1 |            150 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-3] | 2020-10-02 20:42:32.923000 | 127.0.0.1 |            299 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (835161, min(-9223372036854775808)] [ReadStage-2] | 2020-10-02 20:42:32.923000 | 127.0.0.1 |            343 | 127.0.0.1
+                                                                           Read 100 live rows and 24 tombstone cells [ReadStage-2] | 2020-10-02 20:42:32.923000 | 127.0.0.1 |           1113 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 20:42:32.923593 | 127.0.0.1 |           1593 | 127.0.0.1
+
+
+Tracing session: a6983f00-04d6-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 20:42:32.944000 | 127.0.0.1 |              0 | 127.0.0.1
+                                                              Parsing SELECT *  FROM geo limit 1000; [Native-Transport-Requests-1] | 2020-10-02 20:42:32.944000 | 127.0.0.1 |             31 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-1] | 2020-10-02 20:42:32.944000 | 127.0.0.1 |             61 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-1] | 2020-10-02 20:42:32.944000 | 127.0.0.1 |             91 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-1] | 2020-10-02 20:42:32.944000 | 127.0.0.1 |            146 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-1] | 2020-10-02 20:42:32.944000 | 127.0.0.1 |            265 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (669887, min(-9223372036854775808)] [ReadStage-3] | 2020-10-02 20:42:32.944000 | 127.0.0.1 |            299 | 127.0.0.1
+                                                                           Read 100 live rows and 31 tombstone cells [ReadStage-3] | 2020-10-02 20:42:32.945000 | 127.0.0.1 |           1164 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 20:42:32.945540 | 127.0.0.1 |           1540 | 127.0.0.1
+
+
+Tracing session: a69b9a60-04d6-11eb-9a8a-c5b55cd9dee5
+
+ activity                                                                                                                          | timestamp                  | source    | source_elapsed | client
+-----------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------+----------------+-----------
+                                                                                                                Execute CQL3 query | 2020-10-02 20:42:32.966000 | 127.0.0.1 |              0 | 127.0.0.1
+                                                              Parsing SELECT *  FROM geo limit 1000; [Native-Transport-Requests-3] | 2020-10-02 20:42:32.966000 | 127.0.0.1 |             32 | 127.0.0.1
+                                                                                 Preparing statement [Native-Transport-Requests-3] | 2020-10-02 20:42:32.966000 | 127.0.0.1 |             65 | 127.0.0.1
+                                                                           Computing ranges to query [Native-Transport-Requests-3] | 2020-10-02 20:42:32.966000 | 127.0.0.1 |             96 | 127.0.0.1
+ Submitting range requests on 257 ranges with a concurrency of 1 (1172.1001 rows per range expected) [Native-Transport-Requests-3] | 2020-10-02 20:42:32.966000 | 127.0.0.1 |            151 | 127.0.0.1
+                                                               Submitted 1 concurrent range requests [Native-Transport-Requests-3] | 2020-10-02 20:42:32.966000 | 127.0.0.1 |            261 | 127.0.0.1
+                                        Executing seq scan across 1 sstables for (356431, min(-9223372036854775808)] [ReadStage-1] | 2020-10-02 20:42:32.966001 | 127.0.0.1 |            272 | 127.0.0.1
+                                                                           Read 100 live rows and 29 tombstone cells [ReadStage-1] | 2020-10-02 20:42:32.967000 | 127.0.0.1 |            901 | 127.0.0.1
+                                                                                                                  Request complete | 2020-10-02 20:42:32.967260 | 127.0.0.1 |           1260 | 127.0.0.1
+
